@@ -178,6 +178,15 @@ dialog::backdrop { background: rgba(0,0,0,.55); }
 .d-tags { display: grid; grid-template-columns: auto 1fr; gap: 6px 12px; margin: 14px 0; font-size: 13px; }
 .d-tags dt { color: var(--muted); }
 .d-tags dd { margin: 0; display: flex; flex-wrap: wrap; gap: 6px; }
+/* 相似蘑菇：小圆图 + 名称，圆图描边颜色表示对方的毒性 */
+.sim { padding-left: 3px; }
+.sim img { width: 20px; height: 20px; border-radius: 50%; object-fit: cover; border: 2px solid var(--tox-inedible); }
+.sim[data-tox="可食用"] img { border-color: var(--tox-edible); }
+.sim[data-tox="慎食"] img { border-color: var(--tox-caution); }
+.sim[data-tox="有毒"] img { border-color: var(--tox-toxic); }
+.sim[data-tox="剧毒"] img { border-color: var(--tox-deadly); }
+.sim[data-confusable="true"] { border-color: var(--tox-toxic); }
+.sim-flag { font-size: 11px; color: var(--tox-toxic); font-weight: 600; }
 a { color: var(--accent); }
 
 footer { padding: 20px; text-align: center; color: var(--muted); font-size: 12px; border-top: 1px solid var(--line); }
@@ -191,6 +200,21 @@ footer { padding: 20px; text-align: center; color: var(--muted); font-size: 12px
   .extract p { display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 5; overflow: hidden; }
   .d-tags { margin: 12px 0; gap: 5px 12px; }
   .d-close { background: rgba(128,128,128,.25); color: var(--text); }
+}
+
+/* 窗口较矮时再少显示两行摘要，给标签和相似蘑菇留出位置 */
+@media (min-width: 900px) and (max-height: 760px) {
+  .extract p { -webkit-line-clamp: 3; }
+  .d-tags { margin: 10px 0; }
+}
+
+@media (min-width: 900px) and (max-height: 660px) {
+  .d-body { padding: 10px 20px 12px; }
+  .note { margin: 6px 0; }
+  .extract { padding: 6px 12px; margin: 6px 0; }
+  .extract b { display: none; }
+  .extract p { -webkit-line-clamp: 2; }
+  .d-tags { margin: 8px 0; gap: 4px 12px; }
 }
 
 @media (max-width: 760px) {

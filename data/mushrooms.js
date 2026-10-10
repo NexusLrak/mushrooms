@@ -30,6 +30,10 @@ window.MUSHROOMS = [
    "有菌环",
    "有菌托"
   ],
+  "lookalikes": [
+   "Russula virescens",
+   "Volvariella volvacea"
+  ],
   "note": "全球致死蘑菇中毒的头号元凶，含鹅膏毒肽，损伤肝肾。菌盖橄榄绿至黄绿，菌褶白色，有菌环和袋状菌托。中毒后有“假愈期”，极易延误治疗。",
   "id": "amanita-phalloides",
   "extract": "毒鹅膏，又名死帽菇，为一种鹅膏菌属的剧毒真菌。其广泛分布在亚欧大陆，并且以菌根型式共生于落叶性乔木。在某些案例中，毒鹅膏会因种植如橡树、栗树和松树的非本土树种，而意外散播到新的环境中。大型的植物部分（子实体）在夏季和秋季出现；菌伞一般呈现绿色，并且有白色的菌柄和菌褶。\n",
@@ -37,6 +41,7 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E6%AF%92%E9%B5%9D%E8%86%8F"
   },
+  "thumb": "images/thumb/amanita-phalloides.webp",
   "images": [
    {
     "src": "images/amanita-phalloides-1.webp",
@@ -68,8 +73,7 @@ window.MUSHROOMS = [
     "license": "CC-BY",
     "url": "https://www.inaturalist.org/photos/245302130"
    }
-  ],
-  "thumb": "images/thumb/amanita-phalloides.webp"
+  ]
  },
  {
   "latin": "Amanita exitialis",
@@ -97,6 +101,10 @@ window.MUSHROOMS = [
    "有菌环",
    "有菌托"
   ],
+  "lookalikes": [
+   "Amanita virosa",
+   "Volvariella volvacea"
+  ],
   "note": "广东等地春季中毒死亡事件的主要种类，通体纯白，常生于黧蒴锥林下。一两朵即可致命。",
   "id": "amanita-exitialis",
   "extract": "",
@@ -104,6 +112,7 @@ window.MUSHROOMS = [
    "name": "英文维基百科",
    "url": "https://en.wikipedia.org/wiki/Amanita_exitialis"
   },
+  "thumb": "images/thumb/amanita-exitialis.webp",
   "images": [
    {
     "src": "images/amanita-exitialis-1.webp",
@@ -111,8 +120,7 @@ window.MUSHROOMS = [
     "license": "CC-BY-NC",
     "url": "https://www.inaturalist.org/photos/137570621"
    }
-  ],
-  "thumb": "images/thumb/amanita-exitialis.webp"
+  ]
  },
  {
   "latin": "Amanita virosa",
@@ -144,6 +152,10 @@ window.MUSHROOMS = [
    "有菌环",
    "有菌托"
   ],
+  "lookalikes": [
+   "Agaricus bisporus",
+   "Calvatia gigantea"
+  ],
   "note": "通体雪白，菌柄有纤毛状鳞片，基部有袋状菌托。与可食的白色蘑菇极易混淆，含鹅膏毒肽。",
   "id": "amanita-virosa",
   "extract": "鳞柄白鹅膏，又称毁灭天使、招魂天使、破坏天使，是一个隶属于伞菌目鹅膏菌科鹅膏菌属下的有毒真菌种。其为中至大型菇菌，全体白色，只是菌盖的中央为淡黄色圆顶状突起，湿时具黏性。有膜质菌环，极易脱落。此菇外貌似可食用的洋菇，但是毒性极强，会对肝脏造成损坏，是致死率极高的毒蕈。\n",
@@ -151,6 +163,7 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E9%B1%97%E6%9F%84%E7%99%BD%E9%B5%9D%E8%86%8F"
   },
+  "thumb": "images/thumb/amanita-virosa.webp",
   "images": [
    {
     "src": "images/amanita-virosa-1.webp",
@@ -182,8 +195,7 @@ window.MUSHROOMS = [
     "license": "CC-BY-NC",
     "url": "https://www.inaturalist.org/photos/90136375"
    }
-  ],
-  "thumb": "images/thumb/amanita-virosa.webp"
+  ]
  },
  {
   "latin": "Amanita fuliginea",
@@ -221,6 +233,7 @@ window.MUSHROOMS = [
    "name": "英文维基百科",
    "url": "https://en.wikipedia.org/wiki/Amanita_fuliginea"
   },
+  "thumb": "images/thumb/amanita-fuliginea.webp",
   "images": [
    {
     "src": "images/amanita-fuliginea-1.webp",
@@ -252,8 +265,7 @@ window.MUSHROOMS = [
     "license": "CC-BY-NC",
     "url": "https://www.inaturalist.org/photos/294045042"
    }
-  ],
-  "thumb": "images/thumb/amanita-fuliginea.webp"
+  ]
  },
  {
   "latin": "Amanita subjunquillea",
@@ -293,6 +305,7 @@ window.MUSHROOMS = [
    "name": "英文维基百科",
    "url": "https://en.wikipedia.org/wiki/Amanita_subjunquillea"
   },
+  "thumb": "images/thumb/amanita-subjunquillea.webp",
   "images": [
    {
     "src": "images/amanita-subjunquillea-1.webp",
@@ -324,8 +337,7 @@ window.MUSHROOMS = [
     "license": "CC-BY-NC",
     "url": "https://www.inaturalist.org/photos/100679107"
    }
-  ],
-  "thumb": "images/thumb/amanita-subjunquillea.webp"
+  ]
  },
  {
   "latin": "Amanita muscaria",
@@ -360,6 +372,10 @@ window.MUSHROOMS = [
    "有菌环",
    "有菌托"
   ],
+  "lookalikes": [
+   "Amanita hemibapha",
+   "Amanita pantherina"
+  ],
   "note": "最具辨识度的蘑菇：鲜红菌盖上散布白色疣状鳞片。含鹅膏蕈氨酸和蝇蕈醇，引起神经精神症状。常与桦树、松树共生。",
   "id": "amanita-muscaria",
   "extract": "毒蝇伞，俗称毒蝇鹅膏菌、蝇伞菌，是鹅膏菌属的一种担子菌。这种大型蘑菇特征为白色的菌鳃、白色斑点，外观通常为红色。\n",
@@ -367,6 +383,7 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E6%AF%92%E8%A0%85%E5%82%98"
   },
+  "thumb": "images/thumb/amanita-muscaria.webp",
   "images": [
    {
     "src": "images/amanita-muscaria-1.webp",
@@ -398,8 +415,7 @@ window.MUSHROOMS = [
     "license": "CC-BY-NC",
     "url": "https://www.inaturalist.org/photos/38820691"
    }
-  ],
-  "thumb": "images/thumb/amanita-muscaria.webp"
+  ]
  },
  {
   "latin": "Amanita pantherina",
@@ -439,6 +455,7 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E8%B1%B9%E6%96%91%E9%B5%9D%E8%86%8F"
   },
+  "thumb": "images/thumb/amanita-pantherina.webp",
   "images": [
    {
     "src": "images/amanita-pantherina-1.webp",
@@ -470,8 +487,7 @@ window.MUSHROOMS = [
     "license": "CC-BY-NC",
     "url": "https://www.inaturalist.org/photos/1006980"
    }
-  ],
-  "thumb": "images/thumb/amanita-pantherina.webp"
+  ]
  },
  {
   "latin": "Amanita hemibapha",
@@ -511,6 +527,7 @@ window.MUSHROOMS = [
    "name": "英文维基百科",
    "url": "https://en.wikipedia.org/wiki/Amanita_hemibapha"
   },
+  "thumb": "images/thumb/amanita-hemibapha.webp",
   "images": [
    {
     "src": "images/amanita-hemibapha-1.webp",
@@ -524,8 +541,7 @@ window.MUSHROOMS = [
     "license": "CC-BY",
     "url": "https://www.inaturalist.org/photos/2069631"
    }
-  ],
-  "thumb": "images/thumb/amanita-hemibapha.webp"
+  ]
  },
  {
   "latin": "Galerina marginata",
@@ -556,6 +572,11 @@ window.MUSHROOMS = [
   "traits": [
    "有菌环"
   ],
+  "lookalikes": [
+   "Flammulina filiformis",
+   "Armillaria mellea",
+   "Hypholoma fasciculare"
+  ],
   "note": "不起眼的黄褐色小蘑菇，簇生于腐木上，含鹅膏毒肽。常被误认作蜜环菌或金针菇野生型。",
   "id": "galerina-marginata",
   "extract": "纹缘盔孢伞 是一种盔孢伞属腐生真菌，主要生长在腐烂的针叶树上。广泛分布于北半球，包括欧亚大陆和北美，在澳大利亚也有发现。它含有与毒鹅膏中发现的相同的致命α-鹅膏蕈碱。摄入后如果不及时治疗，会导致严重的肝损伤，包括呕吐、腹泻、体温过低，并最终死亡。由于外观相似，它可能会被误认为是一些食用菌种，例如蜜环菌和库恩菇（毛柄库恩菇、多变库恩菇）。\n\n",
@@ -563,6 +584,7 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E7%B4%8B%E7%B7%A3%E7%9B%94%E5%AD%A2%E5%82%98"
   },
+  "thumb": "images/thumb/galerina-marginata.webp",
   "images": [
    {
     "src": "images/galerina-marginata-1.webp",
@@ -594,8 +616,7 @@ window.MUSHROOMS = [
     "license": "CC-BY",
     "url": "https://www.inaturalist.org/photos/456762435"
    }
-  ],
-  "thumb": "images/thumb/galerina-marginata.webp"
+  ]
  },
  {
   "latin": "Lepiota brunneoincarnata",
@@ -629,6 +650,7 @@ window.MUSHROOMS = [
    "name": "英文维基百科",
    "url": "https://en.wikipedia.org/wiki/Lepiota_brunneoincarnata"
   },
+  "thumb": "images/thumb/lepiota-brunneoincarnata.webp",
   "images": [
    {
     "src": "images/lepiota-brunneoincarnata-1.webp",
@@ -660,8 +682,7 @@ window.MUSHROOMS = [
     "license": "CC-BY-NC",
     "url": "https://www.inaturalist.org/photos/115088539"
    }
-  ],
-  "thumb": "images/thumb/lepiota-brunneoincarnata.webp"
+  ]
  },
  {
   "latin": "Russula subnigricans",
@@ -703,6 +724,7 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E4%BA%9A%E7%A8%80%E8%A4%B6%E9%BB%91%E8%8F%87"
   },
+  "thumb": "images/thumb/russula-subnigricans.webp",
   "images": [
    {
     "src": "images/russula-subnigricans-1.webp",
@@ -716,8 +738,7 @@ window.MUSHROOMS = [
     "license": "CC-BY-NC",
     "url": "https://www.inaturalist.org/photos/102564323"
    }
-  ],
-  "thumb": "images/thumb/russula-subnigricans.webp"
+  ]
  },
  {
   "latin": "Gyromitra esculenta",
@@ -743,6 +764,9 @@ window.MUSHROOMS = [
    "春"
   ],
   "traits": [],
+  "lookalikes": [
+   "Morchella esculenta"
+  ],
   "note": "菌盖呈脑状皱褶而非蜂窝状，是羊肚菌最危险的相似种。含鹿花菌素，可代谢为火箭燃料成分甲基肼。",
   "id": "gyromitra-esculenta",
   "extract": "鹿花菌，又名鹿花蕈或河豚菌，是鹿花菌属下的假羊肚菌，分布在欧洲及北美洲。它们生长在针叶林的沙质土壤，于春天及初夏长成。子囊果的菌盖为深褐色，呈不规则的脑状，高10厘米及阔15厘米，蕈柄长6厘米及是白色的。\n",
@@ -750,6 +774,7 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E9%B9%BF%E8%8A%B1%E8%8F%8C"
   },
+  "thumb": "images/thumb/gyromitra-esculenta.webp",
   "images": [
    {
     "src": "images/gyromitra-esculenta-1.webp",
@@ -781,8 +806,7 @@ window.MUSHROOMS = [
     "license": "CC-BY-NC",
     "url": "https://www.inaturalist.org/photos/190209518"
    }
-  ],
-  "thumb": "images/thumb/gyromitra-esculenta.webp"
+  ]
  },
  {
   "latin": "Cortinarius orellanus",
@@ -816,6 +840,7 @@ window.MUSHROOMS = [
    "name": "英文维基百科",
    "url": "https://en.wikipedia.org/wiki/Cortinarius_orellanus"
   },
+  "thumb": "images/thumb/cortinarius-orellanus.webp",
   "images": [
    {
     "src": "images/cortinarius-orellanus-1.webp",
@@ -847,8 +872,7 @@ window.MUSHROOMS = [
     "license": "CC-BY-NC",
     "url": "https://www.inaturalist.org/photos/112598488"
    }
-  ],
-  "thumb": "images/thumb/cortinarius-orellanus.webp"
+  ]
  },
  {
   "latin": "Trogia venenata",
@@ -879,6 +903,7 @@ window.MUSHROOMS = [
    "name": "英文维基百科",
    "url": "https://en.wikipedia.org/wiki/Trogia_venenata"
   },
+  "thumb": "images/thumb/trogia-venenata.webp",
   "images": [
    {
     "src": "images/trogia-venenata-1.webp",
@@ -886,8 +911,7 @@ window.MUSHROOMS = [
     "license": "CC-BY-NC",
     "url": "https://www.inaturalist.org/photos/230284428"
    }
-  ],
-  "thumb": "images/thumb/trogia-venenata.webp"
+  ]
  },
  {
   "latin": "Trichoderma cornu-damae",
@@ -915,6 +939,10 @@ window.MUSHROOMS = [
    "秋"
   ],
   "traits": [],
+  "lookalikes": [
+   "Ganoderma lingzhi",
+   "Cordyceps militaris"
+  ],
   "note": "形似红色鹿角或火焰，含单端孢霉烯族毒素，据称接触皮肤即可引起炎症。曾被误当作幼嫩灵芝或虫草。",
   "id": "trichoderma-cornu-damae",
   "extract": "火焰茸，又称“鹿角肉座壳菌”，在中国亦称“丛生肉棒菌”。为肉座菌目肉座菌科木霉菌属的腐生性子囊菌真菌，是目前已知毒性最强的毒蕈。\n",
@@ -922,6 +950,7 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E7%81%AB%E7%84%B0%E8%8C%B8"
   },
+  "thumb": "images/thumb/trichoderma-cornu-damae.webp",
   "images": [
    {
     "src": "images/trichoderma-cornu-damae-1.webp",
@@ -953,8 +982,7 @@ window.MUSHROOMS = [
     "license": "CC-BY-NC",
     "url": "https://www.inaturalist.org/photos/256719819"
    }
-  ],
-  "thumb": "images/thumb/trichoderma-cornu-damae.webp"
+  ]
  },
  {
   "latin": "Chlorophyllum molybdites",
@@ -988,6 +1016,9 @@ window.MUSHROOMS = [
   "traits": [
    "有菌环"
   ],
+  "lookalikes": [
+   "Macrolepiota procera"
+  ],
   "note": "中国引发中毒事件最多的蘑菇。大型、白色带褐色鳞片，常在雨后草坪成群出现；成熟后菌褶变青绿色是关键特征。引起剧烈胃肠炎。",
   "id": "chlorophyllum-molybdites",
   "extract": "大青褶伞 又称绿孢环柄菇，俗称绿褶菇，是蘑菇科青褶伞属的一种真菌。成长时蕈伞先是白色再渐变成浅土色，直径约十多公分，菌柄可高达十五公分，菌褶幼时白色成熟后渐成灰绿色，即名字绿褶菇的由来，孢子印为暗绿色。\n",
@@ -995,6 +1026,7 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E5%A4%A7%E9%9D%92%E8%A4%B6%E4%BC%9E"
   },
+  "thumb": "images/thumb/chlorophyllum-molybdites.webp",
   "images": [
    {
     "src": "images/chlorophyllum-molybdites-1.webp",
@@ -1026,8 +1058,7 @@ window.MUSHROOMS = [
     "license": "CC-BY-NC",
     "url": "https://www.inaturalist.org/photos/4619144"
    }
-  ],
-  "thumb": "images/thumb/chlorophyllum-molybdites.webp"
+  ]
  },
  {
   "latin": "Omphalotus japonicus",
@@ -1056,6 +1087,10 @@ window.MUSHROOMS = [
   "traits": [
    "发光"
   ],
+  "lookalikes": [
+   "Pleurotus ostreatus",
+   "Lentinula edodes"
+  ],
   "note": "生于枯木上，外形像平菇或香菇，菌褶在黑暗中发出微弱绿光。剖开菌柄基部常有黑斑。",
   "id": "omphalotus-japonicus",
   "extract": "",
@@ -1063,6 +1098,7 @@ window.MUSHROOMS = [
    "name": "英文维基百科",
    "url": "https://en.wikipedia.org/wiki/Omphalotus_japonicus"
   },
+  "thumb": "images/thumb/omphalotus-japonicus.webp",
   "images": [
    {
     "src": "images/omphalotus-japonicus-1.webp",
@@ -1094,8 +1130,7 @@ window.MUSHROOMS = [
     "license": "CC-BY-NC",
     "url": "https://www.inaturalist.org/photos/249022626"
    }
-  ],
-  "thumb": "images/thumb/omphalotus-japonicus.webp"
+  ]
  },
  {
   "latin": "Hypholoma fasciculare",
@@ -1128,6 +1163,9 @@ window.MUSHROOMS = [
    "秋"
   ],
   "traits": [],
+  "lookalikes": [
+   "Armillaria mellea"
+  ],
   "note": "硫磺黄色，大簇生于树桩，菌褶带橄榄绿色，味极苦。常见，引起胃肠炎。",
   "id": "hypholoma-fasciculare",
   "extract": "簇生黄韧伞 是一种常见的林地蘑菇，属球盖菇科韧伞属。这种真菌往往成簇生长在树桩、死根或阔叶树腐烂的树干上。\n",
@@ -1135,6 +1173,7 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E7%B0%87%E7%94%9F%E9%BB%84%E9%9F%A7%E4%BC%9E"
   },
+  "thumb": "images/thumb/hypholoma-fasciculare.webp",
   "images": [
    {
     "src": "images/hypholoma-fasciculare-1.webp",
@@ -1166,8 +1205,7 @@ window.MUSHROOMS = [
     "license": "CC-BY-NC",
     "url": "https://www.inaturalist.org/photos/243108524"
    }
-  ],
-  "thumb": "images/thumb/hypholoma-fasciculare.webp"
+  ]
  },
  {
   "latin": "Russula emetica",
@@ -1197,6 +1235,9 @@ window.MUSHROOMS = [
   "traits": [
    "菌根"
   ],
+  "lookalikes": [
+   "Russula griseocarnosa"
+  ],
   "note": "鲜红菌盖、纯白菌褶和菌柄，味辛辣。生食引起呕吐腹泻。红菇属种类繁多，红色种类之间极难区分。",
   "id": "russula-emetica",
   "extract": "毒红菇 俗称呕吐红菇 、催吐红菇 、棺材盖子、小红脸菌、毒胭脂菌，是一种担子菌门真菌，为红菇属的模式种。这种真菌的菌盖呈红色，平滑而有光泽，直径为2.5-8.5厘米，边缘色淡、有棱纹，菌盖皮易剥离。菌肉、菌褶为白色，味麻辣。光滑的白色菌柄长4.5-10.5厘米、粗0.7-2.4厘米。生于潮湿林地中，与松树等多种树木形成菌根。在北半球分布广泛，在中国河北、内蒙古、辽宁、吉林、黑龙江、江苏、安徽、福建、山东、河南、湖北、湖南、广东、广西、四川、贵州、云南、西藏、陕西、甘肃、香港、均有分布，另外在台湾也有分布。\n",
@@ -1204,6 +1245,7 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E6%AF%92%E7%BA%A2%E8%8F%87"
   },
+  "thumb": "images/thumb/russula-emetica.webp",
   "images": [
    {
     "src": "images/russula-emetica-1.webp",
@@ -1235,8 +1277,7 @@ window.MUSHROOMS = [
     "license": "CC-BY-NC",
     "url": "https://www.inaturalist.org/photos/329251248"
    }
-  ],
-  "thumb": "images/thumb/russula-emetica.webp"
+  ]
  },
  {
   "latin": "Lactarius torminosus",
@@ -1267,6 +1308,9 @@ window.MUSHROOMS = [
    "菌根",
    "有乳汁"
   ],
+  "lookalikes": [
+   "Lactarius deliciosus"
+  ],
   "note": "粉红色菌盖带同心环纹，边缘有长绒毛，与桦树共生，乳汁白色辛辣。生食有毒；北欧、俄罗斯经腌制去辣后食用。",
   "id": "lactarius-torminosus",
   "extract": "绒毛乳菇 又称疝疼乳菇，是乳菇属的一种真菌，最早于1774年由德国真菌学家雅各布·舍费尔发表描述，当时被归入伞菌属中；1821年又由塞缪尔·弗里德里克·格雷改置于乳菇属，其种小名torminosus意为“折磨人的、造成腹痛的”，指生食本种后会产生肠胃不适的症状。2011年红菇科类群因分子证据而发生许多分类改动，本种由此被作为乳菇属的模式种。绒毛乳菇分布于欧洲、北非、亚洲与北美洲等北半球的温带至副极地地区。\n",
@@ -1274,6 +1318,7 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E7%B5%A8%E6%AF%9B%E4%B9%B3%E8%8F%87"
   },
+  "thumb": "images/thumb/lactarius-torminosus.webp",
   "images": [
    {
     "src": "images/lactarius-torminosus-1.webp",
@@ -1287,8 +1332,7 @@ window.MUSHROOMS = [
     "license": "CC-BY",
     "url": "https://www.inaturalist.org/photos/29239661"
    }
-  ],
-  "thumb": "images/thumb/lactarius-torminosus.webp"
+  ]
  },
  {
   "latin": "Coprinopsis atramentaria",
@@ -1324,6 +1368,9 @@ window.MUSHROOMS = [
   "traits": [
    "自溶"
   ],
+  "lookalikes": [
+   "Coprinus comatus"
+  ],
   "note": "成熟后菌褶自溶成墨汁。本身可食，但含鬼伞素，食用前后数日内饮酒会出现类似双硫仑反应的中毒症状。",
   "id": "coprinopsis-atramentaria",
   "extract": "墨汁鬼伞，又名鬼盖、鬼伞、鬼屋、鬼菌或朝生地盖，以往为分类在鬼伞属下，现归为拟鬼伞属。是继鸡腿菇后第二著名的墨汁伞。它的种名是由拉丁文的“墨汁”而来。\n",
@@ -1331,6 +1378,7 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E5%A2%A8%E6%B1%81%E9%AC%BC%E5%82%98"
   },
+  "thumb": "images/thumb/coprinopsis-atramentaria.webp",
   "images": [
    {
     "src": "images/coprinopsis-atramentaria-1.webp",
@@ -1362,8 +1410,7 @@ window.MUSHROOMS = [
     "license": "CC-BY-NC",
     "url": "https://www.inaturalist.org/photos/2409764"
    }
-  ],
-  "thumb": "images/thumb/coprinopsis-atramentaria.webp"
+  ]
  },
  {
   "latin": "Psilocybe cubensis",
@@ -1402,6 +1449,7 @@ window.MUSHROOMS = [
    "name": "英文维基百科",
    "url": "https://en.wikipedia.org/wiki/Psilocybe_cubensis"
   },
+  "thumb": "images/thumb/psilocybe-cubensis.webp",
   "images": [
    {
     "src": "images/psilocybe-cubensis-1.webp",
@@ -1433,8 +1481,7 @@ window.MUSHROOMS = [
     "license": "CC-BY",
     "url": "https://www.inaturalist.org/photos/251184657"
    }
-  ],
-  "thumb": "images/thumb/psilocybe-cubensis.webp"
+  ]
  },
  {
   "latin": "Gymnopilus junonius",
@@ -1474,6 +1521,7 @@ window.MUSHROOMS = [
    "name": "英文维基百科",
    "url": "https://en.wikipedia.org/wiki/Gymnopilus_junonius"
   },
+  "thumb": "images/thumb/gymnopilus-junonius.webp",
   "images": [
    {
     "src": "images/gymnopilus-junonius-1.webp",
@@ -1505,8 +1553,7 @@ window.MUSHROOMS = [
     "license": "CC-BY-SA",
     "url": "https://www.inaturalist.org/photos/2548963"
    }
-  ],
-  "thumb": "images/thumb/gymnopilus-junonius.webp"
+  ]
  },
  {
   "latin": "Scleroderma citrinum",
@@ -1536,6 +1583,10 @@ window.MUSHROOMS = [
   "traits": [
    "菌根"
   ],
+  "lookalikes": [
+   "Lycoperdon perlatum",
+   "Calvatia gigantea"
+  ],
   "note": "外皮厚硬、有龟裂鳞片，内部早期即呈紫黑色，以此区别于内部纯白的可食马勃。引起胃肠炎。",
   "id": "scleroderma-citrinum",
   "extract": "",
@@ -1543,6 +1594,7 @@ window.MUSHROOMS = [
    "name": "英文维基百科",
    "url": "https://en.wikipedia.org/wiki/Scleroderma_citrinum"
   },
+  "thumb": "images/thumb/scleroderma-citrinum.webp",
   "images": [
    {
     "src": "images/scleroderma-citrinum-1.webp",
@@ -1574,8 +1626,7 @@ window.MUSHROOMS = [
     "license": "CC-BY-NC",
     "url": "https://www.inaturalist.org/photos/5459804"
    }
-  ],
-  "thumb": "images/thumb/scleroderma-citrinum.webp"
+  ]
  },
  {
   "latin": "Paxillus involutus",
@@ -1614,6 +1665,7 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E5%8D%B7%E7%BC%98%E6%A1%A9%E8%8F%87"
   },
+  "thumb": "images/thumb/paxillus-involutus.webp",
   "images": [
    {
     "src": "images/paxillus-involutus-1.webp",
@@ -1645,8 +1697,7 @@ window.MUSHROOMS = [
     "license": "CC-BY-NC",
     "url": "https://www.inaturalist.org/photos/206737336"
    }
-  ],
-  "thumb": "images/thumb/paxillus-involutus.webp"
+  ]
  },
  {
   "latin": "Entoloma sinuatum",
@@ -1683,6 +1734,7 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E6%AF%92%E7%B2%89%E8%A4%B6%E8%8F%8C"
   },
+  "thumb": "images/thumb/entoloma-sinuatum.webp",
   "images": [
    {
     "src": "images/entoloma-sinuatum-1.webp",
@@ -1702,8 +1754,7 @@ window.MUSHROOMS = [
     "license": "CC-BY-NC",
     "url": "https://www.inaturalist.org/photos/244654460"
    }
-  ],
-  "thumb": "images/thumb/entoloma-sinuatum.webp"
+  ]
  },
  {
   "latin": "Agaricus xanthodermus",
@@ -1733,6 +1784,9 @@ window.MUSHROOMS = [
    "伤变色",
    "有菌环"
   ],
+  "lookalikes": [
+   "Agaricus bisporus"
+  ],
   "note": "外形像野生双孢蘑菇，但擦伤后迅速变鲜黄色（菌柄基部尤甚），并有石炭酸（墨水）气味。",
   "id": "agaricus-xanthodermus",
   "extract": "黄斑蘑菇，又称黄斑伞菌、黄变菇，是伞菌属中的一种真菌。当其菌柄基部被切开时，会呈现出明显的黄色。它带有一种类似石炭酸（酚）的气味。这种蘑菇对大多数人来说是有毒的，会引起肠胃不适，但有些人食用后似乎没有明显的不良反应。\n",
@@ -1740,6 +1794,7 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E9%BB%84%E6%96%91%E8%98%91%E8%8F%87"
   },
+  "thumb": "images/thumb/agaricus-xanthodermus.webp",
   "images": [
    {
     "src": "images/agaricus-xanthodermus-1.webp",
@@ -1771,8 +1826,7 @@ window.MUSHROOMS = [
     "license": "CC-BY-NC",
     "url": "https://www.inaturalist.org/photos/1309470"
    }
-  ],
-  "thumb": "images/thumb/agaricus-xanthodermus.webp"
+  ]
  },
  {
   "latin": "Tricholoma equestre",
@@ -1808,6 +1862,7 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E6%B2%B9%E5%8F%A3%E8%98%91"
   },
+  "thumb": "images/thumb/tricholoma-equestre.webp",
   "images": [
    {
     "src": "images/tricholoma-equestre-1.webp",
@@ -1839,8 +1894,7 @@ window.MUSHROOMS = [
     "license": "CC-BY-NC-SA",
     "url": "https://www.inaturalist.org/photos/4160648"
    }
-  ],
-  "thumb": "images/thumb/tricholoma-equestre.webp"
+  ]
  },
  {
   "latin": "Hygrocybe conica",
@@ -1881,6 +1935,7 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E9%8C%90%E5%BD%A2%E6%BF%95%E5%82%98"
   },
+  "thumb": "images/thumb/hygrocybe-conica.webp",
   "images": [
    {
     "src": "images/hygrocybe-conica-1.webp",
@@ -1912,8 +1967,7 @@ window.MUSHROOMS = [
     "license": "CC-BY-NC",
     "url": "https://www.inaturalist.org/photos/10624929"
    }
-  ],
-  "thumb": "images/thumb/hygrocybe-conica.webp"
+  ]
  },
  {
   "latin": "Lanmaoa asiatica",
@@ -1952,6 +2006,7 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E4%BA%9A%E6%B4%B2%E5%85%B0%E8%8C%82%E7%89%9B%E8%82%9D%E8%8F%8C"
   },
+  "thumb": "images/thumb/lanmaoa-asiatica.webp",
   "images": [
    {
     "src": "images/lanmaoa-asiatica-1.webp",
@@ -1965,8 +2020,7 @@ window.MUSHROOMS = [
     "license": "CC-BY-NC",
     "url": "https://www.inaturalist.org/photos/400667980"
    }
-  ],
-  "thumb": "images/thumb/lanmaoa-asiatica.webp"
+  ]
  },
  {
   "latin": "Tylopilus felleus",
@@ -1995,6 +2049,9 @@ window.MUSHROOMS = [
   "traits": [
    "菌根"
   ],
+  "lookalikes": [
+   "Boletus edulis"
+  ],
   "note": "外形酷似美味牛肝菌，但菌孔粉红、菌柄有深色网纹，味道奇苦，一朵就能毁掉一锅菜。",
   "id": "tylopilus-felleus",
   "extract": "",
@@ -2002,6 +2059,7 @@ window.MUSHROOMS = [
    "name": "英文维基百科",
    "url": "https://en.wikipedia.org/wiki/Tylopilus_felleus"
   },
+  "thumb": "images/thumb/tylopilus-felleus.webp",
   "images": [
    {
     "src": "images/tylopilus-felleus-1.webp",
@@ -2033,8 +2091,7 @@ window.MUSHROOMS = [
     "license": "CC-BY-NC-SA",
     "url": "https://www.inaturalist.org/photos/13079490"
    }
-  ],
-  "thumb": "images/thumb/tylopilus-felleus.webp"
+  ]
  },
  {
   "latin": "Lentinula edodes",
@@ -2075,6 +2132,7 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E9%A6%99%E8%8F%87"
   },
+  "thumb": "images/thumb/lentinula-edodes.webp",
   "images": [
    {
     "src": "images/lentinula-edodes-1.webp",
@@ -2106,8 +2164,7 @@ window.MUSHROOMS = [
     "license": "CC-BY-NC",
     "url": "https://www.inaturalist.org/photos/352368602"
    }
-  ],
-  "thumb": "images/thumb/lentinula-edodes.webp"
+  ]
  },
  {
   "latin": "Pleurotus ostreatus",
@@ -2152,6 +2209,7 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E5%B9%B3%E8%8F%87"
   },
+  "thumb": "images/thumb/pleurotus-ostreatus.webp",
   "images": [
    {
     "src": "images/pleurotus-ostreatus-1.webp",
@@ -2165,8 +2223,7 @@ window.MUSHROOMS = [
     "license": "CC-BY-NC",
     "url": "https://www.inaturalist.org/photos/5909842"
    }
-  ],
-  "thumb": "images/thumb/pleurotus-ostreatus.webp"
+  ]
  },
  {
   "latin": "Pleurotus eryngii",
@@ -2202,6 +2259,7 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E6%9D%8F%E9%AE%91%E8%8F%87"
   },
+  "thumb": "images/thumb/pleurotus-eryngii.webp",
   "images": [
    {
     "src": "images/pleurotus-eryngii-1.webp",
@@ -2221,8 +2279,7 @@ window.MUSHROOMS = [
     "license": "CC-BY",
     "url": "https://www.inaturalist.org/photos/29410382"
    }
-  ],
-  "thumb": "images/thumb/pleurotus-eryngii.webp"
+  ]
  },
  {
   "latin": "Flammulina filiformis",
@@ -2265,6 +2322,7 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E9%87%91%E9%87%9D%E8%8F%87"
   },
+  "thumb": "images/thumb/flammulina-filiformis.webp",
   "images": [
    {
     "src": "images/flammulina-filiformis-1.webp",
@@ -2296,8 +2354,7 @@ window.MUSHROOMS = [
     "license": "CC-BY-NC",
     "url": "https://www.inaturalist.org/photos/437914182"
    }
-  ],
-  "thumb": "images/thumb/flammulina-filiformis.webp"
+  ]
  },
  {
   "latin": "Agaricus bisporus",
@@ -2337,6 +2394,7 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E9%9B%99%E5%AD%A2%E8%98%91%E8%8F%87"
   },
+  "thumb": "images/thumb/agaricus-bisporus.webp",
   "images": [
    {
     "src": "images/agaricus-bisporus-1.webp",
@@ -2368,8 +2426,7 @@ window.MUSHROOMS = [
     "license": "CC-BY-NC",
     "url": "https://www.inaturalist.org/photos/14402880"
    }
-  ],
-  "thumb": "images/thumb/agaricus-bisporus.webp"
+  ]
  },
  {
   "latin": "Auricularia heimuer",
@@ -2402,6 +2459,9 @@ window.MUSHROOMS = [
    "栽培",
    "胶质"
   ],
+  "lookalikes": [
+   "Auricularia cornea"
+  ],
   "note": "胶质、耳状，生于阔叶树枯木。注意：长时间泡发的木耳可能滋生椰毒假单胞菌，产生致命的米酵菌酸——那是细菌污染，不是木耳本身有毒。",
   "id": "auricularia-heimuer",
   "extract": "黑木耳，又称云耳、木耳、木檽、光木耳、木蕊、木菌、树鸡、䓴（音同“软”）、薷（音同“蠕”），是木耳科木耳属一种食用菌。\n",
@@ -2409,6 +2469,7 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E9%BB%91%E6%9C%A8%E8%80%B3"
   },
+  "thumb": "images/thumb/auricularia-heimuer.webp",
   "images": [
    {
     "src": "images/auricularia-heimuer-1.webp",
@@ -2440,8 +2501,7 @@ window.MUSHROOMS = [
     "license": "CC-BY-SA",
     "url": "https://www.inaturalist.org/photos/99224303"
    }
-  ],
-  "thumb": "images/thumb/auricularia-heimuer.webp"
+  ]
  },
  {
   "latin": "Auricularia cornea",
@@ -2483,6 +2543,7 @@ window.MUSHROOMS = [
    "name": "英文维基百科",
    "url": "https://en.wikipedia.org/wiki/Auricularia_cornea"
   },
+  "thumb": "images/thumb/auricularia-cornea.webp",
   "images": [
    {
     "src": "images/auricularia-cornea-1.webp",
@@ -2502,8 +2563,7 @@ window.MUSHROOMS = [
     "license": "CC-BY-NC",
     "url": "https://www.inaturalist.org/photos/225150976"
    }
-  ],
-  "thumb": "images/thumb/auricularia-cornea.webp"
+  ]
  },
  {
   "latin": "Tremella fuciformis",
@@ -2543,6 +2603,7 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E9%8A%80%E8%80%B3"
   },
+  "thumb": "images/thumb/tremella-fuciformis.webp",
   "images": [
    {
     "src": "images/tremella-fuciformis-1.webp",
@@ -2574,8 +2635,7 @@ window.MUSHROOMS = [
     "license": "CC-BY-SA",
     "url": "https://www.inaturalist.org/photos/13274754"
    }
-  ],
-  "thumb": "images/thumb/tremella-fuciformis.webp"
+  ]
  },
  {
   "latin": "Naematelia aurantialba",
@@ -2612,6 +2672,7 @@ window.MUSHROOMS = [
    "name": "英文维基百科",
    "url": "https://en.wikipedia.org/wiki/Naematelia_aurantialba"
   },
+  "thumb": "images/thumb/naematelia-aurantialba.webp",
   "images": [
    {
     "src": "images/naematelia-aurantialba-1.webp",
@@ -2619,8 +2680,7 @@ window.MUSHROOMS = [
     "license": "CC0",
     "url": "https://commons.wikimedia.org/wiki/File:Golden_ear_bacteria_(2).jpg"
    }
-  ],
-  "thumb": "images/thumb/naematelia-aurantialba.webp"
+  ]
  },
  {
   "latin": "Hericium erinaceus",
@@ -2662,6 +2722,7 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E7%8C%B4%E5%A4%B4%E8%8F%87"
   },
+  "thumb": "images/thumb/hericium-erinaceus.webp",
   "images": [
    {
     "src": "images/hericium-erinaceus-1.webp",
@@ -2669,8 +2730,7 @@ window.MUSHROOMS = [
     "license": "CC BY-SA 3.0",
     "url": "https://commons.wikimedia.org/wiki/File:Igelstachelbart_Nov_06.jpg"
    }
-  ],
-  "thumb": "images/thumb/hericium-erinaceus.webp"
+  ]
  },
  {
   "latin": "Morchella esculenta",
@@ -2709,6 +2769,7 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%91%B3%E7%BE%8A%E8%82%9A%E8%8F%8C"
   },
+  "thumb": "images/thumb/morchella-esculenta.webp",
   "images": [
    {
     "src": "images/morchella-esculenta-1.webp",
@@ -2740,8 +2801,7 @@ window.MUSHROOMS = [
     "license": "CC-BY-NC",
     "url": "https://www.inaturalist.org/photos/62797205"
    }
-  ],
-  "thumb": "images/thumb/morchella-esculenta.webp"
+  ]
  },
  {
   "latin": "Tricholoma matsutake",
@@ -2774,6 +2834,9 @@ window.MUSHROOMS = [
    "名贵",
    "有菌环"
   ],
+  "lookalikes": [
+   "Catathelasma ventricosum"
+  ],
   "note": "与松树、栎树共生，无法人工栽培，有独特浓香。主产云南香格里拉、四川、吉林延边。",
   "id": "tricholoma-matsutake",
   "extract": "松茸，又称松口蘑，是属于口蘑科口蘑属下的一种食用蕈，具有独特的浓郁气味。松口蘑主要分布于日本、中国、美国、加拿大和北欧国家。生长于海拔1600-2600米的温带和寒温混交林带上。\n",
@@ -2781,6 +2844,7 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E6%9D%BE%E5%8F%A3%E8%98%91"
   },
+  "thumb": "images/thumb/tricholoma-matsutake.webp",
   "images": [
    {
     "src": "images/tricholoma-matsutake-1.webp",
@@ -2800,8 +2864,7 @@ window.MUSHROOMS = [
     "license": "CC-BY-NC",
     "url": "https://www.inaturalist.org/photos/115545910"
    }
-  ],
-  "thumb": "images/thumb/tricholoma-matsutake.webp"
+  ]
  },
  {
   "latin": "Catathelasma ventricosum",
@@ -2902,6 +2965,7 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%91%B3%E7%89%9B%E8%82%9D%E8%8F%8C"
   },
+  "thumb": "images/thumb/boletus-edulis.webp",
   "images": [
    {
     "src": "images/boletus-edulis-1.webp",
@@ -2933,8 +2997,7 @@ window.MUSHROOMS = [
     "license": "CC-BY-NC",
     "url": "https://www.inaturalist.org/photos/36953355"
    }
-  ],
-  "thumb": "images/thumb/boletus-edulis.webp"
+  ]
  },
  {
   "latin": "Suillus luteus",
@@ -2974,6 +3037,7 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E8%A4%90%E7%92%B0%E4%B9%B3%E7%89%9B%E8%82%9D%E8%8F%8C"
   },
+  "thumb": "images/thumb/suillus-luteus.webp",
   "images": [
    {
     "src": "images/suillus-luteus-1.webp",
@@ -3005,8 +3069,7 @@ window.MUSHROOMS = [
     "license": "CC-BY",
     "url": "https://www.inaturalist.org/photos/1180608"
    }
-  ],
-  "thumb": "images/thumb/suillus-luteus.webp"
+  ]
  },
  {
   "latin": "Cantharellus cibarius",
@@ -3046,6 +3109,7 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E9%B8%A1%E6%B2%B9%E8%8F%8C"
   },
+  "thumb": "images/thumb/cantharellus-cibarius.webp",
   "images": [
    {
     "src": "images/cantharellus-cibarius-1.webp",
@@ -3077,8 +3141,7 @@ window.MUSHROOMS = [
     "license": "CC-BY-NC",
     "url": "https://www.inaturalist.org/photos/3798048"
    }
-  ],
-  "thumb": "images/thumb/cantharellus-cibarius.webp"
+  ]
  },
  {
   "latin": "Termitomyces eurrhizus",
@@ -3115,6 +3178,7 @@ window.MUSHROOMS = [
    "name": "英文维基百科",
    "url": "https://en.wikipedia.org/wiki/Termitomyces_eurrhizus"
   },
+  "thumb": "images/thumb/termitomyces-eurrhizus.webp",
   "images": [
    {
     "src": "images/termitomyces-eurrhizus-1.webp",
@@ -3140,8 +3204,7 @@ window.MUSHROOMS = [
     "license": "CC-BY-NC",
     "url": "https://www.inaturalist.org/photos/24398551"
    }
-  ],
-  "thumb": "images/thumb/termitomyces-eurrhizus.webp"
+  ]
  },
  {
   "latin": "Thelephora ganbajun",
@@ -3176,6 +3239,7 @@ window.MUSHROOMS = [
    "name": "英文维基百科",
    "url": "https://en.wikipedia.org/wiki/Thelephora_ganbajun"
   },
+  "thumb": "images/thumb/thelephora-ganbajun.webp",
   "images": [
    {
     "src": "images/thelephora-ganbajun-1.webp",
@@ -3189,8 +3253,7 @@ window.MUSHROOMS = [
     "license": "CC-BY-NC",
     "url": "https://www.inaturalist.org/photos/45509466"
    }
-  ],
-  "thumb": "images/thumb/thelephora-ganbajun.webp"
+  ]
  },
  {
   "latin": "Phallus indusiatus",
@@ -3222,6 +3285,9 @@ window.MUSHROOMS = [
    "栽培",
    "有菌托"
   ],
+  "lookalikes": [
+   "Phallus impudicus"
+  ],
   "note": "从蛋形菌蕾中数小时内伸出，顶端有暗绿色恶臭孢体，垂下洁白的网状菌裙。食用部分是去掉菌盖和菌托后的菌柄与菌裙。",
   "id": "phallus-indusiatus",
   "extract": "长裙竹荪，俗称竹荪，又名竹笙、竹参（ㄕㄣ）、面纱菌、网纱菌、网纱菇、竹姑娘等，是一种隐花菌类，菌裙和菌柄在中国为高级的素食材料。竹荪原来有自己的一个属竹荪属（Dictyophora），但现时皆当作长裙竹荪的异名，属于鬼笔科的鬼笔属。竹荪生长于热带地区的大都会，从亚洲南部（含南亚及东南亚）、非洲、南北美洲及澳大利亚均有生长，见于树林或园庭被土壤比较肥沃的腐烂木质之上。这种菌类于1798年为法国植物学家艾蒂安·皮埃尔·旺特纳最早描述。在中国，自然繁殖的竹荪主要产在四川、云南、贵州等地。\n",
@@ -3229,6 +3295,7 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E9%95%B7%E8%A3%99%E7%AB%B9%E8%93%80"
   },
+  "thumb": "images/thumb/phallus-indusiatus.webp",
   "images": [
    {
     "src": "images/phallus-indusiatus-1.webp",
@@ -3260,8 +3327,7 @@ window.MUSHROOMS = [
     "license": "CC-BY-NC",
     "url": "https://www.inaturalist.org/photos/270964625"
    }
-  ],
-  "thumb": "images/thumb/phallus-indusiatus.webp"
+  ]
  },
  {
   "latin": "Phallus impudicus",
@@ -3300,6 +3366,7 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E7%99%BD%E9%AC%BC%E7%AC%94"
   },
+  "thumb": "images/thumb/phallus-impudicus.webp",
   "images": [
    {
     "src": "images/phallus-impudicus-1.webp",
@@ -3331,8 +3398,7 @@ window.MUSHROOMS = [
     "license": "CC-BY-NC",
     "url": "https://www.inaturalist.org/photos/104107761"
    }
-  ],
-  "thumb": "images/thumb/phallus-impudicus.webp"
+  ]
  },
  {
   "latin": "Tuber indicum",
@@ -3369,6 +3435,7 @@ window.MUSHROOMS = [
    "name": "英文维基百科",
    "url": "https://en.wikipedia.org/wiki/Tuber_indicum"
   },
+  "thumb": "images/thumb/tuber-indicum.webp",
   "images": [
    {
     "src": "images/tuber-indicum-1.webp",
@@ -3376,8 +3443,7 @@ window.MUSHROOMS = [
     "license": "CC BY-SA 4.0",
     "url": "https://commons.wikimedia.org/wiki/File:Tuber_indicum_of_jar.jpg"
    }
-  ],
-  "thumb": "images/thumb/tuber-indicum.webp"
+  ]
  },
  {
   "latin": "Lactarius deliciosus",
@@ -3417,6 +3483,7 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E6%9D%BE%E4%B9%B3%E8%8F%87"
   },
+  "thumb": "images/thumb/lactarius-deliciosus.webp",
   "images": [
    {
     "src": "images/lactarius-deliciosus-1.webp",
@@ -3448,8 +3515,7 @@ window.MUSHROOMS = [
     "license": "CC-BY-NC",
     "url": "https://www.inaturalist.org/photos/18922367"
    }
-  ],
-  "thumb": "images/thumb/lactarius-deliciosus.webp"
+  ]
  },
  {
   "latin": "Lactarius indigo",
@@ -3486,6 +3552,7 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E8%97%8D%E7%B6%A0%E4%B9%B3%E8%8F%87"
   },
+  "thumb": "images/thumb/lactarius-indigo.webp",
   "images": [
    {
     "src": "images/lactarius-indigo-1.webp",
@@ -3499,8 +3566,7 @@ window.MUSHROOMS = [
     "license": "CC-BY-NC",
     "url": "https://www.inaturalist.org/photos/62135165"
    }
-  ],
-  "thumb": "images/thumb/lactarius-indigo.webp"
+  ]
  },
  {
   "latin": "Russula virescens",
@@ -3540,6 +3606,7 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E8%AE%8A%E7%B6%A0%E7%B4%85%E8%8F%87"
   },
+  "thumb": "images/thumb/russula-virescens.webp",
   "images": [
    {
     "src": "images/russula-virescens-1.webp",
@@ -3559,8 +3626,7 @@ window.MUSHROOMS = [
     "license": "CC-BY-NC",
     "url": "https://www.inaturalist.org/photos/451195439"
    }
-  ],
-  "thumb": "images/thumb/russula-virescens.webp"
+  ]
  },
  {
   "latin": "Russula griseocarnosa",
@@ -3658,6 +3724,7 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E9%B8%A1%E8%85%BF%E8%8F%87"
   },
+  "thumb": "images/thumb/coprinus-comatus.webp",
   "images": [
    {
     "src": "images/coprinus-comatus-1.webp",
@@ -3689,8 +3756,7 @@ window.MUSHROOMS = [
     "license": "CC-BY-NC-SA",
     "url": "https://www.inaturalist.org/photos/6990"
    }
-  ],
-  "thumb": "images/thumb/coprinus-comatus.webp"
+  ]
  },
  {
   "latin": "Volvariella volvacea",
@@ -3729,6 +3795,7 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E8%8D%89%E8%8F%87"
   },
+  "thumb": "images/thumb/volvariella-volvacea.webp",
   "images": [
    {
     "src": "images/volvariella-volvacea-1.webp",
@@ -3760,8 +3827,7 @@ window.MUSHROOMS = [
     "license": "CC-BY-NC",
     "url": "https://www.inaturalist.org/photos/131203284"
    }
-  ],
-  "thumb": "images/thumb/volvariella-volvacea.webp"
+  ]
  },
  {
   "latin": "Macrolepiota procera",
@@ -3801,6 +3867,7 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E9%AB%98%E5%A4%A7%E7%92%B0%E6%9F%84%E8%8F%87"
   },
+  "thumb": "images/thumb/macrolepiota-procera.webp",
   "images": [
    {
     "src": "images/macrolepiota-procera-1.webp",
@@ -3832,8 +3899,7 @@ window.MUSHROOMS = [
     "license": "CC-BY-NC",
     "url": "https://www.inaturalist.org/photos/25080543"
    }
-  ],
-  "thumb": "images/thumb/macrolepiota-procera.webp"
+  ]
  },
  {
   "latin": "Stropharia rugosoannulata",
@@ -3873,6 +3939,7 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E5%A4%A7%E7%90%83%E8%93%8B%E8%8F%87"
   },
+  "thumb": "images/thumb/stropharia-rugosoannulata.webp",
   "images": [
    {
     "src": "images/stropharia-rugosoannulata-1.webp",
@@ -3904,8 +3971,7 @@ window.MUSHROOMS = [
     "license": "CC-BY-NC",
     "url": "https://www.inaturalist.org/photos/113131966"
    }
-  ],
-  "thumb": "images/thumb/stropharia-rugosoannulata.webp"
+  ]
  },
  {
   "latin": "Hypsizygus marmoreus",
@@ -3943,6 +4009,7 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E9%B4%BB%E5%96%9C%E8%8F%87"
   },
+  "thumb": "images/thumb/hypsizygus-marmoreus.webp",
   "images": [
    {
     "src": "images/hypsizygus-marmoreus-1.webp",
@@ -3968,8 +4035,7 @@ window.MUSHROOMS = [
     "license": "CC-BY",
     "url": "https://www.inaturalist.org/photos/417501239"
    }
-  ],
-  "thumb": "images/thumb/hypsizygus-marmoreus.webp"
+  ]
  },
  {
   "latin": "Armillaria mellea",
@@ -4008,6 +4074,7 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E8%9C%9C%E7%92%B0%E8%8F%8C"
   },
+  "thumb": "images/thumb/armillaria-mellea.webp",
   "images": [
    {
     "src": "images/armillaria-mellea-1.webp",
@@ -4039,8 +4106,7 @@ window.MUSHROOMS = [
     "license": "CC-BY",
     "url": "https://www.inaturalist.org/photos/53423123"
    }
-  ],
-  "thumb": "images/thumb/armillaria-mellea.webp"
+  ]
  },
  {
   "latin": "Grifola frondosa",
@@ -4081,6 +4147,7 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E7%81%B0%E6%A8%B9%E8%8A%B1"
   },
+  "thumb": "images/thumb/grifola-frondosa.webp",
   "images": [
    {
     "src": "images/grifola-frondosa-1.webp",
@@ -4106,8 +4173,7 @@ window.MUSHROOMS = [
     "license": "CC-BY-NC",
     "url": "https://www.inaturalist.org/photos/2446319"
    }
-  ],
-  "thumb": "images/thumb/grifola-frondosa.webp"
+  ]
  },
  {
   "latin": "Sparassis crispa",
@@ -4145,6 +4211,7 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E7%B9%A1%E7%90%83%E8%8F%8C"
   },
+  "thumb": "images/thumb/sparassis-crispa.webp",
   "images": [
    {
     "src": "images/sparassis-crispa-1.webp",
@@ -4176,8 +4243,7 @@ window.MUSHROOMS = [
     "license": "CC-BY",
     "url": "https://www.inaturalist.org/photos/125619"
    }
-  ],
-  "thumb": "images/thumb/sparassis-crispa.webp"
+  ]
  },
  {
   "latin": "Ramaria botrytis",
@@ -4216,6 +4282,7 @@ window.MUSHROOMS = [
    "name": "英文维基百科",
    "url": "https://en.wikipedia.org/wiki/Ramaria_botrytis"
   },
+  "thumb": "images/thumb/ramaria-botrytis.webp",
   "images": [
    {
     "src": "images/ramaria-botrytis-1.webp",
@@ -4247,8 +4314,7 @@ window.MUSHROOMS = [
     "license": "CC-BY-NC",
     "url": "https://www.inaturalist.org/photos/167631203"
    }
-  ],
-  "thumb": "images/thumb/ramaria-botrytis.webp"
+  ]
  },
  {
   "latin": "Laetiporus sulphureus",
@@ -4286,6 +4352,7 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E7%A1%AB%E8%89%B2%E7%B5%A2%E5%AD%94%E8%8F%8C"
   },
+  "thumb": "images/thumb/laetiporus-sulphureus.webp",
   "images": [
    {
     "src": "images/laetiporus-sulphureus-1.webp",
@@ -4317,8 +4384,7 @@ window.MUSHROOMS = [
     "license": "CC-BY-NC",
     "url": "https://www.inaturalist.org/photos/131093825"
    }
-  ],
-  "thumb": "images/thumb/laetiporus-sulphureus.webp"
+  ]
  },
  {
   "latin": "Ganoderma lingzhi",
@@ -4360,6 +4426,7 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E7%81%B5%E8%8A%9D"
   },
+  "thumb": "images/thumb/ganoderma-lingzhi.webp",
   "images": [
    {
     "src": "images/ganoderma-lingzhi-1.webp",
@@ -4373,8 +4440,7 @@ window.MUSHROOMS = [
     "license": "CC-BY-SA",
     "url": "https://www.inaturalist.org/photos/40314443"
    }
-  ],
-  "thumb": "images/thumb/ganoderma-lingzhi.webp"
+  ]
  },
  {
   "latin": "Trametes versicolor",
@@ -4421,6 +4487,7 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E9%9B%B2%E8%8A%9D"
   },
+  "thumb": "images/thumb/trametes-versicolor.webp",
   "images": [
    {
     "src": "images/trametes-versicolor-1.webp",
@@ -4434,8 +4501,7 @@ window.MUSHROOMS = [
     "license": "CC0",
     "url": "https://www.inaturalist.org/photos/27005174"
    }
-  ],
-  "thumb": "images/thumb/trametes-versicolor.webp"
+  ]
  },
  {
   "latin": "Fomes fomentarius",
@@ -4475,6 +4541,7 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E6%9C%A8%E8%B9%84%E5%B1%A4%E5%AD%94%E8%8F%8C"
   },
+  "thumb": "images/thumb/fomes-fomentarius.webp",
   "images": [
    {
     "src": "images/fomes-fomentarius-1.webp",
@@ -4506,8 +4573,7 @@ window.MUSHROOMS = [
     "license": "CC-BY-NC",
     "url": "https://www.inaturalist.org/photos/5337385"
    }
-  ],
-  "thumb": "images/thumb/fomes-fomentarius.webp"
+  ]
  },
  {
   "latin": "Inonotus obliquus",
@@ -4545,6 +4611,7 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E7%99%BD%E6%A8%BA%E8%8C%B8"
   },
+  "thumb": "images/thumb/inonotus-obliquus.webp",
   "images": [
    {
     "src": "images/inonotus-obliquus-1.webp",
@@ -4576,8 +4643,7 @@ window.MUSHROOMS = [
     "license": "CC-BY-NC",
     "url": "https://www.inaturalist.org/photos/80325246"
    }
-  ],
-  "thumb": "images/thumb/inonotus-obliquus.webp"
+  ]
  },
  {
   "latin": "Wolfiporia cocos",
@@ -4617,6 +4683,7 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E8%8C%AF%E8%8B%93"
   },
+  "thumb": "images/thumb/wolfiporia-cocos.webp",
   "images": [
    {
     "src": "images/wolfiporia-cocos-1.webp",
@@ -4630,8 +4697,7 @@ window.MUSHROOMS = [
     "license": "CC-BY-SA",
     "url": "https://www.inaturalist.org/photos/13068303"
    }
-  ],
-  "thumb": "images/thumb/wolfiporia-cocos.webp"
+  ]
  },
  {
   "latin": "Ophiocordyceps sinensis",
@@ -4661,6 +4727,9 @@ window.MUSHROOMS = [
    "名贵",
    "虫生"
   ],
+  "lookalikes": [
+   "Cordyceps militaris"
+  ],
   "note": "寄生于蝙蝠蛾幼虫，冬季菌丝充满虫体，夏初从虫头长出棒状子座。仅产于海拔3000米以上的高寒草甸。野生虫草砷含量偏高，不宜长期大量服用。",
   "id": "ophiocordyceps-sinensis",
   "extract": "冬虫夏草 又称虫草、冬虫草，是一种寄生于昆虫的真菌，通常寄生于鳞翅目蝙蝠蛾科部分昆虫幼虫体内生长。分布于中国的青海、西藏、四川、云南、甘肃以及尼泊尔、印度、不丹的部分靠近喜马拉雅山南麓的地区。见于高寒草甸、高山灌丛。其种加词“sinensis”意为“中华的”，乃中国地理标志产品。\n",
@@ -4668,6 +4737,7 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E5%86%AC%E8%99%AB%E5%A4%8F%E8%8D%89"
   },
+  "thumb": "images/thumb/ophiocordyceps-sinensis.webp",
   "images": [
    {
     "src": "images/ophiocordyceps-sinensis-1.webp",
@@ -4687,8 +4757,7 @@ window.MUSHROOMS = [
     "license": "CC-BY-NC",
     "url": "https://www.inaturalist.org/photos/26926215"
    }
-  ],
-  "thumb": "images/thumb/ophiocordyceps-sinensis.webp"
+  ]
  },
  {
   "latin": "Cordyceps militaris",
@@ -4730,6 +4799,7 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E8%9F%B2%E8%8D%89%E8%8A%B1"
   },
+  "thumb": "images/thumb/cordyceps-militaris.webp",
   "images": [
    {
     "src": "images/cordyceps-militaris-1.webp",
@@ -4761,8 +4831,7 @@ window.MUSHROOMS = [
     "license": "CC-BY-NC",
     "url": "https://www.inaturalist.org/photos/152473474"
    }
-  ],
-  "thumb": "images/thumb/cordyceps-militaris.webp"
+  ]
  },
  {
   "latin": "Calvatia gigantea",
@@ -4797,6 +4866,7 @@ window.MUSHROOMS = [
    "name": "英文维基百科",
    "url": "https://en.wikipedia.org/wiki/Calvatia_gigantea"
   },
+  "thumb": "images/thumb/calvatia-gigantea.webp",
   "images": [
    {
     "src": "images/calvatia-gigantea-1.webp",
@@ -4828,8 +4898,7 @@ window.MUSHROOMS = [
     "license": "CC-BY-NC",
     "url": "https://www.inaturalist.org/photos/26750275"
    }
-  ],
-  "thumb": "images/thumb/calvatia-gigantea.webp"
+  ]
  },
  {
   "latin": "Lycoperdon perlatum",
@@ -4870,6 +4939,7 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E7%B6%B2%E7%8B%80%E9%A6%AC%E5%8B%83"
   },
+  "thumb": "images/thumb/lycoperdon-perlatum.webp",
   "images": [
    {
     "src": "images/lycoperdon-perlatum-1.webp",
@@ -4901,8 +4971,7 @@ window.MUSHROOMS = [
     "license": "CC-BY-NC-SA",
     "url": "https://www.inaturalist.org/photos/159716"
    }
-  ],
-  "thumb": "images/thumb/lycoperdon-perlatum.webp"
+  ]
  },
  {
   "latin": "Geastrum triplex",
@@ -4937,6 +5006,7 @@ window.MUSHROOMS = [
    "name": "英文维基百科",
    "url": "https://en.wikipedia.org/wiki/Geastrum_triplex"
   },
+  "thumb": "images/thumb/geastrum-triplex.webp",
   "images": [
    {
     "src": "images/geastrum-triplex-1.webp",
@@ -4950,8 +5020,7 @@ window.MUSHROOMS = [
     "license": "CC-BY-NC",
     "url": "https://www.inaturalist.org/photos/29971069"
    }
-  ],
-  "thumb": "images/thumb/geastrum-triplex.webp"
+  ]
  },
  {
   "latin": "Clathrus archeri",
@@ -4988,6 +5057,7 @@ window.MUSHROOMS = [
    "name": "英文维基百科",
    "url": "https://en.wikipedia.org/wiki/Clathrus_archeri"
   },
+  "thumb": "images/thumb/clathrus-archeri.webp",
   "images": [
    {
     "src": "images/clathrus-archeri-1.webp",
@@ -5019,8 +5089,7 @@ window.MUSHROOMS = [
     "license": "CC-BY",
     "url": "https://www.inaturalist.org/photos/485314964"
    }
-  ],
-  "thumb": "images/thumb/clathrus-archeri.webp"
+  ]
  },
  {
   "latin": "Sarcoscypha coccinea",
@@ -5054,6 +5123,7 @@ window.MUSHROOMS = [
    "name": "英文维基百科",
    "url": "https://en.wikipedia.org/wiki/Sarcoscypha_coccinea"
   },
+  "thumb": "images/thumb/sarcoscypha-coccinea.webp",
   "images": [
    {
     "src": "images/sarcoscypha-coccinea-1.webp",
@@ -5085,8 +5155,7 @@ window.MUSHROOMS = [
     "license": "CC-BY",
     "url": "https://www.inaturalist.org/photos/1433"
    }
-  ],
-  "thumb": "images/thumb/sarcoscypha-coccinea.webp"
+  ]
  },
  {
   "latin": "Mycena chlorophos",
@@ -5123,6 +5192,7 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E7%99%BC%E5%85%89%E5%B0%8F%E8%8F%87"
   },
+  "thumb": "images/thumb/mycena-chlorophos.webp",
   "images": [
    {
     "src": "images/mycena-chlorophos-1.webp",
@@ -5154,8 +5224,7 @@ window.MUSHROOMS = [
     "license": "CC-BY-NC",
     "url": "https://www.inaturalist.org/photos/624090585"
    }
-  ],
-  "thumb": "images/thumb/mycena-chlorophos.webp"
+  ]
  },
  {
   "latin": "Laccaria amethystina",
@@ -5192,6 +5261,7 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E7%B4%AB%E8%9C%A1%E8%98%91"
   },
+  "thumb": "images/thumb/laccaria-amethystina.webp",
   "images": [
    {
     "src": "images/laccaria-amethystina-1.webp",
@@ -5223,8 +5293,7 @@ window.MUSHROOMS = [
     "license": "CC-BY-NC",
     "url": "https://www.inaturalist.org/photos/236644962"
    }
-  ],
-  "thumb": "images/thumb/laccaria-amethystina.webp"
+  ]
  },
  {
   "latin": "Lepista nuda",
@@ -5255,6 +5324,10 @@ window.MUSHROOMS = [
    "冬"
   ],
   "traits": [],
+  "lookalikes": [
+   "Cortinarius violaceus",
+   "Laccaria amethystina"
+  ],
   "note": "淡紫色，有香气，常在落叶堆上形成蘑菇圈。必须熟食，生食有毒；须与紫色丝膜菌区分（后者孢子印锈褐色）。",
   "id": "lepista-nuda",
   "extract": "紫丁香蘑 是金钱菌属的一种蕈类，原产于欧洲与北美洲，并已被引入澳洲，常见于针叶林与落叶林，可形成仙女环。本种最早于1790年由皮埃尔·比利亚尔发表描述，当时被归入伞菌属；保罗·库默尔将其改归入口蘑属，后来又有学者将其置于香蘑属，2023年本种基于分子证据被归入金钱菌属中。紫丁香蘑呈淡紫色至紫红色，蕈伞直径为4—15公分，孢子印为白色至淡粉红色；丝膜菌属一些紫色的菇类外形与本种类似。\n",
@@ -5262,6 +5335,7 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E7%B4%AB%E4%B8%81%E9%A6%99%E8%98%91"
   },
+  "thumb": "images/thumb/lepista-nuda.webp",
   "images": [
    {
     "src": "images/lepista-nuda-1.webp",
@@ -5293,8 +5367,7 @@ window.MUSHROOMS = [
     "license": "CC-BY-NC-SA",
     "url": "https://www.inaturalist.org/photos/10173"
    }
-  ],
-  "thumb": "images/thumb/lepista-nuda.webp"
+  ]
  },
  {
   "latin": "Cortinarius violaceus",
@@ -5331,6 +5404,7 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E7%B4%AB%E7%BB%92%E4%B8%9D%E8%86%9C%E8%8F%8C"
   },
+  "thumb": "images/thumb/cortinarius-violaceus.webp",
   "images": [
    {
     "src": "images/cortinarius-violaceus-1.webp",
@@ -5362,8 +5436,7 @@ window.MUSHROOMS = [
     "license": "CC-BY-NC",
     "url": "https://www.inaturalist.org/photos/13725813"
    }
-  ],
-  "thumb": "images/thumb/cortinarius-violaceus.webp"
+  ]
  },
  {
   "latin": "Entoloma hochstetteri",
@@ -5394,6 +5467,7 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E9%9C%8D%E6%B0%8F%E7%B2%89%E8%A4%B6%E8%8F%8C"
   },
+  "thumb": "images/thumb/entoloma-hochstetteri.webp",
   "images": [
    {
     "src": "images/entoloma-hochstetteri-1.webp",
@@ -5413,8 +5487,7 @@ window.MUSHROOMS = [
     "license": "CC-BY-NC",
     "url": "https://www.inaturalist.org/photos/2229216"
    }
-  ],
-  "thumb": "images/thumb/entoloma-hochstetteri.webp"
+  ]
  },
  {
   "latin": "Schizophyllum commune",
@@ -5460,6 +5533,7 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E8%A3%82%E8%A4%B6%E8%8F%8C"
   },
+  "thumb": "images/thumb/schizophyllum-commune.webp",
   "images": [
    {
     "src": "images/schizophyllum-commune-1.webp",
@@ -5491,7 +5565,6 @@ window.MUSHROOMS = [
     "license": "CC-BY-NC",
     "url": "https://www.inaturalist.org/photos/186221786"
    }
-  ],
-  "thumb": "images/thumb/schizophyllum-commune.webp"
+  ]
  }
 ];

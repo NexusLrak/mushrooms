@@ -25,6 +25,31 @@
       .join(' ').toLowerCase();
   }
 
+  // ---------- 相似蘑菇 ----------
+  // 先列人工整理的易混淆种（species.json 的 lookalikes，写一边即可，这里补成双向），
+  // 不足 MAX_SIMILAR 个时按标签相近程度补齐
+  const MAX_SIMILAR = 4;
+  const byLatin = new Map(DATA.map((m) => [m.latin, m]));
+  const lookalikes = new Map(DATA.map((m) => [m, new Set()]));
+  for (const m of DATA) {
+    for (const latin of m.lookalikes || []) {
+      const o = byLatin.get(latin);
+      if (o && o !== m) { lookalikes.get(m).add(o); lookalikes.get(o).add(m); }
+    }
+  }
+  const overlap = (a, b) => a.filter((v) => b.includes(v)).length / new Set([...a, ...b]).size;
+  function likeness(a, b) {
+    return 3 * (a.shape === b.shape) + 3 * overlap(a.colors, b.colors) + overlap(a.habitat, b.habitat) +
+      2 * (a.latin.split(' ')[0] === b.latin.split(' ')[0]);
+  }
+  function similar(m) {
+    const known = [...lookalikes.get(m)];
+    const rest = DATA.filter((o) => o !== m && !known.includes(o))
+      .map((o) => [likeness(m, o), o]).sort((x, y) => y[0] - x[0])
+      .slice(0, Math.max(0, MAX_SIMILAR - known.length)).map(([, o]) => o);
+    return [...known.map((o) => [o, true]), ...rest.map((o) => [o, false])];
+  }
+
   const state = { q: '', sort: 'tox', sel: Object.fromEntries(FACETS.map((f) => [f.key, new Set()])) };
 
   const $ = (id) => document.getElementById(id);
@@ -198,9 +223,16 @@
           return vs.length ? [h('dt', {}, f.label), h('dd', {}, vs.map((v) =>
             h('button', { class: 'chip', type: 'button', title: `查看所有“${v}”`, onclick: jump(f.key, v) },
               f.key === 'colors' && swatch(v), v)))] : [];
-        })),
+        }),
+          h('dt', {}, '相似'),
+          h('dd', {}, similar(m).map(([o, confusable]) =>
+            h('button', {
+              class: 'chip sim', type: 'button', dataset: { tox: o.tox, confusable: String(confusable) },
+              title: (confusable ? '容易混淆：' : '外观相近：') + `${o.zh}（${o.tox}）`,
+              onclick: () => openDetail(o),
+            }, o.thumb && h('img', { src: o.thumb, alt: '' }), o.zh, confusable && h('span', { class: 'sim-flag' }, '易混'))))),
         m.source && h('a', { href: m.source.url, target: '_blank', rel: 'noopener' }, `在${m.source.name}查看完整条目 ↗`)));
-    dlg.showModal();
+    if (!dlg.open) dlg.showModal();
     dlg.scrollTop = 0;
     dlg.querySelector('.g-track')?.focus({ preventScroll: true });
     opened = m.id;
