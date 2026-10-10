@@ -10,7 +10,8 @@
 - 七类标签筛选：毒性、颜色、形状、区域、生境、季节、特征
 - 同类标签之间为“或”，不同类之间为“且”；每个标签旁显示选中后的结果数
 - 搜索中文名、别名、学名和描述
-- 详情页含鉴别要点、百科摘要、原条目链接和图片署名
+- 详情页含鉴别要点、百科摘要、原条目链接，每种最多 5 张可左右滑动的图片，逐张署名
+- 地址栏带 `#m=amanita-muscaria` 这样的参数可以直接打开某个蘑菇
 - 筛选状态保存在地址栏，可收藏或分享
 
 ## 文件说明
@@ -19,20 +20,22 @@
 |---|---|
 | `index.html` `style.css` `app.js` | 页面 |
 | `data/mushrooms.js` | 页面读取的数据，由脚本生成，不要手改 |
-| `images/` | 图片 |
+| `images/` | 详情页大图（WebP，长边不超过 960 像素） |
+| `images/thumb/` | 首页卡片用的缩略图 |
 | `data/species.json` | 物种与标签的源文件，增改内容改这里 |
 | `scripts/fetch.mjs` | 读取 `species.json`，补全百科摘要和图片，生成 `mushrooms.js` 与 `CREDITS.md` |
+| `package.json` | 只声明抓取脚本用到的图片处理库 |
 
-只展示的话需要前三行；后两行用于更新数据。
+只展示的话需要前四行，不用安装任何东西；后面几行用于更新数据。
 
 ## 增改内容
 
-需要 Node.js 18 或以上。
+需要 Node.js 20 或以上。首次使用先运行一次 `npm install`，安装把图片转成 WebP 用的 [sharp](https://sharp.pixelplumbing.com/)。
 
 1. 编辑 `data/species.json`
 2. 运行 `node scripts/fetch.mjs`
 
-已有条目不会重新联网，只有新增的物种才会抓取。`node scripts/fetch.mjs --force` 会全部重抓，为遵守维基百科的访问频率限制，大约需要 10 分钟。
+已有条目不会重新联网，只有新增的物种才会抓取。`node scripts/fetch.mjs --force` 会全部重新处理，为遵守维基百科和 iNaturalist 的访问频率限制，大约需要 15 分钟；下载过的原图缓存在 `scripts/.cache/`，不会重复下载。
 
 一个条目的写法：
 
@@ -59,11 +62,11 @@
 | 字段 | 用途 |
 |---|---|
 | `"wiki": "金针菇"` | 指定中文维基条目标题，用于自动匹配不到或匹配错的情况 |
-| `"imageFrom": "inaturalist"` | 不用维基的主图（例如主图是分布地图时），改从 iNaturalist 取图 |
-| `"image": "images/custom/xx.jpg"` | 使用自备图片，脚本不再联网找图。请同时填写 `"credit": {"author": "", "license": "", "url": ""}`，并确认你有权使用该图片 |
+| `"imageFrom": "inaturalist"` | 不用维基的主图（例如主图是分布地图时），只从 iNaturalist 取图 |
+| `"image": "custom/xx.jpg"` | 把自备图片排在第一张（路径相对项目根目录，不要放在 `images/` 里）。请同时填写 `"credit": {"author": "", "license": "", "url": ""}`，并确认你有权使用该图片 |
 
 ## 数据来源与许可
 
 - **百科摘要**来自[中文维基百科](https://zh.wikipedia.org/)，以 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hans) 许可使用，各条目的原文链接见详情页。
-- **图片**来自[维基共享资源](https://commons.wikimedia.org/)和 [iNaturalist](https://www.inaturalist.org/)，版权归各自作者所有，按各自的许可使用，逐张署名见 [CREDITS.md](CREDITS.md)。其中部分图片为“非商业性使用”许可（CC BY-NC），**商用前请自行替换**。
+- **图片**来自[维基共享资源](https://commons.wikimedia.org/)和 [iNaturalist](https://www.inaturalist.org/)，版权归各自作者所有，按各自的许可使用，经过缩小并转换为 WebP 格式，逐张署名见 [CREDITS.md](CREDITS.md)。每种的第一张是维基百科条目的主图，其余来自 iNaturalist 的物种相册，未经逐张人工筛选。其中多数图片为“非商业性使用”许可（CC BY-NC），**不能直接商用**。
 - **标签和鉴别要点**为本项目整理。

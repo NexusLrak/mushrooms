@@ -116,14 +116,54 @@ h1 { margin: 0; font-size: 22px; letter-spacing: 2px; }
 .empty { text-align: center; color: var(--muted); padding: 60px 0; }
 
 dialog {
-  width: min(760px, calc(100vw - 24px)); max-height: calc(100vh - 40px);
+  --d-max-h: calc(100vh - 40px);
+  width: min(1180px, calc(100vw - 24px)); max-height: var(--d-max-h);
   padding: 0; border: 1px solid var(--line); border-radius: 12px;
   background: var(--panel); color: var(--text);
 }
 dialog::backdrop { background: rgba(0,0,0,.55); }
-.d-img { width: 100%; max-height: 420px; object-fit: cover; display: block; background: var(--line); }
+/* 图集：画框尺寸固定（4:3，过高时按视口高度封顶），图片完整缩放进去不裁切 */
+.gallery { display: flex; flex-direction: column; min-width: 0; }
+.g-frame {
+  position: relative; background: #141412;
+  flex: 1 1 auto; aspect-ratio: 4 / 3; max-height: min(58vh, 540px);
+}
+.g-track {
+  position: absolute; inset: 0;
+  display: flex;
+  overflow-x: auto; overflow-y: hidden;
+  scroll-snap-type: x mandatory; overscroll-behavior-x: contain;
+  scrollbar-width: none; outline: none;
+}
+.g-track::-webkit-scrollbar { display: none; }
+.g-slide { flex: 0 0 100%; height: 100%; scroll-snap-align: center; scroll-snap-stop: always; }
+.g-slide img { width: 100%; height: 100%; object-fit: contain; display: block; user-select: none; }
+.g-nav {
+  position: absolute; top: 50%; transform: translateY(-50%);
+  width: 40px; height: 40px; border-radius: 50%; border: none;
+  background: rgba(0,0,0,.55); color: #fff; font-size: 26px; line-height: 1; cursor: pointer;
+}
+.g-nav:hover { background: rgba(0,0,0,.8); }
+.g-nav[disabled] { opacity: .25; cursor: default; }
+.g-prev { left: 10px; }
+.g-next { right: 10px; }
+.g-count {
+  position: absolute; left: 10px; top: 10px;
+  padding: 1px 9px; border-radius: 999px;
+  background: rgba(0,0,0,.55); color: #fff; font-size: 12px;
+}
+.g-foot {
+  display: flex; justify-content: space-between; align-items: center; gap: 12px;
+  padding: 6px 20px; min-height: 32px;
+  border-bottom: 1px solid var(--line);
+  font-size: 12px; color: var(--muted);
+}
+.g-credit { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.g-dots { display: flex; gap: 6px; flex: none; }
+.g-dot { width: 8px; height: 8px; padding: 0; border-radius: 50%; border: none; background: var(--line); cursor: pointer; }
+.g-dot[aria-current="true"] { background: var(--accent); }
 .d-body { padding: 16px 20px 20px; }
-.d-head { display: flex; align-items: baseline; gap: 10px; flex-wrap: wrap; }
+.d-head { display: flex; align-items: baseline; gap: 10px; flex-wrap: wrap; padding-right: 36px; }
 .d-head h2 { margin: 0; font-size: 22px; }
 .d-close {
   position: absolute; right: 10px; top: 10px;
@@ -133,14 +173,25 @@ dialog::backdrop { background: rgba(0,0,0,.55); }
 .alias { color: var(--muted); font-size: 13px; margin: 2px 0 10px; }
 .note { margin: 10px 0; }
 .extract { margin: 10px 0; padding: 10px 12px; background: var(--bg); border-radius: 8px; font-size: 14px; }
+.extract p { margin: 0; }
 .extract b { display: block; font-size: 12px; color: var(--muted); font-weight: 400; margin-bottom: 2px; }
 .d-tags { display: grid; grid-template-columns: auto 1fr; gap: 6px 12px; margin: 14px 0; font-size: 13px; }
 .d-tags dt { color: var(--muted); }
 .d-tags dd { margin: 0; display: flex; flex-wrap: wrap; gap: 6px; }
-.credit { font-size: 12px; color: var(--muted); margin: 12px 0 0; }
 a { color: var(--accent); }
 
 footer { padding: 20px; text-align: center; color: var(--muted); font-size: 12px; border-top: 1px solid var(--line); }
+
+@media (min-width: 900px) {
+  dialog[open] { display: grid; grid-template-columns: minmax(0, 1.3fr) minmax(340px, 1fr); overflow: hidden; }
+  .g-frame { max-height: calc(var(--d-max-h) - 34px); }
+  .g-foot { border-bottom: none; border-top: 1px solid var(--line); }
+  /* 文字过长时先截断百科摘要（完整内容在维基链接里）；实在放不下才退回到栏内滚动 */
+  .d-body { max-height: var(--d-max-h); overflow-y: auto; border-left: 1px solid var(--line); }
+  .extract p { display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 5; overflow: hidden; }
+  .d-tags { margin: 12px 0; gap: 5px 12px; }
+  .d-close { background: rgba(128,128,128,.25); color: var(--text); }
+}
 
 @media (max-width: 760px) {
   .layout { grid-template-columns: 1fr; padding: 12px; }

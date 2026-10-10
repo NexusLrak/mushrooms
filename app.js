@@ -99,7 +99,7 @@
   function card(m) {
     return h('button', { class: 'card', type: 'button', onclick: () => openDetail(m) },
       h('div', { class: 'thumb' },
-        m.image ? h('img', { src: m.image, alt: m.zh, loading: 'lazy' }) : h('div', { class: 'noimg' }, '🍄'),
+        m.thumb ? h('img', { src: m.thumb, alt: m.zh, loading: 'lazy', width: 420, height: 315 }) : h('div', { class: 'noimg' }, '🍄'),
         h('span', { class: 'tox', dataset: { tox: m.tox } }, m.tox)),
       h('div', { class: 'card-body' },
         h('h2', {}, m.zh),
@@ -128,6 +128,50 @@
   }
 
   // ---------- 详情 ----------
+  // 固定尺寸的画框，图片完整缩放进去；横向 scroll-snap 提供触屏左右滑动，
+  // 按钮和方向键只是去滚动同一个容器
+  function gallery(m) {
+    const imgs = m.images || [];
+    if (!imgs.length) return null;
+    const track = h('div', { class: 'g-track', tabIndex: 0, 'aria-label': `${m.zh}的图片，共 ${imgs.length} 张` },
+      imgs.map((img, i) => h('div', { class: 'g-slide' },
+        h('img', { src: img.src, alt: `${m.zh} ${i + 1}`, loading: i ? 'lazy' : 'eager', draggable: false }))));
+    const credit = h('div', { class: 'g-credit' });
+    const counter = h('span', { class: 'g-count' });
+    const dots = imgs.map((_, i) => h('button', { class: 'g-dot', type: 'button', 'aria-label': `第 ${i + 1} 张`, onclick: () => go(i) }));
+    const prev = h('button', { class: 'g-nav g-prev', type: 'button', 'aria-label': '上一张', onclick: () => go(index - 1) }, '‹');
+    const next = h('button', { class: 'g-nav g-next', type: 'button', 'aria-label': '下一张', onclick: () => go(index + 1) }, '›');
+    let index = -1;
+
+    function show(i) {
+      if (i === index) return;
+      index = i;
+      const img = imgs[i];
+      credit.replaceChildren('图片：',
+        img.url ? h('a', { href: img.url, target: '_blank', rel: 'noopener' }, img.author || '来源') : (img.author || '未注明'),
+        img.license ? `（${img.license}）` : '');
+      counter.textContent = `${i + 1} / ${imgs.length}`;
+      dots.forEach((d, j) => d.setAttribute('aria-current', String(j === i)));
+      prev.disabled = i === 0;
+      next.disabled = i === imgs.length - 1;
+    }
+    function go(i) {
+      i = Math.max(0, Math.min(imgs.length - 1, i));
+      track.scrollTo({ left: i * track.clientWidth, behavior: 'smooth' });
+    }
+    track.addEventListener('scroll', () => show(Math.round(track.scrollLeft / track.clientWidth)));
+    track.addEventListener('keydown', (e) => {
+      if (e.key === 'ArrowLeft') { go(index - 1); e.preventDefault(); }
+      if (e.key === 'ArrowRight') { go(index + 1); e.preventDefault(); }
+    });
+    show(0);
+
+    const multi = imgs.length > 1;
+    return h('div', { class: 'gallery' },
+      h('div', { class: 'g-frame' }, track, multi && prev, multi && next, multi && counter),
+      h('div', { class: 'g-foot' }, credit, multi && h('div', { class: 'g-dots' }, dots)));
+  }
+
   function openDetail(m) {
     const dlg = $('detail');
     const jump = (key, v) => () => {
@@ -140,7 +184,7 @@
     };
     dlg.replaceChildren(
       h('button', { class: 'd-close', type: 'button', 'aria-label': '关闭', onclick: () => dlg.close() }, '✕'),
-      m.image && h('img', { class: 'd-img', src: m.image, alt: m.zh }),
+      gallery(m),
       h('div', { class: 'd-body' },
         h('div', { class: 'd-head' },
           h('h2', { id: 'd-title' }, m.zh),
@@ -148,20 +192,22 @@
           h('span', { class: 'tox', dataset: { tox: m.tox } }, m.tox)),
         m.alias?.length > 0 && h('p', { class: 'alias' }, '别名：' + m.alias.join('、')),
         h('p', { class: 'note' }, m.note),
-        m.extract && h('p', { class: 'extract' }, h('b', {}, '百科摘要'), m.extract),
+        m.extract && h('div', { class: 'extract' }, h('b', {}, '百科摘要'), h('p', {}, m.extract)),
         h('dl', { class: 'd-tags' }, FACETS.flatMap((f) => {
           const vs = values(m, f.key);
           return vs.length ? [h('dt', {}, f.label), h('dd', {}, vs.map((v) =>
             h('button', { class: 'chip', type: 'button', title: `查看所有“${v}”`, onclick: jump(f.key, v) },
               f.key === 'colors' && swatch(v), v)))] : [];
         })),
-        m.source && h('a', { href: m.source.url, target: '_blank', rel: 'noopener' }, `在${m.source.name}查看完整条目 ↗`),
-        m.credit && h('p', { class: 'credit' }, '图片：',
-          h('a', { href: m.credit.url, target: '_blank', rel: 'noopener' }, m.credit.author),
-          m.credit.license && `（${m.credit.license}）`)));
+        m.source && h('a', { href: m.source.url, target: '_blank', rel: 'noopener' }, `在${m.source.name}查看完整条目 ↗`)));
     dlg.showModal();
     dlg.scrollTop = 0;
+    dlg.querySelector('.g-track')?.focus({ preventScroll: true });
+    opened = m.id;
+    saveHash();
   }
+  let opened = null;
+  $('detail').addEventListener('close', () => { opened = null; saveHash(); });
   $('detail').addEventListener('click', (e) => { if (e.target === e.currentTarget) e.currentTarget.close(); });
 
   // ---------- 地址栏状态（方便收藏/分享某个筛选结果） ----------
@@ -170,6 +216,7 @@
     if (state.q) p.set('q', state.q);
     if (state.sort !== 'tox') p.set('sort', state.sort);
     for (const f of FACETS) if (state.sel[f.key].size) p.set(f.key, [...state.sel[f.key]].join(','));
+    if (opened) p.set('m', opened);
     history.replaceState(null, '', p.size ? '#' + p : location.pathname + location.search);
   }
   function loadHash() {
@@ -178,6 +225,7 @@
     state.sort = $('sort').value = p.get('sort') || 'tox';
     if (!$('sort').value) state.sort = $('sort').value = 'tox';
     for (const f of FACETS) state.sel[f.key] = new Set((p.get(f.key) || '').split(',').filter(Boolean));
+    return DATA.find((m) => m.id === p.get('m'));
   }
 
   $('q').addEventListener('input', (e) => { state.q = e.target.value.trim(); render(); });
@@ -187,13 +235,14 @@
     state.q = $('q').value = '';
     render();
   });
-  addEventListener('hashchange', () => { loadHash(); render(); });
+  addEventListener('hashchange', () => { const m = loadHash(); render(); if (m && m.id !== opened) openDetail(m); });
 
   if (!DATA.length) {
     $('empty').hidden = false;
     $('empty').textContent = '没有找到数据：请先运行 node scripts/fetch.mjs 生成 data/mushrooms.js。';
   } else {
-    loadHash();
+    const m = loadHash();
     render();
+    if (m) openDetail(m);
   }
 })();

@@ -37,12 +37,39 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E6%AF%92%E9%B5%9D%E8%86%8F"
   },
-  "image": "images/amanita-phalloides.jpg",
-  "credit": {
-   "author": "Archenzo",
-   "license": "CC BY-SA 3.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Amanita_phalloides_1.JPG"
-  }
+  "images": [
+   {
+    "src": "images/amanita-phalloides-1.webp",
+    "author": "Archenzo",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Amanita_phalloides_1.JPG"
+   },
+   {
+    "src": "images/amanita-phalloides-2.webp",
+    "author": "Federico Calledda",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/111266235"
+   },
+   {
+    "src": "images/amanita-phalloides-3.webp",
+    "author": "Christie Greening",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/289673781"
+   },
+   {
+    "src": "images/amanita-phalloides-4.webp",
+    "author": "lgullikson",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/172595047"
+   },
+   {
+    "src": "images/amanita-phalloides-5.webp",
+    "author": "Davide Puddu",
+    "license": "CC-BY",
+    "url": "https://www.inaturalist.org/photos/245302130"
+   }
+  ],
+  "thumb": "images/thumb/amanita-phalloides.webp"
  },
  {
   "latin": "Amanita exitialis",
@@ -77,12 +104,15 @@ window.MUSHROOMS = [
    "name": "英文维基百科",
    "url": "https://en.wikipedia.org/wiki/Amanita_exitialis"
   },
-  "image": "images/amanita-exitialis.jpeg",
-  "credit": {
-   "author": "小铖/Smalltown",
-   "license": "CC-BY-NC",
-   "url": "https://www.inaturalist.org/taxa/1376552"
-  }
+  "images": [
+   {
+    "src": "images/amanita-exitialis-1.webp",
+    "author": "小铖/Smalltown",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/137570621"
+   }
+  ],
+  "thumb": "images/thumb/amanita-exitialis.webp"
  },
  {
   "latin": "Amanita virosa",
@@ -121,12 +151,39 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E9%B1%97%E6%9F%84%E7%99%BD%E9%B5%9D%E8%86%8F"
   },
-  "image": "images/amanita-virosa.jpg",
-  "credit": {
-   "author": "No machine-readable author provided. Bernypisa assumed (based on copyright claims).",
-   "license": "CC BY 2.5",
-   "url": "https://commons.wikimedia.org/wiki/File:Amanita_virosa_02.jpg"
-  }
+  "images": [
+   {
+    "src": "images/amanita-virosa-1.webp",
+    "author": "No machine-readable author provided. Bernypisa assumed (based on copyright claims).",
+    "license": "CC BY 2.5",
+    "url": "https://commons.wikimedia.org/wiki/File:Amanita_virosa_02.jpg"
+   },
+   {
+    "src": "images/amanita-virosa-2.webp",
+    "author": "Federico Calledda",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/110521312"
+   },
+   {
+    "src": "images/amanita-virosa-3.webp",
+    "author": "Ludo Leclerc",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/91430656"
+   },
+   {
+    "src": "images/amanita-virosa-4.webp",
+    "author": "Jarkko Peltoniemi",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/88871138"
+   },
+   {
+    "src": "images/amanita-virosa-5.webp",
+    "author": "vikingecolo",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/90136375"
+   }
+  ],
+  "thumb": "images/thumb/amanita-virosa.webp"
  },
  {
   "latin": "Amanita fuliginea",
@@ -164,12 +221,39 @@ window.MUSHROOMS = [
    "name": "英文维基百科",
    "url": "https://en.wikipedia.org/wiki/Amanita_fuliginea"
   },
-  "image": "images/amanita-fuliginea.jpg",
-  "credit": {
-   "author": "This image was created by user lxjfx at Mushroom Observer, a source for mycological images.You can contact this user here.",
-   "license": "CC BY-SA 3.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Amanita_fuliginea_Hongo_803897.jpg"
-  }
+  "images": [
+   {
+    "src": "images/amanita-fuliginea-1.webp",
+    "author": "This image was created by user lxjfx at Mushroom Observer, a source for mycological images.You can contact this user here.",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Amanita_fuliginea_Hongo_803897.jpg"
+   },
+   {
+    "src": "images/amanita-fuliginea-2.webp",
+    "author": "Okumura Jun",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/408894810"
+   },
+   {
+    "src": "images/amanita-fuliginea-3.webp",
+    "author": "balawu",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/253443492"
+   },
+   {
+    "src": "images/amanita-fuliginea-4.webp",
+    "author": "Chael Thomas",
+    "license": "CC-BY-SA",
+    "url": "https://www.inaturalist.org/photos/40321093"
+   },
+   {
+    "src": "images/amanita-fuliginea-5.webp",
+    "author": "Cho Fungi",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/294045042"
+   }
+  ],
+  "thumb": "images/thumb/amanita-fuliginea.webp"
  },
  {
   "latin": "Amanita subjunquillea",
@@ -209,12 +293,39 @@ window.MUSHROOMS = [
    "name": "英文维基百科",
    "url": "https://en.wikipedia.org/wiki/Amanita_subjunquillea"
   },
-  "image": "images/amanita-subjunquillea.jpg",
-  "credit": {
-   "author": "ヘブンリーブルー",
-   "license": "CC BY-SA 3.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Tamagotakemodoi.jpg"
-  }
+  "images": [
+   {
+    "src": "images/amanita-subjunquillea-1.webp",
+    "author": "ヘブンリーブルー",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Tamagotakemodoi.jpg"
+   },
+   {
+    "src": "images/amanita-subjunquillea-2.webp",
+    "author": "Homemountain/Shan Gui",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/100680067"
+   },
+   {
+    "src": "images/amanita-subjunquillea-3.webp",
+    "author": "taisha568",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/110730771"
+   },
+   {
+    "src": "images/amanita-subjunquillea-4.webp",
+    "author": "Homemountain/Shan Gui",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/108221009"
+   },
+   {
+    "src": "images/amanita-subjunquillea-5.webp",
+    "author": "Homemountain/Shan Gui",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/100679107"
+   }
+  ],
+  "thumb": "images/thumb/amanita-subjunquillea.webp"
  },
  {
   "latin": "Amanita muscaria",
@@ -256,12 +367,39 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E6%AF%92%E8%A0%85%E5%82%98"
   },
-  "image": "images/amanita-muscaria.jpg",
-  "credit": {
-   "author": "Onderwijsgek",
-   "license": "CC BY-SA 3.0 nl",
-   "url": "https://commons.wikimedia.org/wiki/File:Amanita_muscaria_3_vliegenzwammen_op_rij.jpg"
-  }
+  "images": [
+   {
+    "src": "images/amanita-muscaria-1.webp",
+    "author": "Onderwijsgek",
+    "license": "CC BY-SA 3.0 nl",
+    "url": "https://commons.wikimedia.org/wiki/File:Amanita_muscaria_3_vliegenzwammen_op_rij.jpg"
+   },
+   {
+    "src": "images/amanita-muscaria-2.webp",
+    "author": "Federico Calledda",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/111494893"
+   },
+   {
+    "src": "images/amanita-muscaria-3.webp",
+    "author": "Isaac Capp",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/604381581"
+   },
+   {
+    "src": "images/amanita-muscaria-4.webp",
+    "author": "Borja Fierro",
+    "license": "CC-BY",
+    "url": "https://www.inaturalist.org/photos/448681419"
+   },
+   {
+    "src": "images/amanita-muscaria-5.webp",
+    "author": "toddfox",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/38820691"
+   }
+  ],
+  "thumb": "images/thumb/amanita-muscaria.webp"
  },
  {
   "latin": "Amanita pantherina",
@@ -301,12 +439,39 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E8%B1%B9%E6%96%91%E9%B5%9D%E8%86%8F"
   },
-  "image": "images/amanita-pantherina.jpg",
-  "credit": {
-   "author": "George Chernilevsky",
-   "license": "Public domain",
-   "url": "https://commons.wikimedia.org/wiki/File:Amanita_pantherina_2013_G1.jpg"
-  }
+  "images": [
+   {
+    "src": "images/amanita-pantherina-1.webp",
+    "author": "George Chernilevsky",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File:Amanita_pantherina_2013_G1.jpg"
+   },
+   {
+    "src": "images/amanita-pantherina-2.webp",
+    "author": "Federico Calledda",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/112768591"
+   },
+   {
+    "src": "images/amanita-pantherina-3.webp",
+    "author": "Davide Puddu",
+    "license": "CC-BY",
+    "url": "https://www.inaturalist.org/photos/29239726"
+   },
+   {
+    "src": "images/amanita-pantherina-4.webp",
+    "author": "Alan Rockefeller",
+    "license": "CC-BY",
+    "url": "https://www.inaturalist.org/photos/18760669"
+   },
+   {
+    "src": "images/amanita-pantherina-5.webp",
+    "author": "glokplopit",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/1006980"
+   }
+  ],
+  "thumb": "images/thumb/amanita-pantherina.webp"
  },
  {
   "latin": "Amanita hemibapha",
@@ -346,12 +511,21 @@ window.MUSHROOMS = [
    "name": "英文维基百科",
    "url": "https://en.wikipedia.org/wiki/Amanita_hemibapha"
   },
-  "image": "images/amanita-hemibapha.jpg",
-  "credit": {
-   "author": "This image was created by user Steve Axford (steveaxford) at Mushroom Observer, a source for mycological images.You can contact this user here.",
-   "license": "CC BY-SA 3.0",
-   "url": "https://commons.wikimedia.org/wiki/File:2015-08-19_Amanita_hemibapha_(Berk._%26_Broome)_Sacc_591749.jpg"
-  }
+  "images": [
+   {
+    "src": "images/amanita-hemibapha-1.webp",
+    "author": "This image was created by user Steve Axford (steveaxford) at Mushroom Observer, a source for mycological images.You can contact this user here.",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:2015-08-19_Amanita_hemibapha_(Berk._%26_Broome)_Sacc_591749.jpg"
+   },
+   {
+    "src": "images/amanita-hemibapha-2.webp",
+    "author": "Σ64",
+    "license": "CC-BY",
+    "url": "https://www.inaturalist.org/photos/2069631"
+   }
+  ],
+  "thumb": "images/thumb/amanita-hemibapha.webp"
  },
  {
   "latin": "Galerina marginata",
@@ -389,12 +563,39 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E7%B4%8B%E7%B7%A3%E7%9B%94%E5%AD%A2%E5%82%98"
   },
-  "image": "images/galerina-marginata.jpeg",
-  "credit": {
-   "author": "Benjamin J. Dion",
-   "license": "CC-BY-NC-SA",
-   "url": "https://www.inaturalist.org/taxa/1672638"
-  }
+  "images": [
+   {
+    "src": "images/galerina-marginata-1.webp",
+    "author": "Benjamin J. Dion",
+    "license": "CC-BY-NC-SA",
+    "url": "https://www.inaturalist.org/photos/6084051"
+   },
+   {
+    "src": "images/galerina-marginata-2.webp",
+    "author": "Amos Zoeller",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/342891323"
+   },
+   {
+    "src": "images/galerina-marginata-3.webp",
+    "author": "maricel patino",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/359568082"
+   },
+   {
+    "src": "images/galerina-marginata-4.webp",
+    "author": "Alan Rockefeller",
+    "license": "CC-BY",
+    "url": "https://www.inaturalist.org/photos/456769231"
+   },
+   {
+    "src": "images/galerina-marginata-5.webp",
+    "author": "Alan Rockefeller",
+    "license": "CC-BY",
+    "url": "https://www.inaturalist.org/photos/456762435"
+   }
+  ],
+  "thumb": "images/thumb/galerina-marginata.webp"
  },
  {
   "latin": "Lepiota brunneoincarnata",
@@ -428,12 +629,39 @@ window.MUSHROOMS = [
    "name": "英文维基百科",
    "url": "https://en.wikipedia.org/wiki/Lepiota_brunneoincarnata"
   },
-  "image": "images/lepiota-brunneoincarnata.jpg",
-  "credit": {
-   "author": "User:Strobilomyces",
-   "license": "CC BY-SA 3.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Lepiota_brunneoincarnata_060823w.jpg"
-  }
+  "images": [
+   {
+    "src": "images/lepiota-brunneoincarnata-1.webp",
+    "author": "User:Strobilomyces",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Lepiota_brunneoincarnata_060823w.jpg"
+   },
+   {
+    "src": "images/lepiota-brunneoincarnata-2.webp",
+    "author": "salvatore_bacciu_paola_mereu",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/99365273"
+   },
+   {
+    "src": "images/lepiota-brunneoincarnata-3.webp",
+    "author": "Wendy Frauchiger",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/97147095"
+   },
+   {
+    "src": "images/lepiota-brunneoincarnata-4.webp",
+    "author": "danilo ugrnov",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/115088573"
+   },
+   {
+    "src": "images/lepiota-brunneoincarnata-5.webp",
+    "author": "danilo ugrnov",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/115088539"
+   }
+  ],
+  "thumb": "images/thumb/lepiota-brunneoincarnata.webp"
  },
  {
   "latin": "Russula subnigricans",
@@ -475,12 +703,21 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E4%BA%9A%E7%A8%80%E8%A4%B6%E9%BB%91%E8%8F%87"
   },
-  "image": "images/russula-subnigricans.jpg",
-  "credit": {
-   "author": "pumakit",
-   "license": "CC-BY-NC",
-   "url": "https://www.inaturalist.org/taxa/416558"
-  }
+  "images": [
+   {
+    "src": "images/russula-subnigricans-1.webp",
+    "author": "pumakit",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/102564330"
+   },
+   {
+    "src": "images/russula-subnigricans-2.webp",
+    "author": "pumakit",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/102564323"
+   }
+  ],
+  "thumb": "images/thumb/russula-subnigricans.webp"
  },
  {
   "latin": "Gyromitra esculenta",
@@ -513,12 +750,39 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E9%B9%BF%E8%8A%B1%E8%8F%8C"
   },
-  "image": "images/gyromitra-esculenta.jpg",
-  "credit": {
-   "author": "未知作者",
-   "license": "CC BY-SA 3.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Fr%C3%BChjahrslorchel.JPG"
-  }
+  "images": [
+   {
+    "src": "images/gyromitra-esculenta-1.webp",
+    "author": "未知作者",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Fr%C3%BChjahrslorchel.JPG"
+   },
+   {
+    "src": "images/gyromitra-esculenta-2.webp",
+    "author": "Kari Pihlaviita",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/1865611"
+   },
+   {
+    "src": "images/gyromitra-esculenta-3.webp",
+    "author": "Drew Parker",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/32765817"
+   },
+   {
+    "src": "images/gyromitra-esculenta-4.webp",
+    "author": "jay",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/130782643"
+   },
+   {
+    "src": "images/gyromitra-esculenta-5.webp",
+    "author": "Wes Gill",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/190209518"
+   }
+  ],
+  "thumb": "images/thumb/gyromitra-esculenta.webp"
  },
  {
   "latin": "Cortinarius orellanus",
@@ -552,12 +816,39 @@ window.MUSHROOMS = [
    "name": "英文维基百科",
    "url": "https://en.wikipedia.org/wiki/Cortinarius_orellanus"
   },
-  "image": "images/cortinarius-orellanus.jpg",
-  "credit": {
-   "author": "The original uploader was Michaelll at English Wikipedia.",
-   "license": "CC BY-SA 2.5",
-   "url": "https://commons.wikimedia.org/wiki/File:Corellanus.jpg"
-  }
+  "images": [
+   {
+    "src": "images/cortinarius-orellanus-1.webp",
+    "author": "The original uploader was Michaelll at English Wikipedia.",
+    "license": "CC BY-SA 2.5",
+    "url": "https://commons.wikimedia.org/wiki/File:Corellanus.jpg"
+   },
+   {
+    "src": "images/cortinarius-orellanus-2.webp",
+    "author": "Federico Calledda",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/118000376"
+   },
+   {
+    "src": "images/cortinarius-orellanus-3.webp",
+    "author": "Marco Floriani",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/235266626"
+   },
+   {
+    "src": "images/cortinarius-orellanus-4.webp",
+    "author": "Felipe Hidalgo",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/247508245"
+   },
+   {
+    "src": "images/cortinarius-orellanus-5.webp",
+    "author": "Federico Calledda",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/112598488"
+   }
+  ],
+  "thumb": "images/thumb/cortinarius-orellanus.webp"
  },
  {
   "latin": "Trogia venenata",
@@ -588,12 +879,15 @@ window.MUSHROOMS = [
    "name": "英文维基百科",
    "url": "https://en.wikipedia.org/wiki/Trogia_venenata"
   },
-  "image": "images/trogia-venenata.jpeg",
-  "credit": {
-   "author": "卷柏",
-   "license": "CC-BY-NC",
-   "url": "https://www.inaturalist.org/taxa/1427776"
-  }
+  "images": [
+   {
+    "src": "images/trogia-venenata-1.webp",
+    "author": "卷柏",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/230284428"
+   }
+  ],
+  "thumb": "images/thumb/trogia-venenata.webp"
  },
  {
   "latin": "Trichoderma cornu-damae",
@@ -628,12 +922,39 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E7%81%AB%E7%84%B0%E8%8C%B8"
   },
-  "image": "images/trichoderma-cornu-damae.jpg",
-  "credit": {
-   "author": "Kouchan",
-   "license": "CC BY-SA 3.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Podostroma_cornu-damae.jpg"
-  }
+  "images": [
+   {
+    "src": "images/trichoderma-cornu-damae-1.webp",
+    "author": "Kouchan",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Podostroma_cornu-damae.jpg"
+   },
+   {
+    "src": "images/trichoderma-cornu-damae-2.webp",
+    "author": "Samuel Frankel",
+    "license": "CC-BY",
+    "url": "https://www.inaturalist.org/photos/362243555"
+   },
+   {
+    "src": "images/trichoderma-cornu-damae-3.webp",
+    "author": "Gim Siew Tan",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/477947224"
+   },
+   {
+    "src": "images/trichoderma-cornu-damae-4.webp",
+    "author": "Kai Squires",
+    "license": "CC-BY",
+    "url": "https://www.inaturalist.org/photos/486295132"
+   },
+   {
+    "src": "images/trichoderma-cornu-damae-5.webp",
+    "author": "Carol Deane",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/256719819"
+   }
+  ],
+  "thumb": "images/thumb/trichoderma-cornu-damae.webp"
  },
  {
   "latin": "Chlorophyllum molybdites",
@@ -674,12 +995,39 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E5%A4%A7%E9%9D%92%E8%A4%B6%E4%BC%9E"
   },
-  "image": "images/chlorophyllum-molybdites.jpg",
-  "credit": {
-   "author": "Nathan Wilson",
-   "license": "CC BY-SA 3.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Chlorophyllum_molybdites.jpg"
-  }
+  "images": [
+   {
+    "src": "images/chlorophyllum-molybdites-1.webp",
+    "author": "Nathan Wilson",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Chlorophyllum_molybdites.jpg"
+   },
+   {
+    "src": "images/chlorophyllum-molybdites-2.webp",
+    "author": "Christian Schwarz",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/4133009"
+   },
+   {
+    "src": "images/chlorophyllum-molybdites-3.webp",
+    "author": "Sadie Hickey",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/542990091"
+   },
+   {
+    "src": "images/chlorophyllum-molybdites-4.webp",
+    "author": "axelemilio",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/104040397"
+   },
+   {
+    "src": "images/chlorophyllum-molybdites-5.webp",
+    "author": "Jorge Tena",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/4619144"
+   }
+  ],
+  "thumb": "images/thumb/chlorophyllum-molybdites.webp"
  },
  {
   "latin": "Omphalotus japonicus",
@@ -715,12 +1063,39 @@ window.MUSHROOMS = [
    "name": "英文维基百科",
    "url": "https://en.wikipedia.org/wiki/Omphalotus_japonicus"
   },
-  "image": "images/omphalotus-japonicus.jpg",
-  "credit": {
-   "author": "あおもりくま（aomorikuma）",
-   "license": "CC BY-SA 3.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Omphalotus_guepiniformis_Berk_Neda_02.jpg"
-  }
+  "images": [
+   {
+    "src": "images/omphalotus-japonicus-1.webp",
+    "author": "あおもりくま（aomorikuma）",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Omphalotus_guepiniformis_Berk_Neda_02.jpg"
+   },
+   {
+    "src": "images/omphalotus-japonicus-2.webp",
+    "author": "balawu",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/249023134"
+   },
+   {
+    "src": "images/omphalotus-japonicus-3.webp",
+    "author": "Masaki Hamaguchi",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/440014973"
+   },
+   {
+    "src": "images/omphalotus-japonicus-4.webp",
+    "author": "Hector Montero",
+    "license": "CC-BY",
+    "url": "https://www.inaturalist.org/photos/584675057"
+   },
+   {
+    "src": "images/omphalotus-japonicus-5.webp",
+    "author": "balawu",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/249022626"
+   }
+  ],
+  "thumb": "images/thumb/omphalotus-japonicus.webp"
  },
  {
   "latin": "Hypholoma fasciculare",
@@ -760,12 +1135,39 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E7%B0%87%E7%94%9F%E9%BB%84%E9%9F%A7%E4%BC%9E"
   },
-  "image": "images/hypholoma-fasciculare.jpg",
-  "credit": {
-   "author": "The High Fin Sperm Whale edit by Muhammad",
-   "license": "CC BY-SA 3.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Pholiota_in_British_Colombia.jpg"
-  }
+  "images": [
+   {
+    "src": "images/hypholoma-fasciculare-1.webp",
+    "author": "The High Fin Sperm Whale edit by Muhammad",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Pholiota_in_British_Colombia.jpg"
+   },
+   {
+    "src": "images/hypholoma-fasciculare-2.webp",
+    "author": "Nicolas Schwab",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/256148291"
+   },
+   {
+    "src": "images/hypholoma-fasciculare-3.webp",
+    "author": "stephensuttle",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/346797235"
+   },
+   {
+    "src": "images/hypholoma-fasciculare-4.webp",
+    "author": "Alan Rockefeller",
+    "license": "CC-BY",
+    "url": "https://www.inaturalist.org/photos/109907882"
+   },
+   {
+    "src": "images/hypholoma-fasciculare-5.webp",
+    "author": "ladyofithilien",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/243108524"
+   }
+  ],
+  "thumb": "images/thumb/hypholoma-fasciculare.webp"
  },
  {
   "latin": "Russula emetica",
@@ -802,12 +1204,39 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E6%AF%92%E7%BA%A2%E8%8F%87"
   },
-  "image": "images/russula-emetica.jpg",
-  "credit": {
-   "author": "MichalPL",
-   "license": "CC BY-SA 4.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Russula_emetica_in_Poland.jpg"
-  }
+  "images": [
+   {
+    "src": "images/russula-emetica-1.webp",
+    "author": "MichalPL",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Russula_emetica_in_Poland.jpg"
+   },
+   {
+    "src": "images/russula-emetica-2.webp",
+    "author": "noah_siegel",
+    "license": "CC-BY-NC-SA",
+    "url": "https://www.inaturalist.org/photos/109349419"
+   },
+   {
+    "src": "images/russula-emetica-3.webp",
+    "author": "Vladimir Bryukhov",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/180046156"
+   },
+   {
+    "src": "images/russula-emetica-4.webp",
+    "author": "uwekozina",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/329251338"
+   },
+   {
+    "src": "images/russula-emetica-5.webp",
+    "author": "uwekozina",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/329251248"
+   }
+  ],
+  "thumb": "images/thumb/russula-emetica.webp"
  },
  {
   "latin": "Lactarius torminosus",
@@ -845,12 +1274,21 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E7%B5%A8%E6%AF%9B%E4%B9%B3%E8%8F%87"
   },
-  "image": "images/lactarius-torminosus.jpg",
-  "credit": {
-   "author": "Tocekas",
-   "license": "CC BY-SA 3.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Lactarius_torminosus_(cropped).jpg"
-  }
+  "images": [
+   {
+    "src": "images/lactarius-torminosus-1.webp",
+    "author": "Tocekas",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Lactarius_torminosus_(cropped).jpg"
+   },
+   {
+    "src": "images/lactarius-torminosus-2.webp",
+    "author": "Davide Puddu",
+    "license": "CC-BY",
+    "url": "https://www.inaturalist.org/photos/29239661"
+   }
+  ],
+  "thumb": "images/thumb/lactarius-torminosus.webp"
  },
  {
   "latin": "Coprinopsis atramentaria",
@@ -893,12 +1331,39 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E5%A2%A8%E6%B1%81%E9%AC%BC%E5%82%98"
   },
-  "image": "images/coprinopsis-atramentaria.jpg",
-  "credit": {
-   "author": "Photographer: User:MarkusHagenlocher",
-   "license": "CC BY-SA 3.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Coprinus_atramentarius.jpg"
-  }
+  "images": [
+   {
+    "src": "images/coprinopsis-atramentaria-1.webp",
+    "author": "Photographer: User:MarkusHagenlocher",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Coprinus_atramentarius.jpg"
+   },
+   {
+    "src": "images/coprinopsis-atramentaria-2.webp",
+    "author": "Kevin Fox",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/353056436"
+   },
+   {
+    "src": "images/coprinopsis-atramentaria-3.webp",
+    "author": "Kevin Fox",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/355080432"
+   },
+   {
+    "src": "images/coprinopsis-atramentaria-4.webp",
+    "author": "Kevin Fox",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/353056361"
+   },
+   {
+    "src": "images/coprinopsis-atramentaria-5.webp",
+    "author": "Jakob Fahr",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/2409764"
+   }
+  ],
+  "thumb": "images/thumb/coprinopsis-atramentaria.webp"
  },
  {
   "latin": "Psilocybe cubensis",
@@ -937,12 +1402,39 @@ window.MUSHROOMS = [
    "name": "英文维基百科",
    "url": "https://en.wikipedia.org/wiki/Psilocybe_cubensis"
   },
-  "image": "images/psilocybe-cubensis.jpg",
-  "credit": {
-   "author": "Alan Rockefeller",
-   "license": "CC BY-SA 4.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Cubensis_Xalapa.jpg"
-  }
+  "images": [
+   {
+    "src": "images/psilocybe-cubensis-1.webp",
+    "author": "Alan Rockefeller",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Cubensis_Xalapa.jpg"
+   },
+   {
+    "src": "images/psilocybe-cubensis-2.webp",
+    "author": "Teodoro Chivatá Bedoya",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/77336534"
+   },
+   {
+    "src": "images/psilocybe-cubensis-3.webp",
+    "author": "Alan Rockefeller",
+    "license": "CC-BY-SA",
+    "url": "https://www.inaturalist.org/photos/66031958"
+   },
+   {
+    "src": "images/psilocybe-cubensis-4.webp",
+    "author": "Alan Rockefeller",
+    "license": "CC-BY",
+    "url": "https://www.inaturalist.org/photos/5751847"
+   },
+   {
+    "src": "images/psilocybe-cubensis-5.webp",
+    "author": "Denis Zabin",
+    "license": "CC-BY",
+    "url": "https://www.inaturalist.org/photos/251184657"
+   }
+  ],
+  "thumb": "images/thumb/psilocybe-cubensis.webp"
  },
  {
   "latin": "Gymnopilus junonius",
@@ -982,12 +1474,39 @@ window.MUSHROOMS = [
    "name": "英文维基百科",
    "url": "https://en.wikipedia.org/wiki/Gymnopilus_junonius"
   },
-  "image": "images/gymnopilus-junonius.jpg",
-  "credit": {
-   "author": "Tony Wills",
-   "license": "CC BY 2.5",
-   "url": "https://commons.wikimedia.org/wiki/File:Gymnopilus_junonius-02.jpg"
-  }
+  "images": [
+   {
+    "src": "images/gymnopilus-junonius-1.webp",
+    "author": "Tony Wills",
+    "license": "CC BY 2.5",
+    "url": "https://commons.wikimedia.org/wiki/File:Gymnopilus_junonius-02.jpg"
+   },
+   {
+    "src": "images/gymnopilus-junonius-2.webp",
+    "author": "lc4wa",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/101798701"
+   },
+   {
+    "src": "images/gymnopilus-junonius-3.webp",
+    "author": "illanonline",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/125554033"
+   },
+   {
+    "src": "images/gymnopilus-junonius-4.webp",
+    "author": "Thomas Bigelow",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/55251386"
+   },
+   {
+    "src": "images/gymnopilus-junonius-5.webp",
+    "author": "Fluff Berger",
+    "license": "CC-BY-SA",
+    "url": "https://www.inaturalist.org/photos/2548963"
+   }
+  ],
+  "thumb": "images/thumb/gymnopilus-junonius.webp"
  },
  {
   "latin": "Scleroderma citrinum",
@@ -1024,12 +1543,39 @@ window.MUSHROOMS = [
    "name": "英文维基百科",
    "url": "https://en.wikipedia.org/wiki/Scleroderma_citrinum"
   },
-  "image": "images/scleroderma-citrinum.jpg",
-  "credit": {
-   "author": "Eric Steinert",
-   "license": "CC BY-SA 3.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Scleroderma_citrinum.jpg"
-  }
+  "images": [
+   {
+    "src": "images/scleroderma-citrinum-1.webp",
+    "author": "Eric Steinert",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Scleroderma_citrinum.jpg"
+   },
+   {
+    "src": "images/scleroderma-citrinum-2.webp",
+    "author": "Chris",
+    "license": "CC-BY-NC-SA",
+    "url": "https://www.inaturalist.org/photos/9991"
+   },
+   {
+    "src": "images/scleroderma-citrinum-3.webp",
+    "author": "joannerusso",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/448431"
+   },
+   {
+    "src": "images/scleroderma-citrinum-4.webp",
+    "author": "Emma Richter",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/188726106"
+   },
+   {
+    "src": "images/scleroderma-citrinum-5.webp",
+    "author": "Laura Hlusko",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/5459804"
+   }
+  ],
+  "thumb": "images/thumb/scleroderma-citrinum.webp"
  },
  {
   "latin": "Paxillus involutus",
@@ -1068,12 +1614,39 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E5%8D%B7%E7%BC%98%E6%A1%A9%E8%8F%87"
   },
-  "image": "images/paxillus-involutus.jpeg",
-  "credit": {
-   "author": "Matthieu Morin",
-   "license": "CC-BY-NC",
-   "url": "https://www.inaturalist.org/taxa/55941"
-  }
+  "images": [
+   {
+    "src": "images/paxillus-involutus-1.webp",
+    "author": "Matthieu Morin",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/236458619"
+   },
+   {
+    "src": "images/paxillus-involutus-2.webp",
+    "author": "Kim Falck",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/96220357"
+   },
+   {
+    "src": "images/paxillus-involutus-3.webp",
+    "author": "Kim Falck",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/96220243"
+   },
+   {
+    "src": "images/paxillus-involutus-4.webp",
+    "author": "Adam Boring",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/309692971"
+   },
+   {
+    "src": "images/paxillus-involutus-5.webp",
+    "author": "Ola Andersen",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/206737336"
+   }
+  ],
+  "thumb": "images/thumb/paxillus-involutus.webp"
  },
  {
   "latin": "Entoloma sinuatum",
@@ -1110,12 +1683,27 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E6%AF%92%E7%B2%89%E8%A4%B6%E8%8F%8C"
   },
-  "image": "images/entoloma-sinuatum.jpg",
-  "credit": {
-   "author": "No machine-readable author provided. Archenzo assumed (based on copyright claims).",
-   "license": "CC BY-SA 3.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Entoloma_sinuatum_group.JPG"
-  }
+  "images": [
+   {
+    "src": "images/entoloma-sinuatum-1.webp",
+    "author": "No machine-readable author provided. Archenzo assumed (based on copyright claims).",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Entoloma_sinuatum_group.JPG"
+   },
+   {
+    "src": "images/entoloma-sinuatum-2.webp",
+    "author": "Federico Calledda",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/111692094"
+   },
+   {
+    "src": "images/entoloma-sinuatum-3.webp",
+    "author": "Felipe Hidalgo",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/244654460"
+   }
+  ],
+  "thumb": "images/thumb/entoloma-sinuatum.webp"
  },
  {
   "latin": "Agaricus xanthodermus",
@@ -1152,12 +1740,39 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E9%BB%84%E6%96%91%E8%98%91%E8%8F%87"
   },
-  "image": "images/agaricus-xanthodermus.jpg",
-  "credit": {
-   "author": "Velella",
-   "license": "CC BY-SA 3.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Agaricus_xanthodermus_section.jpg"
-  }
+  "images": [
+   {
+    "src": "images/agaricus-xanthodermus-1.webp",
+    "author": "Velella",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Agaricus_xanthodermus_section.jpg"
+   },
+   {
+    "src": "images/agaricus-xanthodermus-2.webp",
+    "author": "Damon Tighe",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/5235305"
+   },
+   {
+    "src": "images/agaricus-xanthodermus-3.webp",
+    "author": "Taye Bright",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/334066709"
+   },
+   {
+    "src": "images/agaricus-xanthodermus-4.webp",
+    "author": "Christian Schwarz",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/4136116"
+   },
+   {
+    "src": "images/agaricus-xanthodermus-5.webp",
+    "author": "Damon Tighe",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/1309470"
+   }
+  ],
+  "thumb": "images/thumb/agaricus-xanthodermus.webp"
  },
  {
   "latin": "Tricholoma equestre",
@@ -1193,12 +1808,39 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E6%B2%B9%E5%8F%A3%E8%98%91"
   },
-  "image": "images/tricholoma-equestre.jpg",
-  "credit": {
-   "author": "Aorg1961",
-   "license": "CC BY-SA 4.0",
-   "url": "https://commons.wikimedia.org/wiki/File:G%C4%85ska_zielonka_4163586773.jpg"
-  }
+  "images": [
+   {
+    "src": "images/tricholoma-equestre-1.webp",
+    "author": "Aorg1961",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:G%C4%85ska_zielonka_4163586773.jpg"
+   },
+   {
+    "src": "images/tricholoma-equestre-2.webp",
+    "author": "Christian Schwarz",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/14377130"
+   },
+   {
+    "src": "images/tricholoma-equestre-3.webp",
+    "author": "noah_siegel",
+    "license": "CC-BY-NC-SA",
+    "url": "https://www.inaturalist.org/photos/4160661"
+   },
+   {
+    "src": "images/tricholoma-equestre-4.webp",
+    "author": "noah_siegel",
+    "license": "CC-BY-NC-SA",
+    "url": "https://www.inaturalist.org/photos/4161045"
+   },
+   {
+    "src": "images/tricholoma-equestre-5.webp",
+    "author": "noah_siegel",
+    "license": "CC-BY-NC-SA",
+    "url": "https://www.inaturalist.org/photos/4160648"
+   }
+  ],
+  "thumb": "images/thumb/tricholoma-equestre.webp"
  },
  {
   "latin": "Hygrocybe conica",
@@ -1239,12 +1881,39 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E9%8C%90%E5%BD%A2%E6%BF%95%E5%82%98"
   },
-  "image": "images/hygrocybe-conica.jpg",
-  "credit": {
-   "author": "No machine-readable author provided. Taka assumed (based on copyright claims).",
-   "license": "CC BY 2.5",
-   "url": "https://commons.wikimedia.org/wiki/File:Hygrocybe_conica_(2005_11_07)_1.jpg"
-  }
+  "images": [
+   {
+    "src": "images/hygrocybe-conica-1.webp",
+    "author": "No machine-readable author provided. Taka assumed (based on copyright claims).",
+    "license": "CC BY 2.5",
+    "url": "https://commons.wikimedia.org/wiki/File:Hygrocybe_conica_(2005_11_07)_1.jpg"
+   },
+   {
+    "src": "images/hygrocybe-conica-2.webp",
+    "author": "Damon Tighe",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/3287732"
+   },
+   {
+    "src": "images/hygrocybe-conica-3.webp",
+    "author": "Lisa Bennett",
+    "license": "CC-BY",
+    "url": "https://www.inaturalist.org/photos/1621533"
+   },
+   {
+    "src": "images/hygrocybe-conica-4.webp",
+    "author": "Erin O'Connor",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/231134408"
+   },
+   {
+    "src": "images/hygrocybe-conica-5.webp",
+    "author": "Almantas Kulbis",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/10624929"
+   }
+  ],
+  "thumb": "images/thumb/hygrocybe-conica.webp"
  },
  {
   "latin": "Lanmaoa asiatica",
@@ -1283,12 +1952,21 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E4%BA%9A%E6%B4%B2%E5%85%B0%E8%8C%82%E7%89%9B%E8%82%9D%E8%8F%8C"
   },
-  "image": "images/lanmaoa-asiatica.jpg",
-  "credit": {
-   "author": "Ruanxian Dai, Zhantao Duan, Bin Han, Yating Peng, Lan Zhu, Yuan Shen, Qiang Meng",
-   "license": "CC BY 4.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Lanmaoa_asiatica.jpg"
-  }
+  "images": [
+   {
+    "src": "images/lanmaoa-asiatica-1.webp",
+    "author": "Ruanxian Dai, Zhantao Duan, Bin Han, Yating Peng, Lan Zhu, Yuan Shen, Qiang Meng",
+    "license": "CC BY 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Lanmaoa_asiatica.jpg"
+   },
+   {
+    "src": "images/lanmaoa-asiatica-2.webp",
+    "author": "Colin Domnauer",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/400667980"
+   }
+  ],
+  "thumb": "images/thumb/lanmaoa-asiatica.webp"
  },
  {
   "latin": "Tylopilus felleus",
@@ -1324,12 +2002,39 @@ window.MUSHROOMS = [
    "name": "英文维基百科",
    "url": "https://en.wikipedia.org/wiki/Tylopilus_felleus"
   },
-  "image": "images/tylopilus-felleus.jpg",
-  "credit": {
-   "author": "Tylopilus_felleus_060914c.jpg: bernd gliwa derivative work: Ak ccm",
-   "license": "CC BY-SA 2.5",
-   "url": "https://commons.wikimedia.org/wiki/File:2006-09-14_Tylopilus_felleus_crop.jpg"
-  }
+  "images": [
+   {
+    "src": "images/tylopilus-felleus-1.webp",
+    "author": "Tylopilus_felleus_060914c.jpg: bernd gliwa derivative work: Ak ccm",
+    "license": "CC BY-SA 2.5",
+    "url": "https://commons.wikimedia.org/wiki/File:2006-09-14_Tylopilus_felleus_crop.jpg"
+   },
+   {
+    "src": "images/tylopilus-felleus-2.webp",
+    "author": "Federico Calledda",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/307742277"
+   },
+   {
+    "src": "images/tylopilus-felleus-3.webp",
+    "author": "Daniel Ghyselinck",
+    "license": "CC-BY",
+    "url": "https://www.inaturalist.org/photos/469904189"
+   },
+   {
+    "src": "images/tylopilus-felleus-4.webp",
+    "author": "Thomas Dreux",
+    "license": "CC-BY",
+    "url": "https://www.inaturalist.org/photos/142729521"
+   },
+   {
+    "src": "images/tylopilus-felleus-5.webp",
+    "author": "mycowalt",
+    "license": "CC-BY-NC-SA",
+    "url": "https://www.inaturalist.org/photos/13079490"
+   }
+  ],
+  "thumb": "images/thumb/tylopilus-felleus.webp"
  },
  {
   "latin": "Lentinula edodes",
@@ -1370,12 +2075,39 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E9%A6%99%E8%8F%87"
   },
-  "image": "images/lentinula-edodes.jpg",
-  "credit": {
-   "author": "frankenstoen from Portland, Oregon",
-   "license": "CC BY 2.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Shiitakegrowing.jpg"
-  }
+  "images": [
+   {
+    "src": "images/lentinula-edodes-1.webp",
+    "author": "frankenstoen from Portland, Oregon",
+    "license": "CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Shiitakegrowing.jpg"
+   },
+   {
+    "src": "images/lentinula-edodes-2.webp",
+    "author": "Masaki Hamaguchi",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/443071643"
+   },
+   {
+    "src": "images/lentinula-edodes-3.webp",
+    "author": "Keeper Trout",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/107196734"
+   },
+   {
+    "src": "images/lentinula-edodes-4.webp",
+    "author": "furm",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/116230354"
+   },
+   {
+    "src": "images/lentinula-edodes-5.webp",
+    "author": "Joseph Pallante",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/352368602"
+   }
+  ],
+  "thumb": "images/thumb/lentinula-edodes.webp"
  },
  {
   "latin": "Pleurotus ostreatus",
@@ -1420,12 +2152,21 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E5%B9%B3%E8%8F%87"
   },
-  "image": "images/pleurotus-ostreatus.jpg",
-  "credit": {
-   "author": "voir ci-dessous / see below",
-   "license": "CC BY 3.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Pleurotus_ostreatus_JPG7.jpg"
-  }
+  "images": [
+   {
+    "src": "images/pleurotus-ostreatus-1.webp",
+    "author": "voir ci-dessous / see below",
+    "license": "CC BY 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Pleurotus_ostreatus_JPG7.jpg"
+   },
+   {
+    "src": "images/pleurotus-ostreatus-2.webp",
+    "author": "Kai Joaquin",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/5909842"
+   }
+  ],
+  "thumb": "images/thumb/pleurotus-ostreatus.webp"
  },
  {
   "latin": "Pleurotus eryngii",
@@ -1461,12 +2202,27 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E6%9D%8F%E9%AE%91%E8%8F%87"
   },
-  "image": "images/pleurotus-eryngii.jpg",
-  "credit": {
-   "author": "Lemon-s",
-   "license": "Public domain",
-   "url": "https://commons.wikimedia.org/wiki/File:Pleurotus_eryngii.jpg"
-  }
+  "images": [
+   {
+    "src": "images/pleurotus-eryngii-1.webp",
+    "author": "Lemon-s",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File:Pleurotus_eryngii.jpg"
+   },
+   {
+    "src": "images/pleurotus-eryngii-2.webp",
+    "author": "Davide Puddu",
+    "license": "CC-BY",
+    "url": "https://www.inaturalist.org/photos/29410378"
+   },
+   {
+    "src": "images/pleurotus-eryngii-3.webp",
+    "author": "Davide Puddu",
+    "license": "CC-BY",
+    "url": "https://www.inaturalist.org/photos/29410382"
+   }
+  ],
+  "thumb": "images/thumb/pleurotus-eryngii.webp"
  },
  {
   "latin": "Flammulina filiformis",
@@ -1509,12 +2265,39 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E9%87%91%E9%87%9D%E8%8F%87"
   },
-  "image": "images/flammulina-filiformis.jpg",
-  "credit": {
-   "author": "frankenstoen",
-   "license": "CC BY-SA 2.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Flammulina_velutipes_(Enokitake,_winter_mushroom).jpg"
-  }
+  "images": [
+   {
+    "src": "images/flammulina-filiformis-1.webp",
+    "author": "frankenstoen",
+    "license": "CC BY-SA 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Flammulina_velutipes_(Enokitake,_winter_mushroom).jpg"
+   },
+   {
+    "src": "images/flammulina-filiformis-2.webp",
+    "author": "John D Reynolds",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/589981740"
+   },
+   {
+    "src": "images/flammulina-filiformis-3.webp",
+    "author": "santiagocastells",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/601285109"
+   },
+   {
+    "src": "images/flammulina-filiformis-4.webp",
+    "author": "treemindful",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/339845810"
+   },
+   {
+    "src": "images/flammulina-filiformis-5.webp",
+    "author": "samihaali02",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/437914182"
+   }
+  ],
+  "thumb": "images/thumb/flammulina-filiformis.webp"
  },
  {
   "latin": "Agaricus bisporus",
@@ -1554,12 +2337,39 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E9%9B%99%E5%AD%A2%E8%98%91%E8%8F%87"
   },
-  "image": "images/agaricus-bisporus.jpg",
-  "credit": {
-   "author": "Peachyeung316",
-   "license": "CC BY-SA 4.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Button_mushroom_in_Yuen_Long.jpg"
-  }
+  "images": [
+   {
+    "src": "images/agaricus-bisporus-1.webp",
+    "author": "Peachyeung316",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Button_mushroom_in_Yuen_Long.jpg"
+   },
+   {
+    "src": "images/agaricus-bisporus-2.webp",
+    "author": "Adam J. Searcy",
+    "license": "CC-BY",
+    "url": "https://www.inaturalist.org/photos/32035053"
+   },
+   {
+    "src": "images/agaricus-bisporus-3.webp",
+    "author": "Adam J. Searcy",
+    "license": "CC-BY",
+    "url": "https://www.inaturalist.org/photos/32035082"
+   },
+   {
+    "src": "images/agaricus-bisporus-4.webp",
+    "author": "Christian Schwarz",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/32037926"
+   },
+   {
+    "src": "images/agaricus-bisporus-5.webp",
+    "author": "Christian Schwarz",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/14402880"
+   }
+  ],
+  "thumb": "images/thumb/agaricus-bisporus.webp"
  },
  {
   "latin": "Auricularia heimuer",
@@ -1599,12 +2409,39 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E9%BB%91%E6%9C%A8%E8%80%B3"
   },
-  "image": "images/auricularia-heimuer.jpg",
-  "credit": {
-   "author": "Dinesh Valke",
-   "license": "CC-BY-SA",
-   "url": "https://www.inaturalist.org/taxa/879906"
-  }
+  "images": [
+   {
+    "src": "images/auricularia-heimuer-1.webp",
+    "author": "Dinesh Valke",
+    "license": "CC-BY-SA",
+    "url": "https://www.inaturalist.org/photos/43696040"
+   },
+   {
+    "src": "images/auricularia-heimuer-2.webp",
+    "author": "Dinesh Valke",
+    "license": "CC-BY-SA",
+    "url": "https://www.inaturalist.org/photos/99224300"
+   },
+   {
+    "src": "images/auricularia-heimuer-3.webp",
+    "author": "Dinesh Valke",
+    "license": "CC-BY-SA",
+    "url": "https://www.inaturalist.org/photos/99224301"
+   },
+   {
+    "src": "images/auricularia-heimuer-4.webp",
+    "author": "Dinesh Valke",
+    "license": "CC-BY-SA",
+    "url": "https://www.inaturalist.org/photos/99224302"
+   },
+   {
+    "src": "images/auricularia-heimuer-5.webp",
+    "author": "Dinesh Valke",
+    "license": "CC-BY-SA",
+    "url": "https://www.inaturalist.org/photos/99224303"
+   }
+  ],
+  "thumb": "images/thumb/auricularia-heimuer.webp"
  },
  {
   "latin": "Auricularia cornea",
@@ -1646,12 +2483,27 @@ window.MUSHROOMS = [
    "name": "英文维基百科",
    "url": "https://en.wikipedia.org/wiki/Auricularia_cornea"
   },
-  "image": "images/auricularia-cornea.jpg",
-  "credit": {
-   "author": "Tony Wills",
-   "license": "CC BY-SA 4.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Auricularia_cornea_(Wellington,_New_Zealand).jpg"
-  }
+  "images": [
+   {
+    "src": "images/auricularia-cornea-1.webp",
+    "author": "Tony Wills",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Auricularia_cornea_(Wellington,_New_Zealand).jpg"
+   },
+   {
+    "src": "images/auricularia-cornea-2.webp",
+    "author": "alessandradalia",
+    "license": "CC-BY-SA",
+    "url": "https://www.inaturalist.org/photos/27453572"
+   },
+   {
+    "src": "images/auricularia-cornea-3.webp",
+    "author": "shelbyl",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/225150976"
+   }
+  ],
+  "thumb": "images/thumb/auricularia-cornea.webp"
  },
  {
   "latin": "Tremella fuciformis",
@@ -1691,12 +2543,39 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E9%8A%80%E8%80%B3"
   },
-  "image": "images/tremella-fuciformis.jpg",
-  "credit": {
-   "author": "Eric Guinther",
-   "license": "CC BY-SA 3.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Tremella_closeup.jpg"
-  }
+  "images": [
+   {
+    "src": "images/tremella-fuciformis-1.webp",
+    "author": "Eric Guinther",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Tremella_closeup.jpg"
+   },
+   {
+    "src": "images/tremella-fuciformis-2.webp",
+    "author": "Alex Abair",
+    "license": "CC-BY",
+    "url": "https://www.inaturalist.org/photos/99916366"
+   },
+   {
+    "src": "images/tremella-fuciformis-3.webp",
+    "author": "Dan Molter",
+    "license": "CC-BY-SA",
+    "url": "https://www.inaturalist.org/photos/13274757"
+   },
+   {
+    "src": "images/tremella-fuciformis-4.webp",
+    "author": "Ron Pastorino",
+    "license": "CC-BY-SA",
+    "url": "https://www.inaturalist.org/photos/5250345"
+   },
+   {
+    "src": "images/tremella-fuciformis-5.webp",
+    "author": "Japonica",
+    "license": "CC-BY-SA",
+    "url": "https://www.inaturalist.org/photos/13274754"
+   }
+  ],
+  "thumb": "images/thumb/tremella-fuciformis.webp"
  },
  {
   "latin": "Naematelia aurantialba",
@@ -1733,12 +2612,15 @@ window.MUSHROOMS = [
    "name": "英文维基百科",
    "url": "https://en.wikipedia.org/wiki/Naematelia_aurantialba"
   },
-  "image": "images/naematelia-aurantialba.jpg",
-  "credit": {
-   "author": "Fumikas Sagisavas",
-   "license": "CC0",
-   "url": "https://commons.wikimedia.org/wiki/File:Golden_ear_bacteria_(2).jpg"
-  }
+  "images": [
+   {
+    "src": "images/naematelia-aurantialba-1.webp",
+    "author": "Fumikas Sagisavas",
+    "license": "CC0",
+    "url": "https://commons.wikimedia.org/wiki/File:Golden_ear_bacteria_(2).jpg"
+   }
+  ],
+  "thumb": "images/thumb/naematelia-aurantialba.webp"
  },
  {
   "latin": "Hericium erinaceus",
@@ -1780,12 +2662,15 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E7%8C%B4%E5%A4%B4%E8%8F%87"
   },
-  "image": "images/hericium-erinaceus.jpg",
-  "credit": {
-   "author": "Lebrac",
-   "license": "CC BY-SA 3.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Igelstachelbart_Nov_06.jpg"
-  }
+  "images": [
+   {
+    "src": "images/hericium-erinaceus-1.webp",
+    "author": "Lebrac",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Igelstachelbart_Nov_06.jpg"
+   }
+  ],
+  "thumb": "images/thumb/hericium-erinaceus.webp"
  },
  {
   "latin": "Morchella esculenta",
@@ -1824,12 +2709,39 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%91%B3%E7%BE%8A%E8%82%9A%E8%8F%8C"
   },
-  "image": "images/morchella-esculenta.jpg",
-  "credit": {
-   "author": "TOMMES-WIKI",
-   "license": "CC BY-SA 3.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Morchella_esculenta_-_DE_-_TH_-_2013-05-01_-_01.JPG"
-  }
+  "images": [
+   {
+    "src": "images/morchella-esculenta-1.webp",
+    "author": "TOMMES-WIKI",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Morchella_esculenta_-_DE_-_TH_-_2013-05-01_-_01.JPG"
+   },
+   {
+    "src": "images/morchella-esculenta-2.webp",
+    "author": "k_eper",
+    "license": "CC-BY-NC-SA",
+    "url": "https://www.inaturalist.org/photos/194781537"
+   },
+   {
+    "src": "images/morchella-esculenta-3.webp",
+    "author": "Nicolò Oppicelli",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/185479981"
+   },
+   {
+    "src": "images/morchella-esculenta-4.webp",
+    "author": "Nicolò Oppicelli",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/175594791"
+   },
+   {
+    "src": "images/morchella-esculenta-5.webp",
+    "author": "Massimo Tabone",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/62797205"
+   }
+  ],
+  "thumb": "images/thumb/morchella-esculenta.webp"
  },
  {
   "latin": "Tricholoma matsutake",
@@ -1869,12 +2781,27 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E6%9D%BE%E5%8F%A3%E8%98%91"
   },
-  "image": "images/tricholoma-matsutake.jpg",
-  "credit": {
-   "author": "Tomomarusan",
-   "license": "CC BY 2.5",
-   "url": "https://commons.wikimedia.org/wiki/File:Matsutake.jpg"
-  }
+  "images": [
+   {
+    "src": "images/tricholoma-matsutake-1.webp",
+    "author": "Tomomarusan",
+    "license": "CC BY 2.5",
+    "url": "https://commons.wikimedia.org/wiki/File:Matsutake.jpg"
+   },
+   {
+    "src": "images/tricholoma-matsutake-2.webp",
+    "author": "Federico Calledda",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/105910334"
+   },
+   {
+    "src": "images/tricholoma-matsutake-3.webp",
+    "author": "Christian Apschner",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/115545910"
+   }
+  ],
+  "thumb": "images/thumb/tricholoma-matsutake.webp"
  },
  {
   "latin": "Catathelasma ventricosum",
@@ -1908,12 +2835,33 @@ window.MUSHROOMS = [
   "id": "catathelasma-ventricosum",
   "extract": "",
   "source": null,
-  "image": "images/catathelasma-ventricosum.jpeg",
-  "credit": {
-   "author": "Alfredo Justo",
-   "license": "CC-BY-NC",
-   "url": "https://www.inaturalist.org/taxa/196530"
-  }
+  "images": [
+   {
+    "src": "images/catathelasma-ventricosum-1.webp",
+    "author": "Alfredo Justo",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/242690380"
+   },
+   {
+    "src": "images/catathelasma-ventricosum-2.webp",
+    "author": "Mandy Hackney",
+    "license": "CC-BY",
+    "url": "https://www.inaturalist.org/photos/335430472"
+   },
+   {
+    "src": "images/catathelasma-ventricosum-3.webp",
+    "author": "Mandy Hackney",
+    "license": "CC-BY",
+    "url": "https://www.inaturalist.org/photos/159692638"
+   },
+   {
+    "src": "images/catathelasma-ventricosum-4.webp",
+    "author": "Mandy Hackney",
+    "license": "CC-BY",
+    "url": "https://www.inaturalist.org/photos/164473231"
+   }
+  ],
+  "thumb": "images/thumb/catathelasma-ventricosum.webp"
  },
  {
   "latin": "Boletus edulis",
@@ -1954,12 +2902,39 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%91%B3%E7%89%9B%E8%82%9D%E8%8F%8C"
   },
-  "image": "images/boletus-edulis.jpg",
-  "credit": {
-   "author": "Strobilomyces",
-   "license": "CC BY-SA 4.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Boletus_edulis_EtgHollande_041031_091.jpg"
-  }
+  "images": [
+   {
+    "src": "images/boletus-edulis-1.webp",
+    "author": "Strobilomyces",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Boletus_edulis_EtgHollande_041031_091.jpg"
+   },
+   {
+    "src": "images/boletus-edulis-2.webp",
+    "author": "wp-polzin",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/328303120"
+   },
+   {
+    "src": "images/boletus-edulis-3.webp",
+    "author": "Milli Vedder",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/590653767"
+   },
+   {
+    "src": "images/boletus-edulis-4.webp",
+    "author": "Davide Puddu",
+    "license": "CC-BY",
+    "url": "https://www.inaturalist.org/photos/29239600"
+   },
+   {
+    "src": "images/boletus-edulis-5.webp",
+    "author": "hankabroz",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/36953355"
+   }
+  ],
+  "thumb": "images/thumb/boletus-edulis.webp"
  },
  {
   "latin": "Suillus luteus",
@@ -1999,12 +2974,39 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E8%A4%90%E7%92%B0%E4%B9%B3%E7%89%9B%E8%82%9D%E8%8F%8C"
   },
-  "image": "images/suillus-luteus.jpg",
-  "credit": {
-   "author": "walt sturgeon (Mycowalt)",
-   "license": "CC BY-SA 3.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Suillus_luteus_475376.jpg"
-  }
+  "images": [
+   {
+    "src": "images/suillus-luteus-1.webp",
+    "author": "walt sturgeon (Mycowalt)",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Suillus_luteus_475376.jpg"
+   },
+   {
+    "src": "images/suillus-luteus-2.webp",
+    "author": "Davide Puddu",
+    "license": "CC-BY",
+    "url": "https://www.inaturalist.org/photos/12823339"
+   },
+   {
+    "src": "images/suillus-luteus-3.webp",
+    "author": "Kari Pihlaviita",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/10473273"
+   },
+   {
+    "src": "images/suillus-luteus-4.webp",
+    "author": "Christian Schwarz",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/13310739"
+   },
+   {
+    "src": "images/suillus-luteus-5.webp",
+    "author": "Jon Sullivan",
+    "license": "CC-BY",
+    "url": "https://www.inaturalist.org/photos/1180608"
+   }
+  ],
+  "thumb": "images/thumb/suillus-luteus.webp"
  },
  {
   "latin": "Cantharellus cibarius",
@@ -2044,12 +3046,39 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E9%B8%A1%E6%B2%B9%E8%8F%8C"
   },
-  "image": "images/cantharellus-cibarius.jpg",
-  "credit": {
-   "author": "未知作者",
-   "license": "CC BY-SA 3.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Chanterelle_Cantharellus_cibarius.jpg"
-  }
+  "images": [
+   {
+    "src": "images/cantharellus-cibarius-1.webp",
+    "author": "未知作者",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Chanterelle_Cantharellus_cibarius.jpg"
+   },
+   {
+    "src": "images/cantharellus-cibarius-2.webp",
+    "author": "Federico Calledda",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/309948593"
+   },
+   {
+    "src": "images/cantharellus-cibarius-3.webp",
+    "author": "Jeroen Van Akkeren",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/223897424"
+   },
+   {
+    "src": "images/cantharellus-cibarius-4.webp",
+    "author": "Björn S...",
+    "license": "CC-BY-SA",
+    "url": "https://www.inaturalist.org/photos/78254813"
+   },
+   {
+    "src": "images/cantharellus-cibarius-5.webp",
+    "author": "Jennifer Linde",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/3798048"
+   }
+  ],
+  "thumb": "images/thumb/cantharellus-cibarius.webp"
  },
  {
   "latin": "Termitomyces eurrhizus",
@@ -2086,12 +3115,33 @@ window.MUSHROOMS = [
    "name": "英文维基百科",
    "url": "https://en.wikipedia.org/wiki/Termitomyces_eurrhizus"
   },
-  "image": "images/termitomyces-eurrhizus.jpg",
-  "credit": {
-   "author": "This image was created by user kabutiphilippines at Mushroom Observer, a source for mycological images.You can contact this user here.",
-   "license": "CC BY-SA 3.0",
-   "url": "https://commons.wikimedia.org/wiki/File:2011-06-10_Termitomyces_eurhizus_150358.jpg"
-  }
+  "images": [
+   {
+    "src": "images/termitomyces-eurrhizus-1.webp",
+    "author": "This image was created by user kabutiphilippines at Mushroom Observer, a source for mycological images.You can contact this user here.",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:2011-06-10_Termitomyces_eurhizus_150358.jpg"
+   },
+   {
+    "src": "images/termitomyces-eurrhizus-2.webp",
+    "author": "Guanning Liu",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/345820157"
+   },
+   {
+    "src": "images/termitomyces-eurrhizus-3.webp",
+    "author": "鵂鶹永滄",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/75847362"
+   },
+   {
+    "src": "images/termitomyces-eurrhizus-4.webp",
+    "author": "大肚魚",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/24398551"
+   }
+  ],
+  "thumb": "images/thumb/termitomyces-eurrhizus.webp"
  },
  {
   "latin": "Thelephora ganbajun",
@@ -2126,12 +3176,21 @@ window.MUSHROOMS = [
    "name": "英文维基百科",
    "url": "https://en.wikipedia.org/wiki/Thelephora_ganbajun"
   },
-  "image": "images/thelephora-ganbajun.jpg",
-  "credit": {
-   "author": "This image was created by user wombata at Mushroom Observer, a source for mycological images.You can contact this user here.",
-   "license": "CC BY-SA 3.0",
-   "url": "https://commons.wikimedia.org/wiki/File:2014-07-26_Thelephora_ganbajun_M._Zang_443675.jpg"
-  }
+  "images": [
+   {
+    "src": "images/thelephora-ganbajun-1.webp",
+    "author": "This image was created by user wombata at Mushroom Observer, a source for mycological images.You can contact this user here.",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:2014-07-26_Thelephora_ganbajun_M._Zang_443675.jpg"
+   },
+   {
+    "src": "images/thelephora-ganbajun-2.webp",
+    "author": "Cory Whitney",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/45509466"
+   }
+  ],
+  "thumb": "images/thumb/thelephora-ganbajun.webp"
  },
  {
   "latin": "Phallus indusiatus",
@@ -2170,12 +3229,39 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E9%95%B7%E8%A3%99%E7%AB%B9%E8%93%80"
   },
-  "image": "images/phallus-indusiatus.jpg",
-  "credit": {
-   "author": "Ajaykuyiloor",
-   "license": "CC BY-SA 3.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Phallus_indusiatus_from_Kerala,_India_-_20090824.jpg"
-  }
+  "images": [
+   {
+    "src": "images/phallus-indusiatus-1.webp",
+    "author": "Ajaykuyiloor",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Phallus_indusiatus_from_Kerala,_India_-_20090824.jpg"
+   },
+   {
+    "src": "images/phallus-indusiatus-2.webp",
+    "author": "Linda Reinhold",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/182012487"
+   },
+   {
+    "src": "images/phallus-indusiatus-3.webp",
+    "author": "Oleg Kosterin",
+    "license": "CC-BY",
+    "url": "https://www.inaturalist.org/photos/59888418"
+   },
+   {
+    "src": "images/phallus-indusiatus-4.webp",
+    "author": "Cheongweei Gan",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/23571701"
+   },
+   {
+    "src": "images/phallus-indusiatus-5.webp",
+    "author": "chia-chia",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/270964625"
+   }
+  ],
+  "thumb": "images/thumb/phallus-indusiatus.webp"
  },
  {
   "latin": "Phallus impudicus",
@@ -2214,12 +3300,39 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E7%99%BD%E9%AC%BC%E7%AC%94"
   },
-  "image": "images/phallus-impudicus.jpg",
-  "credit": {
-   "author": "Original uploader was Luridiformis at en.wikipedia",
-   "license": "CC BY 3.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Phallus_impudicus_docs009_(b).jpg"
-  }
+  "images": [
+   {
+    "src": "images/phallus-impudicus-1.webp",
+    "author": "Original uploader was Luridiformis at en.wikipedia",
+    "license": "CC BY 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Phallus_impudicus_docs009_(b).jpg"
+   },
+   {
+    "src": "images/phallus-impudicus-2.webp",
+    "author": "Chris Moody",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/133093"
+   },
+   {
+    "src": "images/phallus-impudicus-3.webp",
+    "author": "Dr. Hans-Günter Wagner",
+    "license": "CC-BY-SA",
+    "url": "https://www.inaturalist.org/photos/62455743"
+   },
+   {
+    "src": "images/phallus-impudicus-4.webp",
+    "author": "Björn S...",
+    "license": "CC-BY-SA",
+    "url": "https://www.inaturalist.org/photos/75780233"
+   },
+   {
+    "src": "images/phallus-impudicus-5.webp",
+    "author": "bigjohnbooth",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/104107761"
+   }
+  ],
+  "thumb": "images/thumb/phallus-impudicus.webp"
  },
  {
   "latin": "Tuber indicum",
@@ -2256,12 +3369,15 @@ window.MUSHROOMS = [
    "name": "英文维基百科",
    "url": "https://en.wikipedia.org/wiki/Tuber_indicum"
   },
-  "image": "images/tuber-indicum.jpg",
-  "credit": {
-   "author": "Ardo Beltz",
-   "license": "CC BY-SA 4.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Tuber_indicum_of_jar.jpg"
-  }
+  "images": [
+   {
+    "src": "images/tuber-indicum-1.webp",
+    "author": "Ardo Beltz",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Tuber_indicum_of_jar.jpg"
+   }
+  ],
+  "thumb": "images/thumb/tuber-indicum.webp"
  },
  {
   "latin": "Lactarius deliciosus",
@@ -2301,12 +3417,39 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E6%9D%BE%E4%B9%B3%E8%8F%87"
   },
-  "image": "images/lactarius-deliciosus.jpg",
-  "credit": {
-   "author": "未知作者",
-   "license": "CC BY-SA 3.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Lactarius_deliciosus.jpg"
-  }
+  "images": [
+   {
+    "src": "images/lactarius-deliciosus-1.webp",
+    "author": "未知作者",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Lactarius_deliciosus.jpg"
+   },
+   {
+    "src": "images/lactarius-deliciosus-2.webp",
+    "author": "timendez",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/235753421"
+   },
+   {
+    "src": "images/lactarius-deliciosus-3.webp",
+    "author": "troi_olivares",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/56589440"
+   },
+   {
+    "src": "images/lactarius-deliciosus-4.webp",
+    "author": "Christian Schwarz",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/5575021"
+   },
+   {
+    "src": "images/lactarius-deliciosus-5.webp",
+    "author": "lowdee",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/18922367"
+   }
+  ],
+  "thumb": "images/thumb/lactarius-deliciosus.webp"
  },
  {
   "latin": "Lactarius indigo",
@@ -2343,12 +3486,21 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E8%97%8D%E7%B6%A0%E4%B9%B3%E8%8F%87"
   },
-  "image": "images/lactarius-indigo.jpg",
-  "credit": {
-   "author": "Dan Molter",
-   "license": "CC BY-SA 3.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Lactarius_indigo_48568.jpg"
-  }
+  "images": [
+   {
+    "src": "images/lactarius-indigo-1.webp",
+    "author": "Dan Molter",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Lactarius_indigo_48568.jpg"
+   },
+   {
+    "src": "images/lactarius-indigo-2.webp",
+    "author": "Jesus Gordolomi Butterball RC",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/62135165"
+   }
+  ],
+  "thumb": "images/thumb/lactarius-indigo.webp"
  },
  {
   "latin": "Russula virescens",
@@ -2388,12 +3540,27 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E8%AE%8A%E7%B6%A0%E7%B4%85%E8%8F%87"
   },
-  "image": "images/russula-virescens.jpg",
-  "credit": {
-   "author": "Paffka",
-   "license": "CC BY-SA 3.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Russula_virescens3.JPG"
-  }
+  "images": [
+   {
+    "src": "images/russula-virescens-1.webp",
+    "author": "Paffka",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Russula_virescens3.JPG"
+   },
+   {
+    "src": "images/russula-virescens-2.webp",
+    "author": "hitomi_y",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/254794497"
+   },
+   {
+    "src": "images/russula-virescens-3.webp",
+    "author": "John Plischke",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/451195439"
+   }
+  ],
+  "thumb": "images/thumb/russula-virescens.webp"
  },
  {
   "latin": "Russula griseocarnosa",
@@ -2427,12 +3594,27 @@ window.MUSHROOMS = [
   "id": "russula-griseocarnosa",
   "extract": "",
   "source": null,
-  "image": "images/russula-griseocarnosa.jpeg",
-  "credit": {
-   "author": "龙栩川",
-   "license": "CC-BY-NC",
-   "url": "https://www.inaturalist.org/taxa/1358206"
-  }
+  "images": [
+   {
+    "src": "images/russula-griseocarnosa-1.webp",
+    "author": "龙栩川",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/406976588"
+   },
+   {
+    "src": "images/russula-griseocarnosa-2.webp",
+    "author": "eec",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/229891610"
+   },
+   {
+    "src": "images/russula-griseocarnosa-3.webp",
+    "author": "Yi CHEN",
+    "license": "CC-BY",
+    "url": "https://www.inaturalist.org/photos/145137231"
+   }
+  ],
+  "thumb": "images/thumb/russula-griseocarnosa.webp"
  },
  {
   "latin": "Coprinus comatus",
@@ -2476,12 +3658,39 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E9%B8%A1%E8%85%BF%E8%8F%87"
   },
-  "image": "images/coprinus-comatus.jpg",
-  "credit": {
-   "author": "© Andrew Dunn, http://www.andrewdunnphoto.com/",
-   "license": "CC BY-SA 2.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Coprinus_comatus_fresh.jpg"
-  }
+  "images": [
+   {
+    "src": "images/coprinus-comatus-1.webp",
+    "author": "© Andrew Dunn, http://www.andrewdunnphoto.com/",
+    "license": "CC BY-SA 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Coprinus_comatus_fresh.jpg"
+   },
+   {
+    "src": "images/coprinus-comatus-2.webp",
+    "author": "Tom Norton",
+    "license": "CC-BY",
+    "url": "https://www.inaturalist.org/photos/93399523"
+   },
+   {
+    "src": "images/coprinus-comatus-3.webp",
+    "author": "Gary James",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/112285100"
+   },
+   {
+    "src": "images/coprinus-comatus-4.webp",
+    "author": "Josema",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/4907999"
+   },
+   {
+    "src": "images/coprinus-comatus-5.webp",
+    "author": "Amadej Trnkoczy",
+    "license": "CC-BY-NC-SA",
+    "url": "https://www.inaturalist.org/photos/6990"
+   }
+  ],
+  "thumb": "images/thumb/coprinus-comatus.webp"
  },
  {
   "latin": "Volvariella volvacea",
@@ -2520,12 +3729,39 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E8%8D%89%E8%8F%87"
   },
-  "image": "images/volvariella-volvacea.jpg",
-  "credit": {
-   "author": "Coloured Figures of English Fungi or Mushrooms - t. 1.jpg: James Sowerby derivative work: Natr (talk)",
-   "license": "Public domain",
-   "url": "https://commons.wikimedia.org/wiki/File:1797_Volvariella_volvacea_Sowerby.jpg"
-  }
+  "images": [
+   {
+    "src": "images/volvariella-volvacea-1.webp",
+    "author": "Coloured Figures of English Fungi or Mushrooms - t. 1.jpg: James Sowerby derivative work: Natr (talk)",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File:1797_Volvariella_volvacea_Sowerby.jpg"
+   },
+   {
+    "src": "images/volvariella-volvacea-2.webp",
+    "author": "gena of Jesus",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/179732983"
+   },
+   {
+    "src": "images/volvariella-volvacea-3.webp",
+    "author": "John Plischke",
+    "license": "CC-BY-NC-SA",
+    "url": "https://www.inaturalist.org/photos/72075809"
+   },
+   {
+    "src": "images/volvariella-volvacea-4.webp",
+    "author": "zayzayem",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/469666863"
+   },
+   {
+    "src": "images/volvariella-volvacea-5.webp",
+    "author": "Vivek Patel",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/131203284"
+   }
+  ],
+  "thumb": "images/thumb/volvariella-volvacea.webp"
  },
  {
   "latin": "Macrolepiota procera",
@@ -2565,12 +3801,39 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E9%AB%98%E5%A4%A7%E7%92%B0%E6%9F%84%E8%8F%87"
   },
-  "image": "images/macrolepiota-procera.jpg",
-  "credit": {
-   "author": "BMT at en.wikipedia",
-   "license": "Public domain",
-   "url": "https://commons.wikimedia.org/wiki/File:ParasolMushroom.JPG"
-  }
+  "images": [
+   {
+    "src": "images/macrolepiota-procera-1.webp",
+    "author": "BMT at en.wikipedia",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File:ParasolMushroom.JPG"
+   },
+   {
+    "src": "images/macrolepiota-procera-2.webp",
+    "author": "Lucian Clanet",
+    "license": "CC-BY",
+    "url": "https://www.inaturalist.org/photos/440636205"
+   },
+   {
+    "src": "images/macrolepiota-procera-3.webp",
+    "author": "maricel patino",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/334624492"
+   },
+   {
+    "src": "images/macrolepiota-procera-4.webp",
+    "author": "maricel patino",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/334624496"
+   },
+   {
+    "src": "images/macrolepiota-procera-5.webp",
+    "author": "alderash",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/25080543"
+   }
+  ],
+  "thumb": "images/thumb/macrolepiota-procera.webp"
  },
  {
   "latin": "Stropharia rugosoannulata",
@@ -2610,12 +3873,39 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E5%A4%A7%E7%90%83%E8%93%8B%E8%8F%87"
   },
-  "image": "images/stropharia-rugosoannulata.jpg",
-  "credit": {
-   "author": "tchitcherine",
-   "license": "CC-BY-NC",
-   "url": "https://www.inaturalist.org/taxa/119151"
-  }
+  "images": [
+   {
+    "src": "images/stropharia-rugosoannulata-1.webp",
+    "author": "tchitcherine",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/282486244"
+   },
+   {
+    "src": "images/stropharia-rugosoannulata-2.webp",
+    "author": "Annie Weissman",
+    "license": "CC-BY",
+    "url": "https://www.inaturalist.org/photos/133167759"
+   },
+   {
+    "src": "images/stropharia-rugosoannulata-3.webp",
+    "author": "apa3a",
+    "license": "CC-BY",
+    "url": "https://www.inaturalist.org/photos/67414"
+   },
+   {
+    "src": "images/stropharia-rugosoannulata-4.webp",
+    "author": "apa3a",
+    "license": "CC-BY",
+    "url": "https://www.inaturalist.org/photos/67415"
+   },
+   {
+    "src": "images/stropharia-rugosoannulata-5.webp",
+    "author": "Joanne and Robert Solem",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/113131966"
+   }
+  ],
+  "thumb": "images/thumb/stropharia-rugosoannulata.webp"
  },
  {
   "latin": "Hypsizygus marmoreus",
@@ -2653,12 +3943,33 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E9%B4%BB%E5%96%9C%E8%8F%87"
   },
-  "image": "images/hypsizygus-marmoreus.jpg",
-  "credit": {
-   "author": "Akira.Sasaki",
-   "license": "Public domain",
-   "url": "https://commons.wikimedia.org/wiki/File:Hypsizygus_marmoreus.jpg"
-  }
+  "images": [
+   {
+    "src": "images/hypsizygus-marmoreus-1.webp",
+    "author": "Akira.Sasaki",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File:Hypsizygus_marmoreus.jpg"
+   },
+   {
+    "src": "images/hypsizygus-marmoreus-2.webp",
+    "author": "mycowalt",
+    "license": "CC-BY-SA",
+    "url": "https://www.inaturalist.org/photos/13064483"
+   },
+   {
+    "src": "images/hypsizygus-marmoreus-3.webp",
+    "author": "Mike Dechter",
+    "license": "CC-BY",
+    "url": "https://www.inaturalist.org/photos/417501195"
+   },
+   {
+    "src": "images/hypsizygus-marmoreus-4.webp",
+    "author": "Mike Dechter",
+    "license": "CC-BY",
+    "url": "https://www.inaturalist.org/photos/417501239"
+   }
+  ],
+  "thumb": "images/thumb/hypsizygus-marmoreus.webp"
  },
  {
   "latin": "Armillaria mellea",
@@ -2697,12 +4008,39 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E8%9C%9C%E7%92%B0%E8%8F%8C"
   },
-  "image": "images/armillaria-mellea.jpg",
-  "credit": {
-   "author": "Jean-Pol GRANDMONT",
-   "license": "CC BY 3.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Armillaria_mellea_JPG1.jpg"
-  }
+  "images": [
+   {
+    "src": "images/armillaria-mellea-1.webp",
+    "author": "Jean-Pol GRANDMONT",
+    "license": "CC BY 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Armillaria_mellea_JPG1.jpg"
+   },
+   {
+    "src": "images/armillaria-mellea-2.webp",
+    "author": "Nathan Wilson",
+    "license": "CC-BY-SA",
+    "url": "https://www.inaturalist.org/photos/10028"
+   },
+   {
+    "src": "images/armillaria-mellea-3.webp",
+    "author": "Davide Puddu",
+    "license": "CC-BY",
+    "url": "https://www.inaturalist.org/photos/335390229"
+   },
+   {
+    "src": "images/armillaria-mellea-4.webp",
+    "author": "Jeff Skrentny",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/100265344"
+   },
+   {
+    "src": "images/armillaria-mellea-5.webp",
+    "author": "Davide Puddu",
+    "license": "CC-BY",
+    "url": "https://www.inaturalist.org/photos/53423123"
+   }
+  ],
+  "thumb": "images/thumb/armillaria-mellea.webp"
  },
  {
   "latin": "Grifola frondosa",
@@ -2743,12 +4081,33 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E7%81%B0%E6%A8%B9%E8%8A%B1"
   },
-  "image": "images/grifola-frondosa.jpg",
-  "credit": {
-   "author": "Pethan at Dutch Wikipedia",
-   "license": "CC BY-SA 3.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Eikhaas.JPG"
-  }
+  "images": [
+   {
+    "src": "images/grifola-frondosa-1.webp",
+    "author": "Pethan at Dutch Wikipedia",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Eikhaas.JPG"
+   },
+   {
+    "src": "images/grifola-frondosa-2.webp",
+    "author": "Davide Puddu",
+    "license": "CC-BY",
+    "url": "https://www.inaturalist.org/photos/7027079"
+   },
+   {
+    "src": "images/grifola-frondosa-3.webp",
+    "author": "Bethany Teigen",
+    "license": "CC0",
+    "url": "https://www.inaturalist.org/photos/99085994"
+   },
+   {
+    "src": "images/grifola-frondosa-4.webp",
+    "author": "Kari Pihlaviita",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/2446319"
+   }
+  ],
+  "thumb": "images/thumb/grifola-frondosa.webp"
  },
  {
   "latin": "Sparassis crispa",
@@ -2786,12 +4145,39 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E7%B9%A1%E7%90%83%E8%8F%8C"
   },
-  "image": "images/sparassis-crispa.jpg",
-  "credit": {
-   "author": "voir ci-dessous / see below",
-   "license": "CC BY 3.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Sparassis_crispa_JPG1.jpg"
-  }
+  "images": [
+   {
+    "src": "images/sparassis-crispa-1.webp",
+    "author": "voir ci-dessous / see below",
+    "license": "CC BY 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Sparassis_crispa_JPG1.jpg"
+   },
+   {
+    "src": "images/sparassis-crispa-2.webp",
+    "author": "Aurelija",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/177899698"
+   },
+   {
+    "src": "images/sparassis-crispa-3.webp",
+    "author": "telissaw",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/1297835"
+   },
+   {
+    "src": "images/sparassis-crispa-4.webp",
+    "author": "Katja Schulz",
+    "license": "CC-BY",
+    "url": "https://www.inaturalist.org/photos/125172"
+   },
+   {
+    "src": "images/sparassis-crispa-5.webp",
+    "author": "Katja Schulz",
+    "license": "CC-BY",
+    "url": "https://www.inaturalist.org/photos/125619"
+   }
+  ],
+  "thumb": "images/thumb/sparassis-crispa.webp"
  },
  {
   "latin": "Ramaria botrytis",
@@ -2830,12 +4216,39 @@ window.MUSHROOMS = [
    "name": "英文维基百科",
    "url": "https://en.wikipedia.org/wiki/Ramaria_botrytis"
   },
-  "image": "images/ramaria-botrytis.jpg",
-  "credit": {
-   "author": "2010-09-17_Ramaria_botrytis.jpg: Jason Hollinger derivative work: Ak ccm",
-   "license": "CC BY 2.0",
-   "url": "https://commons.wikimedia.org/wiki/File:2010-09-17_Ramaria_botrytis_crop.jpg"
-  }
+  "images": [
+   {
+    "src": "images/ramaria-botrytis-1.webp",
+    "author": "2010-09-17_Ramaria_botrytis.jpg: Jason Hollinger derivative work: Ak ccm",
+    "license": "CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:2010-09-17_Ramaria_botrytis_crop.jpg"
+   },
+   {
+    "src": "images/ramaria-botrytis-2.webp",
+    "author": "Eitel Carlos Thielemann Pinto",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/183302941"
+   },
+   {
+    "src": "images/ramaria-botrytis-3.webp",
+    "author": "Rodolfo Walker",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/190207952"
+   },
+   {
+    "src": "images/ramaria-botrytis-4.webp",
+    "author": "Chris Valdés",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/196060560"
+   },
+   {
+    "src": "images/ramaria-botrytis-5.webp",
+    "author": "Vype",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/167631203"
+   }
+  ],
+  "thumb": "images/thumb/ramaria-botrytis.webp"
  },
  {
   "latin": "Laetiporus sulphureus",
@@ -2873,12 +4286,39 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E7%A1%AB%E8%89%B2%E7%B5%A2%E5%AD%94%E8%8F%8C"
   },
-  "image": "images/laetiporus-sulphureus.jpg",
-  "credit": {
-   "author": "Andreas Eichler",
-   "license": "CC BY-SA 4.0",
-   "url": "https://commons.wikimedia.org/wiki/File:2017.05.13.-04-Bruehl_Rohrhof--Laetiporus_sulphureus_(Gemeiner_Schwefelporling).jpg"
-  }
+  "images": [
+   {
+    "src": "images/laetiporus-sulphureus-1.webp",
+    "author": "Andreas Eichler",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:2017.05.13.-04-Bruehl_Rohrhof--Laetiporus_sulphureus_(Gemeiner_Schwefelporling).jpg"
+   },
+   {
+    "src": "images/laetiporus-sulphureus-2.webp",
+    "author": "jonathantellerelsberg",
+    "license": "CC-BY-NC-SA",
+    "url": "https://www.inaturalist.org/photos/6063"
+   },
+   {
+    "src": "images/laetiporus-sulphureus-3.webp",
+    "author": "Kim Falck",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/51373096"
+   },
+   {
+    "src": "images/laetiporus-sulphureus-4.webp",
+    "author": "Stephen John Davies",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/42106925"
+   },
+   {
+    "src": "images/laetiporus-sulphureus-5.webp",
+    "author": "langabee",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/131093825"
+   }
+  ],
+  "thumb": "images/thumb/laetiporus-sulphureus.webp"
  },
  {
   "latin": "Ganoderma lingzhi",
@@ -2920,12 +4360,21 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E7%81%B5%E8%8A%9D"
   },
-  "image": "images/ganoderma-lingzhi.jpg",
-  "credit": {
-   "author": "Eric Steinert",
-   "license": "CC BY-SA 3.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Ganoderma_lucidum_01.jpg"
-  }
+  "images": [
+   {
+    "src": "images/ganoderma-lingzhi-1.webp",
+    "author": "Eric Steinert",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Ganoderma_lucidum_01.jpg"
+   },
+   {
+    "src": "images/ganoderma-lingzhi-2.webp",
+    "author": "Chael Thomas",
+    "license": "CC-BY-SA",
+    "url": "https://www.inaturalist.org/photos/40314443"
+   }
+  ],
+  "thumb": "images/thumb/ganoderma-lingzhi.webp"
  },
  {
   "latin": "Trametes versicolor",
@@ -2972,12 +4421,21 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E9%9B%B2%E8%8A%9D"
   },
-  "image": "images/trametes-versicolor.jpg",
-  "credit": {
-   "author": "Jensbn",
-   "license": "CC BY-SA 3.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Trametes_versicolor_2.jpg"
-  }
+  "images": [
+   {
+    "src": "images/trametes-versicolor-1.webp",
+    "author": "Jensbn",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Trametes_versicolor_2.jpg"
+   },
+   {
+    "src": "images/trametes-versicolor-2.webp",
+    "author": "Ken Kneidel",
+    "license": "CC0",
+    "url": "https://www.inaturalist.org/photos/27005174"
+   }
+  ],
+  "thumb": "images/thumb/trametes-versicolor.webp"
  },
  {
   "latin": "Fomes fomentarius",
@@ -3017,12 +4475,39 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E6%9C%A8%E8%B9%84%E5%B1%A4%E5%AD%94%E8%8F%8C"
   },
-  "image": "images/fomes-fomentarius.jpg",
-  "credit": {
-   "author": "George Chernilevsky",
-   "license": "Public domain",
-   "url": "https://commons.wikimedia.org/wiki/File:Fomes_fomentarius_2010_G2.jpg"
-  }
+  "images": [
+   {
+    "src": "images/fomes-fomentarius-1.webp",
+    "author": "George Chernilevsky",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File:Fomes_fomentarius_2010_G2.jpg"
+   },
+   {
+    "src": "images/fomes-fomentarius-2.webp",
+    "author": "Vladimir Travkin",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/11787994"
+   },
+   {
+    "src": "images/fomes-fomentarius-3.webp",
+    "author": "Jamie Griffiths",
+    "license": "CC-BY",
+    "url": "https://www.inaturalist.org/photos/174319177"
+   },
+   {
+    "src": "images/fomes-fomentarius-4.webp",
+    "author": "Žygimantas Valiuška",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/52573792"
+   },
+   {
+    "src": "images/fomes-fomentarius-5.webp",
+    "author": "Ioana Mita",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/5337385"
+   }
+  ],
+  "thumb": "images/thumb/fomes-fomentarius.webp"
  },
  {
   "latin": "Inonotus obliquus",
@@ -3060,12 +4545,39 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E7%99%BD%E6%A8%BA%E8%8C%B8"
   },
-  "image": "images/inonotus-obliquus.jpg",
-  "credit": {
-   "author": "Tocekas",
-   "license": "CC BY-SA 3.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Inonotus_obliquus.jpg"
-  }
+  "images": [
+   {
+    "src": "images/inonotus-obliquus-1.webp",
+    "author": "Tocekas",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Inonotus_obliquus.jpg"
+   },
+   {
+    "src": "images/inonotus-obliquus-2.webp",
+    "author": "aleksi17",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/74677874"
+   },
+   {
+    "src": "images/inonotus-obliquus-3.webp",
+    "author": "Almantas Kulbis",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/6855280"
+   },
+   {
+    "src": "images/inonotus-obliquus-4.webp",
+    "author": "traditions",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/63112873"
+   },
+   {
+    "src": "images/inonotus-obliquus-5.webp",
+    "author": "gtillotson",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/80325246"
+   }
+  ],
+  "thumb": "images/thumb/inonotus-obliquus.webp"
  },
  {
   "latin": "Wolfiporia cocos",
@@ -3105,12 +4617,21 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E8%8C%AF%E8%8B%93"
   },
-  "image": "images/wolfiporia-cocos.jpeg",
-  "credit": {
-   "author": "Alan Rockefeller",
-   "license": "CC-BY",
-   "url": "https://www.inaturalist.org/taxa/1169836"
-  }
+  "images": [
+   {
+    "src": "images/wolfiporia-cocos-1.webp",
+    "author": "Alan Rockefeller",
+    "license": "CC-BY",
+    "url": "https://www.inaturalist.org/photos/54758845"
+   },
+   {
+    "src": "images/wolfiporia-cocos-2.webp",
+    "author": "mycowalt",
+    "license": "CC-BY-SA",
+    "url": "https://www.inaturalist.org/photos/13068303"
+   }
+  ],
+  "thumb": "images/thumb/wolfiporia-cocos.webp"
  },
  {
   "latin": "Ophiocordyceps sinensis",
@@ -3147,12 +4668,27 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E5%86%AC%E8%99%AB%E5%A4%8F%E8%8D%89"
   },
-  "image": "images/ophiocordyceps-sinensis.jpg",
-  "credit": {
-   "author": "The original uploader was Rafti Institute at English Wikipedia.",
-   "license": "CC BY 2.5",
-   "url": "https://commons.wikimedia.org/wiki/File:Cordyceps_Sinensis.jpg"
-  }
+  "images": [
+   {
+    "src": "images/ophiocordyceps-sinensis-1.webp",
+    "author": "The original uploader was Rafti Institute at English Wikipedia.",
+    "license": "CC BY 2.5",
+    "url": "https://commons.wikimedia.org/wiki/File:Cordyceps_Sinensis.jpg"
+   },
+   {
+    "src": "images/ophiocordyceps-sinensis-2.webp",
+    "author": "Rosino",
+    "license": "CC-BY-NC-SA",
+    "url": "https://www.inaturalist.org/photos/1159983"
+   },
+   {
+    "src": "images/ophiocordyceps-sinensis-3.webp",
+    "author": "Cathy Pasterczyk",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/26926215"
+   }
+  ],
+  "thumb": "images/thumb/ophiocordyceps-sinensis.webp"
  },
  {
   "latin": "Cordyceps militaris",
@@ -3194,12 +4730,39 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E8%9F%B2%E8%8D%89%E8%8A%B1"
   },
-  "image": "images/cordyceps-militaris.jpg",
-  "credit": {
-   "author": "Andreas Kunze",
-   "license": "CC BY-SA 3.0",
-   "url": "https://commons.wikimedia.org/wiki/File:2010-08-06_Cordyceps_militaris_1.jpg"
-  }
+  "images": [
+   {
+    "src": "images/cordyceps-militaris-1.webp",
+    "author": "Andreas Kunze",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:2010-08-06_Cordyceps_militaris_1.jpg"
+   },
+   {
+    "src": "images/cordyceps-militaris-2.webp",
+    "author": "Ashley Morris",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/23680390"
+   },
+   {
+    "src": "images/cordyceps-militaris-3.webp",
+    "author": "Christian Grenier",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/62443490"
+   },
+   {
+    "src": "images/cordyceps-militaris-4.webp",
+    "author": "Richard Tehan",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/152473361"
+   },
+   {
+    "src": "images/cordyceps-militaris-5.webp",
+    "author": "Richard Tehan",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/152473474"
+   }
+  ],
+  "thumb": "images/thumb/cordyceps-militaris.webp"
  },
  {
   "latin": "Calvatia gigantea",
@@ -3234,12 +4797,39 @@ window.MUSHROOMS = [
    "name": "英文维基百科",
    "url": "https://en.wikipedia.org/wiki/Calvatia_gigantea"
   },
-  "image": "images/calvatia-gigantea.jpg",
-  "credit": {
-   "author": "The original uploader was Sulfur at English Wikipedia.",
-   "license": "CC BY-SA 3.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Giant_Puffball.jpg"
-  }
+  "images": [
+   {
+    "src": "images/calvatia-gigantea-1.webp",
+    "author": "The original uploader was Sulfur at English Wikipedia.",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Giant_Puffball.jpg"
+   },
+   {
+    "src": "images/calvatia-gigantea-2.webp",
+    "author": "Krys",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/209263726"
+   },
+   {
+    "src": "images/calvatia-gigantea-3.webp",
+    "author": "Callicladium",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/442118194"
+   },
+   {
+    "src": "images/calvatia-gigantea-4.webp",
+    "author": "chloe kaczenski humbert 🍃",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/51450983"
+   },
+   {
+    "src": "images/calvatia-gigantea-5.webp",
+    "author": "Joshua Eastlake",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/26750275"
+   }
+  ],
+  "thumb": "images/thumb/calvatia-gigantea.webp"
  },
  {
   "latin": "Lycoperdon perlatum",
@@ -3280,12 +4870,39 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E7%B6%B2%E7%8B%80%E9%A6%AC%E5%8B%83"
   },
-  "image": "images/lycoperdon-perlatum.jpg",
-  "credit": {
-   "author": "Daniel Ullrich, Threedots",
-   "license": "CC BY-SA 3.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Single_lycoperdon_perlatum.jpg"
-  }
+  "images": [
+   {
+    "src": "images/lycoperdon-perlatum-1.webp",
+    "author": "Daniel Ullrich, Threedots",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Single_lycoperdon_perlatum.jpg"
+   },
+   {
+    "src": "images/lycoperdon-perlatum-2.webp",
+    "author": "Stephan Pflume",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/237728653"
+   },
+   {
+    "src": "images/lycoperdon-perlatum-3.webp",
+    "author": "Ina Siebert",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/450839517"
+   },
+   {
+    "src": "images/lycoperdon-perlatum-4.webp",
+    "author": "pinonbistro",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/223598477"
+   },
+   {
+    "src": "images/lycoperdon-perlatum-5.webp",
+    "author": "Rob Curtis",
+    "license": "CC-BY-NC-SA",
+    "url": "https://www.inaturalist.org/photos/159716"
+   }
+  ],
+  "thumb": "images/thumb/lycoperdon-perlatum.webp"
  },
  {
   "latin": "Geastrum triplex",
@@ -3320,12 +4937,21 @@ window.MUSHROOMS = [
    "name": "英文维基百科",
    "url": "https://en.wikipedia.org/wiki/Geastrum_triplex"
   },
-  "image": "images/geastrum-triplex.jpg",
-  "credit": {
-   "author": "JJ Harrison (https://www.jjharrison.com.au/)",
-   "license": "CC BY-SA 4.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Geastrum_triplex_-_Bola_Creek.jpg"
-  }
+  "images": [
+   {
+    "src": "images/geastrum-triplex-1.webp",
+    "author": "JJ Harrison (https://www.jjharrison.com.au/)",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Geastrum_triplex_-_Bola_Creek.jpg"
+   },
+   {
+    "src": "images/geastrum-triplex-2.webp",
+    "author": "aswad andriyanto",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/29971069"
+   }
+  ],
+  "thumb": "images/thumb/geastrum-triplex.webp"
  },
  {
   "latin": "Clathrus archeri",
@@ -3362,12 +4988,39 @@ window.MUSHROOMS = [
    "name": "英文维基百科",
    "url": "https://en.wikipedia.org/wiki/Clathrus_archeri"
   },
-  "image": "images/clathrus-archeri.jpg",
-  "credit": {
-   "author": "de:Benutzer:Oilys",
-   "license": "CC BY-SA 3.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Clathrus_archeri.jpg"
-  }
+  "images": [
+   {
+    "src": "images/clathrus-archeri-1.webp",
+    "author": "de:Benutzer:Oilys",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Clathrus_archeri.jpg"
+   },
+   {
+    "src": "images/clathrus-archeri-2.webp",
+    "author": "Nicolas Schwab",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/587784979"
+   },
+   {
+    "src": "images/clathrus-archeri-3.webp",
+    "author": "spacelargo",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/281600046"
+   },
+   {
+    "src": "images/clathrus-archeri-4.webp",
+    "author": "robynnejean",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/136734643"
+   },
+   {
+    "src": "images/clathrus-archeri-5.webp",
+    "author": "Nolan Exe",
+    "license": "CC-BY",
+    "url": "https://www.inaturalist.org/photos/485314964"
+   }
+  ],
+  "thumb": "images/thumb/clathrus-archeri.webp"
  },
  {
   "latin": "Sarcoscypha coccinea",
@@ -3401,12 +5054,39 @@ window.MUSHROOMS = [
    "name": "英文维基百科",
    "url": "https://en.wikipedia.org/wiki/Sarcoscypha_coccinea"
   },
-  "image": "images/sarcoscypha-coccinea.jpg",
-  "credit": {
-   "author": "This image was created by user Ryane Snow (snowman) at Mushroom Observer, a source for mycological images.You can contact this user here.",
-   "license": "CC BY-SA 3.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Sarcoscypha_coccinea_74716.jpg"
-  }
+  "images": [
+   {
+    "src": "images/sarcoscypha-coccinea-1.webp",
+    "author": "This image was created by user Ryane Snow (snowman) at Mushroom Observer, a source for mycological images.You can contact this user here.",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Sarcoscypha_coccinea_74716.jpg"
+   },
+   {
+    "src": "images/sarcoscypha-coccinea-2.webp",
+    "author": "Ethan Disbrow",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/33054360"
+   },
+   {
+    "src": "images/sarcoscypha-coccinea-3.webp",
+    "author": "hannah",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/191891686"
+   },
+   {
+    "src": "images/sarcoscypha-coccinea-4.webp",
+    "author": "Eddi Bisulli",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/111946950"
+   },
+   {
+    "src": "images/sarcoscypha-coccinea-5.webp",
+    "author": "Ken-ichi Ueda",
+    "license": "CC-BY",
+    "url": "https://www.inaturalist.org/photos/1433"
+   }
+  ],
+  "thumb": "images/thumb/sarcoscypha-coccinea.webp"
  },
  {
   "latin": "Mycena chlorophos",
@@ -3443,12 +5123,39 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E7%99%BC%E5%85%89%E5%B0%8F%E8%8F%87"
   },
-  "image": "images/mycena-chlorophos.jpg",
-  "credit": {
-   "author": "self",
-   "license": "CC BY-SA 3.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Mycena_chlorophos.jpg"
-  }
+  "images": [
+   {
+    "src": "images/mycena-chlorophos-1.webp",
+    "author": "self",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Mycena_chlorophos.jpg"
+   },
+   {
+    "src": "images/mycena-chlorophos-2.webp",
+    "author": "Craig Robbins",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/100369465"
+   },
+   {
+    "src": "images/mycena-chlorophos-3.webp",
+    "author": "Damon Tighe",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/262346387"
+   },
+   {
+    "src": "images/mycena-chlorophos-4.webp",
+    "author": "Frédéric Desmoulins",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/277944329"
+   },
+   {
+    "src": "images/mycena-chlorophos-5.webp",
+    "author": "Jeremy Hegge",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/624090585"
+   }
+  ],
+  "thumb": "images/thumb/mycena-chlorophos.webp"
  },
  {
   "latin": "Laccaria amethystina",
@@ -3485,12 +5192,39 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E7%B4%AB%E8%9C%A1%E8%98%91"
   },
-  "image": "images/laccaria-amethystina.jpg",
-  "credit": {
-   "author": "Jörg Hempel",
-   "license": "CC BY-SA 3.0 de",
-   "url": "https://commons.wikimedia.org/wiki/File:Laccaria_amethystina_LC0370.jpg"
-  }
+  "images": [
+   {
+    "src": "images/laccaria-amethystina-1.webp",
+    "author": "Jörg Hempel",
+    "license": "CC BY-SA 3.0 de",
+    "url": "https://commons.wikimedia.org/wiki/File:Laccaria_amethystina_LC0370.jpg"
+   },
+   {
+    "src": "images/laccaria-amethystina-2.webp",
+    "author": "Christian Berg",
+    "license": "CC-BY",
+    "url": "https://www.inaturalist.org/photos/100850899"
+   },
+   {
+    "src": "images/laccaria-amethystina-3.webp",
+    "author": "Wolfgang Wollschweber",
+    "license": "CC-BY",
+    "url": "https://www.inaturalist.org/photos/535944120"
+   },
+   {
+    "src": "images/laccaria-amethystina-4.webp",
+    "author": "Paul",
+    "license": "CC-BY-NC-SA",
+    "url": "https://www.inaturalist.org/photos/7709"
+   },
+   {
+    "src": "images/laccaria-amethystina-5.webp",
+    "author": "cav91",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/236644962"
+   }
+  ],
+  "thumb": "images/thumb/laccaria-amethystina.webp"
  },
  {
   "latin": "Lepista nuda",
@@ -3528,12 +5262,39 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E7%B4%AB%E4%B8%81%E9%A6%99%E8%98%91"
   },
-  "image": "images/lepista-nuda.jpeg",
-  "credit": {
-   "author": "Alan Rockefeller",
-   "license": "CC-BY",
-   "url": "https://www.inaturalist.org/taxa/1525548"
-  }
+  "images": [
+   {
+    "src": "images/lepista-nuda-1.webp",
+    "author": "Alan Rockefeller",
+    "license": "CC-BY",
+    "url": "https://www.inaturalist.org/photos/57891023"
+   },
+   {
+    "src": "images/lepista-nuda-2.webp",
+    "author": "Jonáš Gruska",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/247058599"
+   },
+   {
+    "src": "images/lepista-nuda-3.webp",
+    "author": "Christian Schwarz",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/32175463"
+   },
+   {
+    "src": "images/lepista-nuda-4.webp",
+    "author": "Amadej Trnkoczy",
+    "license": "CC-BY-NC-SA",
+    "url": "https://www.inaturalist.org/photos/850441"
+   },
+   {
+    "src": "images/lepista-nuda-5.webp",
+    "author": "randomtruth",
+    "license": "CC-BY-NC-SA",
+    "url": "https://www.inaturalist.org/photos/10173"
+   }
+  ],
+  "thumb": "images/thumb/lepista-nuda.webp"
  },
  {
   "latin": "Cortinarius violaceus",
@@ -3570,12 +5331,39 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E7%B4%AB%E7%BB%92%E4%B8%9D%E8%86%9C%E8%8F%8C"
   },
-  "image": "images/cortinarius-violaceus.jpg",
-  "credit": {
-   "author": "This image was created by user Dan Molter (shroomydan) at Mushroom Observer, a source for mycological images.You can contact this user here.",
-   "license": "CC BY-SA 3.0",
-   "url": "https://commons.wikimedia.org/wiki/File:2008-08-22_Cortinarius_violaceus_(L.)_Gray_18241.jpg"
-  }
+  "images": [
+   {
+    "src": "images/cortinarius-violaceus-1.webp",
+    "author": "This image was created by user Dan Molter (shroomydan) at Mushroom Observer, a source for mycological images.You can contact this user here.",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:2008-08-22_Cortinarius_violaceus_(L.)_Gray_18241.jpg"
+   },
+   {
+    "src": "images/cortinarius-violaceus-2.webp",
+    "author": "Federico Calledda",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/119988828"
+   },
+   {
+    "src": "images/cortinarius-violaceus-3.webp",
+    "author": "Anna Henning",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/55147724"
+   },
+   {
+    "src": "images/cortinarius-violaceus-4.webp",
+    "author": "Davide Puddu",
+    "license": "CC-BY",
+    "url": "https://www.inaturalist.org/photos/29156501"
+   },
+   {
+    "src": "images/cortinarius-violaceus-5.webp",
+    "author": "Thomas Bigelow",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/13725813"
+   }
+  ],
+  "thumb": "images/thumb/cortinarius-violaceus.webp"
  },
  {
   "latin": "Entoloma hochstetteri",
@@ -3606,12 +5394,27 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E9%9C%8D%E6%B0%8F%E7%B2%89%E8%A4%B6%E8%8F%8C"
   },
-  "image": "images/entoloma-hochstetteri.jpg",
-  "credit": {
-   "author": "Ian Dodd (kk)]",
-   "license": "CC BY-SA 3.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Entoloma_hochstetteri.jpg"
-  }
+  "images": [
+   {
+    "src": "images/entoloma-hochstetteri-1.webp",
+    "author": "Ian Dodd (kk)]",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Entoloma_hochstetteri.jpg"
+   },
+   {
+    "src": "images/entoloma-hochstetteri-2.webp",
+    "author": "Jon Sullivan",
+    "license": "CC-BY",
+    "url": "https://www.inaturalist.org/photos/3897840"
+   },
+   {
+    "src": "images/entoloma-hochstetteri-3.webp",
+    "author": "moehau_environment_group",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/2229216"
+   }
+  ],
+  "thumb": "images/thumb/entoloma-hochstetteri.webp"
  },
  {
   "latin": "Schizophyllum commune",
@@ -3657,11 +5460,38 @@ window.MUSHROOMS = [
    "name": "维基百科",
    "url": "https://zh.wikipedia.org/wiki/%E8%A3%82%E8%A4%B6%E8%8F%8C"
   },
-  "image": "images/schizophyllum-commune.jpg",
-  "credit": {
-   "author": "Bernard Spragg. NZ from Christchurch, New Zealand",
-   "license": "CC0",
-   "url": "https://commons.wikimedia.org/wiki/File:Schizophyllum_commune_(Split_gill)_(33389628036).jpg"
-  }
+  "images": [
+   {
+    "src": "images/schizophyllum-commune-1.webp",
+    "author": "Bernard Spragg. NZ from Christchurch, New Zealand",
+    "license": "CC0",
+    "url": "https://commons.wikimedia.org/wiki/File:Schizophyllum_commune_(Split_gill)_(33389628036).jpg"
+   },
+   {
+    "src": "images/schizophyllum-commune-2.webp",
+    "author": "Grey Smith",
+    "license": "CC-BY",
+    "url": "https://www.inaturalist.org/photos/9681138"
+   },
+   {
+    "src": "images/schizophyllum-commune-3.webp",
+    "author": "Fluff Berger",
+    "license": "CC-BY-SA",
+    "url": "https://www.inaturalist.org/photos/310771"
+   },
+   {
+    "src": "images/schizophyllum-commune-4.webp",
+    "author": "Borja Fierro",
+    "license": "CC-BY",
+    "url": "https://www.inaturalist.org/photos/469581507"
+   },
+   {
+    "src": "images/schizophyllum-commune-5.webp",
+    "author": "Jan Thornhill",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/186221786"
+   }
+  ],
+  "thumb": "images/thumb/schizophyllum-commune.webp"
  }
 ];
