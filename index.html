@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>蘑菇图鉴</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="top">
+  <div class="top-row">
+    <h1>蘑菇图鉴</h1>
+    <input id="q" type="search" placeholder="搜索名称、别名、学名或描述，如“见手青”“Amanita”" autocomplete="off" aria-label="搜索">
+    <select id="sort" aria-label="排序">
+      <option value="tox">按毒性排序</option>
+      <option value="zh">按中文名排序</option>
+      <option value="latin">按学名排序</option>
+    </select>
+  </div>
+  <p class="warn">⚠️ 本图鉴仅供认识和学习，<strong>不能作为采食依据</strong>。许多剧毒蘑菇与可食种类外观几乎相同，不认识的野生菌一律不要吃。</p>
+</header>
+
+<div class="layout">
+  <aside id="facets" aria-label="标签筛选"></aside>
+  <main>
+    <div class="status">
+      <span id="count"></span>
+      <span id="active"></span>
+      <button id="clear" type="button" hidden>清除筛选</button>
+    </div>
+    <div id="grid" class="grid"></div>
+    <p id="empty" class="empty" hidden>没有符合条件的蘑菇，试试减少筛选条件。</p>
+  </main>
+</div>
+
+<dialog id="detail" aria-labelledby="d-title"></dialog>
+
+<footer>
+  文字摘要与图片来自维基百科、维基共享资源与 iNaturalist，各图片的作者与许可见详情页；标签为人工整理，可能有疏漏。
+</footer>
+
+<script src="data/mushrooms.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
