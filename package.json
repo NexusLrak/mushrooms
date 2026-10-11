@@ -3,7 +3,8 @@
   "private": true,
   "description": "蘑菇图鉴的数据抓取脚本依赖（页面本身不需要安装任何东西）",
   "scripts": {
-    "fetch": "node scripts/fetch.mjs"
+    "fetch": "node scripts/fetch.mjs",
+    "pack": "node scripts/pack.mjs"
   },
   "devDependencies": {
     "sharp": "^0.35.5"

@@ -29,6 +29,17 @@
 
 只展示的话需要前四行，不用安装任何东西；后面几行用于更新数据。
 
+## 部署
+
+```
+node scripts/pack.mjs          # 把页面运行所需的最小文件集提取到 dist/
+node scripts/pack.mjs --tar    # 另外打成 mushrooms-site.tar.gz
+```
+
+把 `dist/` 里的内容原样上传到任何静态服务器即可，不需要安装依赖。打包用的是系统自带的 `tar`；在服务器上用 `tar -xzf mushrooms-site.tar.gz -C 网站目录` 解开。
+
+建议在服务器上对 `.js` `.css` `.html` 开启 gzip，并给 `images/` 设置长期缓存。
+
 ## 增改内容
 
 需要 Node.js 20 或以上。首次使用先运行一次 `npm install`，安装把图片转成 WebP 用的 [sharp](https://sharp.pixelplumbing.com/)。
