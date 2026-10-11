@@ -94,9 +94,9 @@
 | 墨汁拟鬼伞 5 | *Coprinopsis atramentaria* | Jakob Fahr | CC-BY-NC | [链接](https://www.inaturalist.org/photos/2409764) |
 | 古巴裸盖菇 1 | *Psilocybe cubensis* | Alan Rockefeller | CC BY-SA 4.0 | [链接](https://commons.wikimedia.org/wiki/File:Cubensis_Xalapa.jpg) |
 | 古巴裸盖菇 2 | *Psilocybe cubensis* | Teodoro Chivatá Bedoya | CC-BY-NC | [链接](https://www.inaturalist.org/photos/77336534) |
-| 古巴裸盖菇 3 | *Psilocybe cubensis* | Alan Rockefeller | CC-BY-SA | [链接](https://www.inaturalist.org/photos/66031958) |
-| 古巴裸盖菇 4 | *Psilocybe cubensis* | Alan Rockefeller | CC-BY | [链接](https://www.inaturalist.org/photos/5751847) |
-| 古巴裸盖菇 5 | *Psilocybe cubensis* | Denis Zabin | CC-BY | [链接](https://www.inaturalist.org/photos/251184657) |
+| 古巴裸盖菇 3 | *Psilocybe cubensis* | Alan Rockefeller | CC-BY | [链接](https://www.inaturalist.org/photos/5751847) |
+| 古巴裸盖菇 4 | *Psilocybe cubensis* | Denis Zabin | CC-BY | [链接](https://www.inaturalist.org/photos/251184657) |
+| 古巴裸盖菇 5 | *Psilocybe cubensis* | Alex Abair | CC-BY | [链接](https://www.inaturalist.org/photos/82779929) |
 | 橘黄裸伞 1 | *Gymnopilus junonius* | Tony Wills | CC BY 2.5 | [链接](https://commons.wikimedia.org/wiki/File:Gymnopilus_junonius-02.jpg) |
 | 橘黄裸伞 2 | *Gymnopilus junonius* | lc4wa | CC-BY-NC | [链接](https://www.inaturalist.org/photos/101798701) |
 | 橘黄裸伞 3 | *Gymnopilus junonius* | illanonline | CC-BY-NC | [链接](https://www.inaturalist.org/photos/125554033) |
@@ -351,3 +351,100 @@
 | 裂褶菌 3 | *Schizophyllum commune* | Fluff Berger | CC-BY-SA | [链接](https://www.inaturalist.org/photos/310771) |
 | 裂褶菌 4 | *Schizophyllum commune* | Borja Fierro | CC-BY | [链接](https://www.inaturalist.org/photos/469581507) |
 | 裂褶菌 5 | *Schizophyllum commune* | Jan Thornhill | CC-BY-NC | [链接](https://www.inaturalist.org/photos/186221786) |
+| 赭盖鹅膏 1 | *Amanita rubescens* | No machine-readable author provided. Archenzo assumed (based on copyright claims). | CC BY-SA 3.0 | [链接](https://commons.wikimedia.org/wiki/File:Amanita_rubescens.JPG) |
+| 赭盖鹅膏 2 | *Amanita rubescens* | Nicoleta | CC-BY-NC | [链接](https://www.inaturalist.org/photos/618088536) |
+| 赭盖鹅膏 3 | *Amanita rubescens* | Tyler Christensen | CC-BY-NC | [链接](https://www.inaturalist.org/photos/2122501) |
+| 赭盖鹅膏 4 | *Amanita rubescens* | Scott Ostuni | CC-BY-NC | [链接](https://www.inaturalist.org/photos/417848476) |
+| 赭盖鹅膏 5 | *Amanita rubescens* | hollyyoung | CC-BY-NC | [链接](https://www.inaturalist.org/photos/426956990) |
+| 橙黄鹅膏 1 | *Amanita citrina* | The High Fin Sperm Whale | CC BY-SA 3.0 | [链接](https://commons.wikimedia.org/wiki/File:Amanita_sp._2010-10-31.jpg) |
+| 橙黄鹅膏 2 | *Amanita citrina* | Federico Calledda | CC-BY-NC | [链接](https://www.inaturalist.org/photos/331660393) |
+| 橙黄鹅膏 3 | *Amanita citrina* | lastovka | CC-BY-NC | [链接](https://www.inaturalist.org/photos/330083084) |
+| 橙黄鹅膏 4 | *Amanita citrina* | Maria Emília Martins | CC-BY-NC-SA | [链接](https://www.inaturalist.org/photos/335706654) |
+| 橙黄鹅膏 5 | *Amanita citrina* | Светлана Нестерова | CC-BY-NC | [链接](https://www.inaturalist.org/photos/61701638) |
+| 烟云杯伞 1 | *Clitocybe nebularis* | Archenzo | CC BY-SA 3.0 | [链接](https://commons.wikimedia.org/wiki/File:Clitocybe_Nebularis.JPG) |
+| 烟云杯伞 2 | *Clitocybe nebularis* | Susana C. Gonçalves | CC-BY-NC | [链接](https://www.inaturalist.org/photos/172190659) |
+| 烟云杯伞 3 | *Clitocybe nebularis* | thephoxinus | CC-BY-NC | [链接](https://www.inaturalist.org/photos/57001727) |
+| 烟云杯伞 4 | *Clitocybe nebularis* | Possums' End | CC-BY | [链接](https://www.inaturalist.org/photos/28636536) |
+| 烟云杯伞 5 | *Clitocybe nebularis* | Tobias Schönberg | CC0 | [链接](https://www.inaturalist.org/photos/54506911) |
+| 红蜡蘑 1 | *Laccaria laccata* | Strobilomyces | CC BY-SA 3.0 | [链接](https://commons.wikimedia.org/wiki/File:Laccaria_laccata_041024.jpg) |
+| 红蜡蘑 2 | *Laccaria laccata* | Christian Schwarz | CC-BY-NC | [链接](https://www.inaturalist.org/photos/4135349) |
+| 红蜡蘑 3 | *Laccaria laccata* | lightning_whelk | CC-BY-NC | [链接](https://www.inaturalist.org/photos/109657293) |
+| 红蜡蘑 4 | *Laccaria laccata* | Stephanie Calloway | CC-BY-NC | [链接](https://www.inaturalist.org/photos/5645852) |
+| 红蜡蘑 5 | *Laccaria laccata* | Erdi | CC-BY-NC-SA | [链接](https://www.inaturalist.org/photos/235985330) |
+| 洁小菇 1 | *Mycena pura* | Strobilomyces | CC BY-SA 3.0 | [链接](https://commons.wikimedia.org/wiki/File:Mycena_rosea_041031w.jpg) |
+| 洁小菇 2 | *Mycena pura* | Mandy Hackney | CC-BY | [链接](https://www.inaturalist.org/photos/255904833) |
+| 洁小菇 3 | *Mycena pura* | Christian Schwarz | CC-BY-NC | [链接](https://www.inaturalist.org/photos/4135046) |
+| 洁小菇 4 | *Mycena pura* | noah_siegel | CC-BY-NC-SA | [链接](https://www.inaturalist.org/photos/4159721) |
+| 洁小菇 5 | *Mycena pura* | Christian Schwarz | CC-BY-NC | [链接](https://www.inaturalist.org/photos/4133226) |
+| 黏小奥德蘑 1 | *Oudemansiella mucida* | Jean-Pol GRANDMONT | CC BY 3.0 | [链接](https://commons.wikimedia.org/wiki/File:Oudemansiella_mucida_JPG1.jpg) |
+| 黏小奥德蘑 2 | *Oudemansiella mucida* | Lisa Schwarz | CC-BY-NC | [链接](https://www.inaturalist.org/photos/100851266) |
+| 黏小奥德蘑 3 | *Oudemansiella mucida* | Jakob Fahr | CC-BY-NC | [链接](https://www.inaturalist.org/photos/5422212) |
+| 黏小奥德蘑 4 | *Oudemansiella mucida* | fernslu九妹 | CC-BY-NC | [链接](https://www.inaturalist.org/photos/165895535) |
+| 黏小奥德蘑 5 | *Oudemansiella mucida* | Alexandre Dulaunoy | CC-BY-SA | [链接](https://www.inaturalist.org/photos/10063) |
+| 灰光柄菇 1 | *Pluteus cervinus* | Reinhold Möller Ermell | CC BY-SA 4.0 | [链接](https://commons.wikimedia.org/wiki/File:Rehbrauner_Dachpilz_Bruderwald-20251017-RM-164830.jpg) |
+| 蓝黄红菇 1 | *Russula cyanoxantha* | 未知作者 | CC BY-SA 3.0 | [链接](https://commons.wikimedia.org/wiki/File:Russula_cyanoxantha.JPG) |
+| 蓝黄红菇 2 | *Russula cyanoxantha* | Federico Calledda | CC-BY-NC | [链接](https://www.inaturalist.org/photos/128039200) |
+| 蓝黄红菇 3 | *Russula cyanoxantha* | GLJIVARSKO DRUSTVO NIS | CC-BY | [链接](https://www.inaturalist.org/photos/2340049) |
+| 蓝黄红菇 4 | *Russula cyanoxantha* | GLJIVARSKO DRUSTVO NIS | CC-BY | [链接](https://www.inaturalist.org/photos/2340048) |
+| 蓝黄红菇 5 | *Russula cyanoxantha* | Jason Hollinger | CC-BY | [链接](https://www.inaturalist.org/photos/2340047) |
+| 褐绒盖牛肝菌 1 | *Imleria badia* | Jean-Pol GRANDMONT | CC BY 3.0 | [链接](https://commons.wikimedia.org/wiki/File:Boletus_badius_JPG1.jpg) |
+| 褐绒盖牛肝菌 2 | *Imleria badia* | Federico Calledda | CC-BY-NC | [链接](https://www.inaturalist.org/photos/110384969) |
+| 褐绒盖牛肝菌 3 | *Imleria badia* | 
+Andre Fischer | CC-BY | [链接](https://www.inaturalist.org/photos/596936490) |
+| 褐绒盖牛肝菌 4 | *Imleria badia* | 
+Jörn Wildberger | CC-BY | [链接](https://www.inaturalist.org/photos/596936493) |
+| 褐绒盖牛肝菌 5 | *Imleria badia* | Davide Puddu | CC-BY | [链接](https://www.inaturalist.org/photos/29239645) |
+| 卷缘齿菌 1 | *Hydnum repandum* | D J Kelly | Public domain | [链接](https://commons.wikimedia.org/wiki/File:Hedgehog_fungi2.jpg) |
+| 卷缘齿菌 2 | *Hydnum repandum* | Piotr Lukasik | CC-BY | [链接](https://www.inaturalist.org/photos/102523946) |
+| 卷缘齿菌 3 | *Hydnum repandum* | Paul Cools | CC-BY-NC | [链接](https://www.inaturalist.org/photos/1871609) |
+| 卷缘齿菌 4 | *Hydnum repandum* | Christian Apschner | CC-BY-NC | [链接](https://www.inaturalist.org/photos/115892349) |
+| 卷缘齿菌 5 | *Hydnum repandum* | Иван Матершев | CC-BY-NC | [链接](https://www.inaturalist.org/photos/175536711) |
+| 灰喇叭菌 1 | *Craterellus cornucopioides* | Jean-Pol GRANDMONT | CC BY 3.0 | [链接](https://commons.wikimedia.org/wiki/File:Craterellus_cornucopioides_JPG1.jpg) |
+| 灰喇叭菌 2 | *Craterellus cornucopioides* | Paul George | CC-BY-NC-SA | [链接](https://www.inaturalist.org/photos/33343395) |
+| 灰喇叭菌 3 | *Craterellus cornucopioides* | Davide Puddu | CC-BY | [链接](https://www.inaturalist.org/photos/6983708) |
+| 灰喇叭菌 4 | *Craterellus cornucopioides* | tomasz przechlewski | CC-BY | [链接](https://www.inaturalist.org/photos/989) |
+| 灰喇叭菌 5 | *Craterellus cornucopioides* | Leena Aarnio | CC-BY-NC | [链接](https://www.inaturalist.org/photos/5542934) |
+| 鹿角炭角菌 1 | *Xylaria hypoxylon* | Norbert Nagel | CC BY-SA 3.0 | [链接](https://commons.wikimedia.org/wiki/File:Geweihf%C3%B6rmige_Holzkeule_-_Staghorn_fungus_-_Xylaria_hypoxylon_-_01.jpg) |
+| 鹿角炭角菌 2 | *Xylaria hypoxylon* | Urszula Wojciechowska | CC-BY-NC | [链接](https://www.inaturalist.org/photos/120304519) |
+| 鹿角炭角菌 3 | *Xylaria hypoxylon* | Peri Lee Pipkin | CC-BY-NC | [链接](https://www.inaturalist.org/photos/169607215) |
+| 鹿角炭角菌 4 | *Xylaria hypoxylon* | Rob Curtis | CC-BY-NC-SA | [链接](https://www.inaturalist.org/photos/377195) |
+| 鹿角炭角菌 5 | *Xylaria hypoxylon* | Matthew O'Donnell | CC-BY-NC-SA | [链接](https://www.inaturalist.org/photos/58084295) |
+| 牛舌菌 1 | *Fistulina hepatica* | Jiří Berkovec | CC BY-SA 3.0 | [链接](https://commons.wikimedia.org/wiki/File:Fistulina_hepatica.JPG) |
+| 牛舌菌 2 | *Fistulina hepatica* | mycowalt | CC-BY-SA | [链接](https://www.inaturalist.org/photos/13074462) |
+| 牛舌菌 3 | *Fistulina hepatica* | Kari Pihlaviita | CC-BY-NC | [链接](https://www.inaturalist.org/photos/82194) |
+| 牛舌菌 4 | *Fistulina hepatica* | jan parie | CC-BY-NC-SA | [链接](https://www.inaturalist.org/photos/82195) |
+| 牛舌菌 5 | *Fistulina hepatica* | mycowalt | CC-BY-SA | [链接](https://www.inaturalist.org/photos/13074464) |
+| 桦剥管菌 1 | *Fomitopsis betulina* | Bill MacIndewar | CC-BY-NC | [链接](https://www.inaturalist.org/photos/332872409) |
+| 桦剥管菌 2 | *Fomitopsis betulina* | Deana Tempest Thomas | CC-BY | [链接](https://www.inaturalist.org/photos/96149793) |
+| 桦剥管菌 3 | *Fomitopsis betulina* | Richard Jacob | CC-BY | [链接](https://www.inaturalist.org/photos/25474604) |
+| 桦剥管菌 4 | *Fomitopsis betulina* | Richard Jacob | CC-BY | [链接](https://www.inaturalist.org/photos/25474601) |
+| 桦剥管菌 5 | *Fomitopsis betulina* | pinonbistro | CC-BY-SA | [链接](https://www.inaturalist.org/photos/24547908) |
+| 硬柄小皮伞 1 | *Marasmius oreades* | Strobilomyces | CC BY-SA 3.0 | [链接](https://commons.wikimedia.org/wiki/File:Marasmius_oreades_garden_050829B.JPG) |
+| 硬柄小皮伞 2 | *Marasmius oreades* | Giorgio Bardelli | CC-BY-NC | [链接](https://www.inaturalist.org/photos/35760467) |
+| 硬柄小皮伞 3 | *Marasmius oreades* | sterna_d | CC-BY-NC | [链接](https://www.inaturalist.org/photos/87293768) |
+| 硬柄小皮伞 4 | *Marasmius oreades* | Damon Tighe | CC-BY-NC | [链接](https://www.inaturalist.org/photos/2424593) |
+| 硬柄小皮伞 5 | *Marasmius oreades* | Davide Puddu | CC-BY | [链接](https://www.inaturalist.org/photos/12823596) |
+| 四孢蘑菇 1 | *Agaricus campestris* | 未知作者 | Public domain | [链接](https://commons.wikimedia.org/wiki/File:Agaricus_campestris_(1).jpg) |
+| 四孢蘑菇 2 | *Agaricus campestris* | Felipe Hidalgo | CC-BY-NC | [链接](https://www.inaturalist.org/photos/457253795) |
+| 四孢蘑菇 3 | *Agaricus campestris* | anonymous | CC-BY-SA | [链接](https://www.inaturalist.org/photos/452334488) |
+| 四孢蘑菇 4 | *Agaricus campestris* | Andreas Kunze | CC-BY-SA | [链接](https://www.inaturalist.org/photos/1196316) |
+| 四孢蘑菇 5 | *Agaricus campestris* | franckwic | CC-BY-NC | [链接](https://www.inaturalist.org/photos/308851900) |
+| 晶粒小鬼伞 1 | *Coprinellus micaceus* | Holger Krisp | CC BY 3.0 | [链接](https://commons.wikimedia.org/wiki/File:Coprinellus_micaceus_Glimmer-Tintling.jpg) |
+| 晶粒小鬼伞 2 | *Coprinellus micaceus* | Warren Cardimona | CC-BY-NC | [链接](https://www.inaturalist.org/photos/106456524) |
+| 晶粒小鬼伞 3 | *Coprinellus micaceus* | Stevan Baluban | CC-BY-NC | [链接](https://www.inaturalist.org/photos/233189130) |
+| 晶粒小鬼伞 4 | *Coprinellus micaceus* | Roberto Zanon | CC-BY-SA | [链接](https://www.inaturalist.org/photos/1186973) |
+| 晶粒小鬼伞 5 | *Coprinellus micaceus* | annieswitzer | CC-BY-NC | [链接](https://www.inaturalist.org/photos/295355148) |
+| 铜绿球盖菇 1 | *Stropharia aeruginosa* | James Lindsey | CC BY-SA 3.0 | [链接](https://commons.wikimedia.org/wiki/File:Stropharia.aeruginosa.-.lindsey.jpg) |
+| 铜绿球盖菇 2 | *Stropharia aeruginosa* | Federico Calledda | CC-BY-NC | [链接](https://www.inaturalist.org/photos/171671477) |
+| 铜绿球盖菇 3 | *Stropharia aeruginosa* | Vladimir Meshkov | CC-BY-NC | [链接](https://www.inaturalist.org/photos/26602497) |
+| 铜绿球盖菇 4 | *Stropharia aeruginosa* | Joseba | CC-BY-NC | [链接](https://www.inaturalist.org/photos/136315341) |
+| 铜绿球盖菇 5 | *Stropharia aeruginosa* | Tero Linjama | CC0 | [链接](https://www.inaturalist.org/photos/100632741) |
+| 橙黄网孢盘菌 1 | *Aleuria aurantia* | The High Fin Sperm Whale | CC BY-SA 3.0 | [链接](https://commons.wikimedia.org/wiki/File:Aleuria_aurantia_(Orange_Peel_Fungus).JPG) |
+| 橙黄网孢盘菌 2 | *Aleuria aurantia* | Ken-ichi Ueda | CC-BY | [链接](https://www.inaturalist.org/photos/858) |
+| 橙黄网孢盘菌 3 | *Aleuria aurantia* | Christian Schwarz | CC-BY-NC | [链接](https://www.inaturalist.org/photos/12984846) |
+| 橙黄网孢盘菌 4 | *Aleuria aurantia* | pmdenn | CC-BY-NC | [链接](https://www.inaturalist.org/photos/13138090) |
+| 污白丝盖伞 1 | *Inocybe geophylla* | Luridiformis at en.wikipedia | CC BY 3.0 | [链接](https://commons.wikimedia.org/wiki/File:Ino.geo.jpg) |
+| 污白丝盖伞 2 | *Inocybe geophylla* | chocophile | CC-BY-NC | [链接](https://www.inaturalist.org/photos/598108114) |
+| 污白丝盖伞 3 | *Inocybe geophylla* | Drew T Henderson | CC-BY-NC | [链接](https://www.inaturalist.org/photos/29218884) |
+| 污白丝盖伞 4 | *Inocybe geophylla* | Peter Vahlberg | CC-BY-NC | [链接](https://www.inaturalist.org/photos/31554017) |
+| 污白丝盖伞 5 | *Inocybe geophylla* | meiline | CC-BY-NC | [链接](https://www.inaturalist.org/photos/169149425) |

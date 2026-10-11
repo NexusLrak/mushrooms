@@ -214,7 +214,7 @@ footer { padding: 20px; text-align: center; color: var(--muted); font-size: 12px
   .extract { padding: 6px 12px; margin: 6px 0; }
   .extract b { display: none; }
   .extract p { -webkit-line-clamp: 2; }
-  .d-tags { margin: 8px 0; gap: 4px 12px; }
+  .d-tags { margin: 6px 0; gap: 3px 12px; }
 }
 
 @media (max-width: 760px) {

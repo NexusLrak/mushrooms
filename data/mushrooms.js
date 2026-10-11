@@ -14,6 +14,7 @@ window.MUSHROOMS = [
   ],
   "shape": "伞形",
   "regions": [
+   "英国",
    "欧洲",
    "北美"
   ],
@@ -352,6 +353,7 @@ window.MUSHROOMS = [
   ],
   "shape": "伞形",
   "regions": [
+   "英国",
    "欧洲",
    "北美",
    "东北",
@@ -429,6 +431,7 @@ window.MUSHROOMS = [
   ],
   "shape": "伞形",
   "regions": [
+   "英国",
    "欧洲",
    "东北",
    "华北",
@@ -555,6 +558,7 @@ window.MUSHROOMS = [
   ],
   "shape": "伞形",
   "regions": [
+   "英国",
    "欧洲",
    "北美",
    "东北",
@@ -1145,6 +1149,7 @@ window.MUSHROOMS = [
   ],
   "shape": "伞形",
   "regions": [
+   "英国",
    "欧洲",
    "北美",
    "东北",
@@ -1219,6 +1224,7 @@ window.MUSHROOMS = [
   ],
   "shape": "伞形",
   "regions": [
+   "英国",
    "欧洲",
    "北美",
    "东北",
@@ -1291,6 +1297,7 @@ window.MUSHROOMS = [
   ],
   "shape": "漏斗形",
   "regions": [
+   "英国",
    "欧洲",
    "北美",
    "东北",
@@ -1346,6 +1353,7 @@ window.MUSHROOMS = [
   ],
   "shape": "钟形",
   "regions": [
+   "英国",
    "欧洲",
    "北美",
    "东北",
@@ -1449,7 +1457,6 @@ window.MUSHROOMS = [
    "name": "英文维基百科",
    "url": "https://en.wikipedia.org/wiki/Psilocybe_cubensis"
   },
-  "thumb": "images/thumb/psilocybe-cubensis.webp",
   "images": [
    {
     "src": "images/psilocybe-cubensis-1.webp",
@@ -1466,22 +1473,23 @@ window.MUSHROOMS = [
    {
     "src": "images/psilocybe-cubensis-3.webp",
     "author": "Alan Rockefeller",
-    "license": "CC-BY-SA",
-    "url": "https://www.inaturalist.org/photos/66031958"
-   },
-   {
-    "src": "images/psilocybe-cubensis-4.webp",
-    "author": "Alan Rockefeller",
     "license": "CC-BY",
     "url": "https://www.inaturalist.org/photos/5751847"
    },
    {
-    "src": "images/psilocybe-cubensis-5.webp",
+    "src": "images/psilocybe-cubensis-4.webp",
     "author": "Denis Zabin",
     "license": "CC-BY",
     "url": "https://www.inaturalist.org/photos/251184657"
+   },
+   {
+    "src": "images/psilocybe-cubensis-5.webp",
+    "author": "Alex Abair",
+    "license": "CC-BY",
+    "url": "https://www.inaturalist.org/photos/82779929"
    }
-  ]
+  ],
+  "thumb": "images/thumb/psilocybe-cubensis.webp"
  },
  {
   "latin": "Gymnopilus junonius",
@@ -1495,6 +1503,7 @@ window.MUSHROOMS = [
   ],
   "shape": "伞形",
   "regions": [
+   "英国",
    "欧洲",
    "北美",
    "东北",
@@ -1565,6 +1574,7 @@ window.MUSHROOMS = [
   ],
   "shape": "球形",
   "regions": [
+   "英国",
    "欧洲",
    "北美",
    "华东",
@@ -1639,6 +1649,7 @@ window.MUSHROOMS = [
   ],
   "shape": "漏斗形",
   "regions": [
+   "英国",
    "欧洲",
    "北美",
    "东北",
@@ -1766,6 +1777,7 @@ window.MUSHROOMS = [
   ],
   "shape": "伞形",
   "regions": [
+   "英国",
    "欧洲",
    "北美",
    "华北",
@@ -1909,6 +1921,7 @@ window.MUSHROOMS = [
   ],
   "shape": "钟形",
   "regions": [
+   "英国",
    "欧洲",
    "北美",
    "东北",
@@ -2032,6 +2045,7 @@ window.MUSHROOMS = [
   ],
   "shape": "伞形",
   "regions": [
+   "英国",
    "欧洲",
    "北美",
    "东北",
@@ -2180,6 +2194,7 @@ window.MUSHROOMS = [
   ],
   "shape": "扇形",
   "regions": [
+   "英国",
    "欧洲",
    "北美",
    "东北",
@@ -2744,6 +2759,7 @@ window.MUSHROOMS = [
   ],
   "shape": "蜂窝状",
   "regions": [
+   "英国",
    "欧洲",
    "北美",
    "东北",
@@ -2940,6 +2956,7 @@ window.MUSHROOMS = [
   ],
   "shape": "伞形",
   "regions": [
+   "英国",
    "欧洲",
    "北美",
    "东北",
@@ -3012,6 +3029,7 @@ window.MUSHROOMS = [
   ],
   "shape": "伞形",
   "regions": [
+   "英国",
    "欧洲",
    "北美",
    "东北",
@@ -3084,6 +3102,7 @@ window.MUSHROOMS = [
   ],
   "shape": "漏斗形",
   "regions": [
+   "英国",
    "欧洲",
    "东北",
    "西南",
@@ -3341,6 +3360,7 @@ window.MUSHROOMS = [
   ],
   "shape": "笔形",
   "regions": [
+   "英国",
    "欧洲",
    "北美",
    "东北",
@@ -3458,6 +3478,7 @@ window.MUSHROOMS = [
   ],
   "shape": "漏斗形",
   "regions": [
+   "英国",
    "欧洲",
    "华东",
    "华中",
@@ -3694,6 +3715,7 @@ window.MUSHROOMS = [
   ],
   "shape": "钟形",
   "regions": [
+   "英国",
    "欧洲",
    "北美",
    "东北",
@@ -3842,6 +3864,7 @@ window.MUSHROOMS = [
   ],
   "shape": "伞形",
   "regions": [
+   "英国",
    "欧洲",
    "北美",
    "东北",
@@ -4049,6 +4072,7 @@ window.MUSHROOMS = [
   ],
   "shape": "伞形",
   "regions": [
+   "英国",
    "欧洲",
    "北美",
    "东北",
@@ -4125,6 +4149,7 @@ window.MUSHROOMS = [
    "华北",
    "华东",
    "日本",
+   "英国",
    "欧洲",
    "北美"
   ],
@@ -4187,6 +4212,7 @@ window.MUSHROOMS = [
   ],
   "shape": "珊瑚状",
   "regions": [
+   "英国",
    "欧洲",
    "东北",
    "西南",
@@ -4329,6 +4355,7 @@ window.MUSHROOMS = [
   ],
   "shape": "檐状",
   "regions": [
+   "英国",
    "欧洲",
    "北美",
    "东北",
@@ -4457,6 +4484,7 @@ window.MUSHROOMS = [
   ],
   "shape": "檐状",
   "regions": [
+   "英国",
    "欧洲",
    "北美",
    "东北",
@@ -4515,6 +4543,7 @@ window.MUSHROOMS = [
   ],
   "shape": "檐状",
   "regions": [
+   "英国",
    "欧洲",
    "北美",
    "东北",
@@ -4844,6 +4873,7 @@ window.MUSHROOMS = [
   ],
   "shape": "球形",
   "regions": [
+   "英国",
    "欧洲",
    "北美",
    "东北",
@@ -4912,6 +4942,7 @@ window.MUSHROOMS = [
   ],
   "shape": "球形",
   "regions": [
+   "英国",
    "欧洲",
    "北美",
    "东北",
@@ -4984,6 +5015,7 @@ window.MUSHROOMS = [
   ],
   "shape": "星状",
   "regions": [
+   "英国",
    "欧洲",
    "北美",
    "东北",
@@ -5035,6 +5067,7 @@ window.MUSHROOMS = [
   "shape": "星状",
   "regions": [
    "大洋洲",
+   "英国",
    "欧洲",
    "北美"
   ],
@@ -5237,6 +5270,7 @@ window.MUSHROOMS = [
   ],
   "shape": "伞形",
   "regions": [
+   "英国",
    "欧洲",
    "北美",
    "东北",
@@ -5308,6 +5342,7 @@ window.MUSHROOMS = [
   ],
   "shape": "伞形",
   "regions": [
+   "英国",
    "欧洲",
    "北美",
    "东北",
@@ -5502,6 +5537,7 @@ window.MUSHROOMS = [
   ],
   "shape": "扇形",
   "regions": [
+   "英国",
    "欧洲",
    "北美",
    "东北",
@@ -5564,6 +5600,1454 @@ window.MUSHROOMS = [
     "author": "Jan Thornhill",
     "license": "CC-BY-NC",
     "url": "https://www.inaturalist.org/photos/186221786"
+   }
+  ]
+ },
+ {
+  "latin": "Amanita rubescens",
+  "zh": "赭盖鹅膏",
+  "alias": [
+   "Blusher"
+  ],
+  "colors": [
+   "褐",
+   "粉",
+   "白"
+  ],
+  "shape": "伞形",
+  "regions": [
+   "英国",
+   "欧洲",
+   "东北",
+   "西南"
+  ],
+  "tox": "慎食",
+  "habitat": [
+   "阔叶林",
+   "针叶林",
+   "混交林"
+  ],
+  "season": [
+   "夏",
+   "秋"
+  ],
+  "traits": [
+   "菌根",
+   "伤变色",
+   "有菌环"
+  ],
+  "lookalikes": [
+   "Amanita pantherina"
+  ],
+  "note": "英国林地里最常见的鹅膏之一。菌盖红褐色带灰白鳞片，受伤或虫蛀处慢慢变成酒红色——这是它区别于有毒的豹斑鹅膏的关键。生食有毒（含溶血蛋白），煮透后在欧洲有人食用，但极易认错，不建议尝试。",
+  "id": "amanita-rubescens",
+  "extract": "赭色鹅膏 是一种鹅膏菌属的真菌。当它的子实体被切开时，菌盖内侧会迅速氧化变为粉红色。这是少数几种非常美味的鹅膏菌，辨认它的方式为观察菌托的颜色；若为粉红色，则为赭色鹅膏。虽然它相对于其他鹅膏菌属的近亲较容易辨认；但如果采菇者没有足够的采菇经验，采菇者有可能会把赭色鹅膏与其他种类的鹅膏菌混在一起。\n",
+  "source": {
+   "name": "维基百科",
+   "url": "https://zh.wikipedia.org/wiki/%E8%B5%AD%E8%89%B2%E9%B5%9D%E8%86%8F"
+  },
+  "thumb": "images/thumb/amanita-rubescens.webp",
+  "images": [
+   {
+    "src": "images/amanita-rubescens-1.webp",
+    "author": "No machine-readable author provided. Archenzo assumed (based on copyright claims).",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Amanita_rubescens.JPG"
+   },
+   {
+    "src": "images/amanita-rubescens-2.webp",
+    "author": "Nicoleta",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/618088536"
+   },
+   {
+    "src": "images/amanita-rubescens-3.webp",
+    "author": "Tyler Christensen",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/2122501"
+   },
+   {
+    "src": "images/amanita-rubescens-4.webp",
+    "author": "Scott Ostuni",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/417848476"
+   },
+   {
+    "src": "images/amanita-rubescens-5.webp",
+    "author": "hollyyoung",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/426956990"
+   }
+  ]
+ },
+ {
+  "latin": "Amanita citrina",
+  "zh": "橙黄鹅膏",
+  "alias": [
+   "柠檬黄鹅膏",
+   "False Deathcap"
+  ],
+  "colors": [
+   "黄",
+   "白"
+  ],
+  "shape": "伞形",
+  "regions": [
+   "英国",
+   "欧洲"
+  ],
+  "tox": "不可食",
+  "habitat": [
+   "阔叶林",
+   "针叶林"
+  ],
+  "season": [
+   "夏",
+   "秋"
+  ],
+  "traits": [
+   "菌根",
+   "有菌环",
+   "有菌托"
+  ],
+  "lookalikes": [
+   "Amanita phalloides"
+  ],
+  "note": "山毛榉和栎树林下很常见。菌盖淡柠檬黄，带有白色片状残膜，基部膨大成球，有明显的生土豆气味。本身毒性不大，但外形与毒鹅膏太接近，一律当作不可食。",
+  "id": "amanita-citrina",
+  "extract": "",
+  "source": {
+   "name": "英文维基百科",
+   "url": "https://en.wikipedia.org/wiki/Amanita_citrina"
+  },
+  "thumb": "images/thumb/amanita-citrina.webp",
+  "images": [
+   {
+    "src": "images/amanita-citrina-1.webp",
+    "author": "The High Fin Sperm Whale",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Amanita_sp._2010-10-31.jpg"
+   },
+   {
+    "src": "images/amanita-citrina-2.webp",
+    "author": "Federico Calledda",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/331660393"
+   },
+   {
+    "src": "images/amanita-citrina-3.webp",
+    "author": "lastovka",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/330083084"
+   },
+   {
+    "src": "images/amanita-citrina-4.webp",
+    "author": "Maria Emília Martins",
+    "license": "CC-BY-NC-SA",
+    "url": "https://www.inaturalist.org/photos/335706654"
+   },
+   {
+    "src": "images/amanita-citrina-5.webp",
+    "author": "Светлана Нестерова",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/61701638"
+   }
+  ]
+ },
+ {
+  "latin": "Clitocybe nebularis",
+  "zh": "烟云杯伞",
+  "alias": [
+   "水粉杯伞",
+   "Clouded Funnel"
+  ],
+  "colors": [
+   "灰",
+   "白"
+  ],
+  "shape": "伞形",
+  "regions": [
+   "英国",
+   "欧洲",
+   "北美",
+   "东北",
+   "西北"
+  ],
+  "tox": "慎食",
+  "habitat": [
+   "阔叶林",
+   "针叶林"
+  ],
+  "season": [
+   "秋",
+   "冬"
+  ],
+  "traits": [],
+  "lookalikes": [
+   "Entoloma sinuatum"
+  ],
+  "note": "晚秋在落叶堆上成群或成圈出现的大型灰色蘑菇，菌盖中央颜色较深，像蒙了一层云雾，气味浓重。过去被当作食用菌，但相当一部分人食后会腹痛腹泻，现在多数指南不再推荐。",
+  "id": "clitocybe-nebularis",
+  "extract": "水粉杯伞，分布于台湾，日本，中国，欧洲，北非与北美，为口蘑科植物，也是偶见土栖腐生野菇之一种。此种植物与杯伞相似，不过颜色较似烟云。该菌类生长于夏天的中高海拔林区，数天生，肉质稍脆，菌盖10cm-15cm宽，虽一般认为可食，亦有文献记载食用后会有不适感。\n",
+  "source": {
+   "name": "维基百科",
+   "url": "https://zh.wikipedia.org/wiki/%E6%B0%B4%E7%B2%89%E6%9D%AF%E5%82%98"
+  },
+  "thumb": "images/thumb/clitocybe-nebularis.webp",
+  "images": [
+   {
+    "src": "images/clitocybe-nebularis-1.webp",
+    "author": "Archenzo",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Clitocybe_Nebularis.JPG"
+   },
+   {
+    "src": "images/clitocybe-nebularis-2.webp",
+    "author": "Susana C. Gonçalves",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/172190659"
+   },
+   {
+    "src": "images/clitocybe-nebularis-3.webp",
+    "author": "thephoxinus",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/57001727"
+   },
+   {
+    "src": "images/clitocybe-nebularis-4.webp",
+    "author": "Possums' End",
+    "license": "CC-BY",
+    "url": "https://www.inaturalist.org/photos/28636536"
+   },
+   {
+    "src": "images/clitocybe-nebularis-5.webp",
+    "author": "Tobias Schönberg",
+    "license": "CC0",
+    "url": "https://www.inaturalist.org/photos/54506911"
+   }
+  ]
+ },
+ {
+  "latin": "Laccaria laccata",
+  "zh": "红蜡蘑",
+  "alias": [
+   "漆蜡蘑",
+   "Deceiver"
+  ],
+  "colors": [
+   "褐",
+   "粉",
+   "橙"
+  ],
+  "shape": "伞形",
+  "regions": [
+   "英国",
+   "欧洲",
+   "北美",
+   "东北",
+   "华北",
+   "华东",
+   "西南"
+  ],
+  "tox": "可食用",
+  "habitat": [
+   "阔叶林",
+   "针叶林",
+   "混交林"
+  ],
+  "season": [
+   "夏",
+   "秋"
+  ],
+  "traits": [
+   "菌根"
+  ],
+  "note": "英文名“骗子”，因为它的外观随湿度和老幼变化极大：湿时砖红褐色，干后褪成淡肉色。稳定的特征是厚而稀疏的粉肉色菌褶和纤维质的菌柄。小而常见，可食但价值不高。",
+  "id": "laccaria-laccata",
+  "extract": "红蜡蘑，俗称欺骗者 或蜡质蜡蘑，是一种担子菌门真菌，隶属于蜡蘑属。这种真菌分布于世界各地，也是偶见土栖共生野菇之一种。该种菌类生长于春天至秋天的中低海拔阔叶林区，数天生，肉质具有蜡质，去柄后可食用。\n",
+  "source": {
+   "name": "维基百科",
+   "url": "https://zh.wikipedia.org/wiki/%E7%B4%85%E8%A0%9F%E8%98%91"
+  },
+  "thumb": "images/thumb/laccaria-laccata.webp",
+  "images": [
+   {
+    "src": "images/laccaria-laccata-1.webp",
+    "author": "Strobilomyces",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Laccaria_laccata_041024.jpg"
+   },
+   {
+    "src": "images/laccaria-laccata-2.webp",
+    "author": "Christian Schwarz",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/4135349"
+   },
+   {
+    "src": "images/laccaria-laccata-3.webp",
+    "author": "lightning_whelk",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/109657293"
+   },
+   {
+    "src": "images/laccaria-laccata-4.webp",
+    "author": "Stephanie Calloway",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/5645852"
+   },
+   {
+    "src": "images/laccaria-laccata-5.webp",
+    "author": "Erdi",
+    "license": "CC-BY-NC-SA",
+    "url": "https://www.inaturalist.org/photos/235985330"
+   }
+  ]
+ },
+ {
+  "latin": "Mycena pura",
+  "zh": "洁小菇",
+  "alias": [
+   "粉紫小菇",
+   "Lilac Bonnet"
+  ],
+  "colors": [
+   "紫",
+   "粉"
+  ],
+  "shape": "伞形",
+  "regions": [
+   "英国",
+   "欧洲",
+   "北美",
+   "东北",
+   "华东",
+   "西南"
+  ],
+  "tox": "有毒",
+  "habitat": [
+   "阔叶林",
+   "针叶林"
+  ],
+  "season": [
+   "夏",
+   "秋"
+  ],
+  "traits": [],
+  "lookalikes": [
+   "Laccaria amethystina"
+  ],
+  "note": "淡紫至粉紫色的小蘑菇，生于落叶层，揉碎有明显的萝卜气味。含少量毒蝇碱，不可食。常被当成紫蜡蘑，后者菌褶厚而稀、没有萝卜味。",
+  "id": "mycena-pura",
+  "extract": "洁小菇，分布于温带与暖温带，属口蘑科，色通常为淡紫色。另外，该种野菇也是常见土栖腐生的中小型菇类，生长于春夏季的中海拔林区，数天生，肉质稍脆，有毒性。\n",
+  "source": {
+   "name": "维基百科",
+   "url": "https://zh.wikipedia.org/wiki/%E6%BD%94%E5%B0%8F%E8%8F%87"
+  },
+  "thumb": "images/thumb/mycena-pura.webp",
+  "images": [
+   {
+    "src": "images/mycena-pura-1.webp",
+    "author": "Strobilomyces",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Mycena_rosea_041031w.jpg"
+   },
+   {
+    "src": "images/mycena-pura-2.webp",
+    "author": "Mandy Hackney",
+    "license": "CC-BY",
+    "url": "https://www.inaturalist.org/photos/255904833"
+   },
+   {
+    "src": "images/mycena-pura-3.webp",
+    "author": "Christian Schwarz",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/4135046"
+   },
+   {
+    "src": "images/mycena-pura-4.webp",
+    "author": "noah_siegel",
+    "license": "CC-BY-NC-SA",
+    "url": "https://www.inaturalist.org/photos/4159721"
+   },
+   {
+    "src": "images/mycena-pura-5.webp",
+    "author": "Christian Schwarz",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/4133226"
+   }
+  ]
+ },
+ {
+  "latin": "Oudemansiella mucida",
+  "zh": "黏小奥德蘑",
+  "alias": [
+   "Mucidula mucida",
+   "白环黏奥德蘑",
+   "瓷菇",
+   "Porcelain Fungus"
+  ],
+  "colors": [
+   "白"
+  ],
+  "shape": "伞形",
+  "regions": [
+   "英国",
+   "欧洲",
+   "东北"
+  ],
+  "tox": "慎食",
+  "habitat": [
+   "腐木",
+   "树干"
+  ],
+  "season": [
+   "秋"
+  ],
+  "traits": [
+   "有菌环"
+  ],
+  "note": "几乎只长在山毛榉上，常成串挂在高处的枯枝和树干上。通体象牙白、半透明，表面覆着一层厚黏液，逆光看像瓷器。能分泌抑制其他真菌的物质，嘧菌酯类农用杀菌剂即由此得到启发。洗去黏液煮熟后可食，价值不高。",
+  "id": "oudemansiella-mucida",
+  "extract": "黏小奥德蘑，分布于北半球，属奥德蘑属，色通常为乳白至淡灰褐色。另外，该种野菇也是常见木栖腐生的大型菇类，生长于春夏季的中低海拔林区，数天生，肉质软，可摘取人工栽培等，但是味道野腥。\n",
+  "source": {
+   "name": "维基百科",
+   "url": "https://zh.wikipedia.org/wiki/%E9%BB%8F%E5%B0%8F%E5%A5%A7%E5%BE%B7%E8%98%91"
+  },
+  "thumb": "images/thumb/oudemansiella-mucida.webp",
+  "images": [
+   {
+    "src": "images/oudemansiella-mucida-1.webp",
+    "author": "Jean-Pol GRANDMONT",
+    "license": "CC BY 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Oudemansiella_mucida_JPG1.jpg"
+   },
+   {
+    "src": "images/oudemansiella-mucida-2.webp",
+    "author": "Lisa Schwarz",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/100851266"
+   },
+   {
+    "src": "images/oudemansiella-mucida-3.webp",
+    "author": "Jakob Fahr",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/5422212"
+   },
+   {
+    "src": "images/oudemansiella-mucida-4.webp",
+    "author": "fernslu九妹",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/165895535"
+   },
+   {
+    "src": "images/oudemansiella-mucida-5.webp",
+    "author": "Alexandre Dulaunoy",
+    "license": "CC-BY-SA",
+    "url": "https://www.inaturalist.org/photos/10063"
+   }
+  ]
+ },
+ {
+  "latin": "Pluteus cervinus",
+  "zh": "灰光柄菇",
+  "alias": [
+   "鹿色光柄菇",
+   "Deer Shield"
+  ],
+  "colors": [
+   "褐",
+   "灰",
+   "粉"
+  ],
+  "shape": "伞形",
+  "regions": [
+   "英国",
+   "欧洲",
+   "北美",
+   "东北",
+   "华北",
+   "西南"
+  ],
+  "tox": "可食用",
+  "habitat": [
+   "腐木"
+  ],
+  "season": [
+   "春",
+   "夏",
+   "秋"
+  ],
+  "traits": [],
+  "note": "单生于阔叶树的腐木和木屑上，几乎全年可见。菌盖灰褐色，菌褶与菌柄不相连（离生），由白色逐渐变成粉红色。可食但味道平淡。",
+  "id": "pluteus-cervinus",
+  "extract": "",
+  "source": {
+   "name": "英文维基百科",
+   "url": "https://en.wikipedia.org/wiki/Pluteus_cervinus"
+  },
+  "thumb": "images/thumb/pluteus-cervinus.webp",
+  "images": [
+   {
+    "src": "images/pluteus-cervinus-1.webp",
+    "author": "Reinhold Möller Ermell",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Rehbrauner_Dachpilz_Bruderwald-20251017-RM-164830.jpg"
+   }
+  ]
+ },
+ {
+  "latin": "Russula cyanoxantha",
+  "zh": "蓝黄红菇",
+  "alias": [
+   "花盖红菇",
+   "Charcoal Burner"
+  ],
+  "colors": [
+   "紫",
+   "绿",
+   "灰"
+  ],
+  "shape": "伞形",
+  "regions": [
+   "英国",
+   "欧洲",
+   "东北",
+   "华东",
+   "华中",
+   "华南",
+   "西南"
+  ],
+  "tox": "可食用",
+  "habitat": [
+   "阔叶林",
+   "混交林"
+  ],
+  "season": [
+   "夏",
+   "秋"
+  ],
+  "traits": [
+   "菌根"
+  ],
+  "note": "菌盖颜色像烧炭的余烬，紫、灰、绿混杂。在红菇属里很特别：菌褶柔韧有油腻感，用手指抹过不会碎裂，其他红菇的菌褶一碰就碎。山毛榉林下常见，是欧洲公认的优质食用红菇。",
+  "id": "russula-cyanoxantha",
+  "extract": "蓝黄红菇，俗称烧炭者，是一种担子菌门真菌，隶属于俗称脆褶（Brittlegill）的红菇属。这种真菌在欧洲是最常见的红菇属真菌，并且主要在夏季至初秋期间出现。这种真菌菇类非常美味，并且在1997年获得德国真菌协会 评选为“年度蘑菇”。\n",
+  "source": {
+   "name": "维基百科",
+   "url": "https://zh.wikipedia.org/wiki/%E8%97%8D%E9%BB%83%E7%B4%85%E8%8F%87"
+  },
+  "thumb": "images/thumb/russula-cyanoxantha.webp",
+  "images": [
+   {
+    "src": "images/russula-cyanoxantha-1.webp",
+    "author": "未知作者",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Russula_cyanoxantha.JPG"
+   },
+   {
+    "src": "images/russula-cyanoxantha-2.webp",
+    "author": "Federico Calledda",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/128039200"
+   },
+   {
+    "src": "images/russula-cyanoxantha-3.webp",
+    "author": "GLJIVARSKO DRUSTVO NIS",
+    "license": "CC-BY",
+    "url": "https://www.inaturalist.org/photos/2340049"
+   },
+   {
+    "src": "images/russula-cyanoxantha-4.webp",
+    "author": "GLJIVARSKO DRUSTVO NIS",
+    "license": "CC-BY",
+    "url": "https://www.inaturalist.org/photos/2340048"
+   },
+   {
+    "src": "images/russula-cyanoxantha-5.webp",
+    "author": "Jason Hollinger",
+    "license": "CC-BY",
+    "url": "https://www.inaturalist.org/photos/2340047"
+   }
+  ]
+ },
+ {
+  "latin": "Imleria badia",
+  "zh": "褐绒盖牛肝菌",
+  "alias": [
+   "栗色牛肝菌",
+   "Bay Bolete"
+  ],
+  "colors": [
+   "褐",
+   "黄"
+  ],
+  "shape": "伞形",
+  "regions": [
+   "英国",
+   "欧洲",
+   "北美",
+   "西南"
+  ],
+  "tox": "可食用",
+  "habitat": [
+   "针叶林",
+   "混交林"
+  ],
+  "season": [
+   "夏",
+   "秋"
+  ],
+  "traits": [
+   "菌根",
+   "伤变蓝"
+  ],
+  "lookalikes": [
+   "Boletus edulis",
+   "Tylopilus felleus"
+  ],
+  "note": "菌盖栗褐色，湿时略黏；菌孔淡黄，按压后变蓝绿色。菌柄没有美味牛肝菌那样的白色网纹。味道好且很少生虫。它富集放射性铯的能力很强，切尔诺贝利事故后在欧洲部分地区曾被限制食用。",
+  "id": "imleria-badia",
+  "extract": "褐绒盖牛肝菌 是欧洲及北美洲一种很普遍的可食牛肝菌。它们虽与美味牛肝菌不怎么接近，但一些学者，如安东尼奥·卡路奇欧，仍高度赞扬这种食物。\n",
+  "source": {
+   "name": "维基百科",
+   "url": "https://zh.wikipedia.org/wiki/%E8%A4%90%E7%BB%92%E7%9B%96%E7%89%9B%E8%82%9D%E8%8F%8C"
+  },
+  "thumb": "images/thumb/imleria-badia.webp",
+  "images": [
+   {
+    "src": "images/imleria-badia-1.webp",
+    "author": "Jean-Pol GRANDMONT",
+    "license": "CC BY 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Boletus_badius_JPG1.jpg"
+   },
+   {
+    "src": "images/imleria-badia-2.webp",
+    "author": "Federico Calledda",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/110384969"
+   },
+   {
+    "src": "images/imleria-badia-3.webp",
+    "author": "\nAndre Fischer",
+    "license": "CC-BY",
+    "url": "https://www.inaturalist.org/photos/596936490"
+   },
+   {
+    "src": "images/imleria-badia-4.webp",
+    "author": "\nJörn Wildberger",
+    "license": "CC-BY",
+    "url": "https://www.inaturalist.org/photos/596936493"
+   },
+   {
+    "src": "images/imleria-badia-5.webp",
+    "author": "Davide Puddu",
+    "license": "CC-BY",
+    "url": "https://www.inaturalist.org/photos/29239645"
+   }
+  ]
+ },
+ {
+  "latin": "Hydnum repandum",
+  "zh": "卷缘齿菌",
+  "alias": [
+   "美味齿菌",
+   "Wood Hedgehog"
+  ],
+  "colors": [
+   "白",
+   "橙",
+   "黄"
+  ],
+  "shape": "齿状",
+  "regions": [
+   "英国",
+   "欧洲",
+   "北美",
+   "东北",
+   "西南"
+  ],
+  "tox": "可食用",
+  "habitat": [
+   "阔叶林",
+   "针叶林"
+  ],
+  "season": [
+   "夏",
+   "秋"
+  ],
+  "traits": [
+   "菌根"
+  ],
+  "note": "菌盖下面不是菌褶也不是菌孔，而是密密的软刺，一看便知，因此被认为是最适合初学者的食用菌之一。菌盖奶油色至淡橙色，形状不规则。老熟后略苦。",
+  "id": "hydnum-repandum",
+  "extract": "美味齿菌(拉丁语：Hydnum repandum)是齿菌科齿菌属的一种真菌，可以食用。\n",
+  "source": {
+   "name": "维基百科",
+   "url": "https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%91%B3%E9%BD%BF%E8%8F%8C"
+  },
+  "thumb": "images/thumb/hydnum-repandum.webp",
+  "images": [
+   {
+    "src": "images/hydnum-repandum-1.webp",
+    "author": "D J Kelly",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File:Hedgehog_fungi2.jpg"
+   },
+   {
+    "src": "images/hydnum-repandum-2.webp",
+    "author": "Piotr Lukasik",
+    "license": "CC-BY",
+    "url": "https://www.inaturalist.org/photos/102523946"
+   },
+   {
+    "src": "images/hydnum-repandum-3.webp",
+    "author": "Paul Cools",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/1871609"
+   },
+   {
+    "src": "images/hydnum-repandum-4.webp",
+    "author": "Christian Apschner",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/115892349"
+   },
+   {
+    "src": "images/hydnum-repandum-5.webp",
+    "author": "Иван Матершев",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/175536711"
+   }
+  ]
+ },
+ {
+  "latin": "Craterellus cornucopioides",
+  "zh": "灰喇叭菌",
+  "alias": [
+   "灰号角",
+   "死亡号角",
+   "Horn of Plenty"
+  ],
+  "colors": [
+   "黑",
+   "灰",
+   "褐"
+  ],
+  "shape": "漏斗形",
+  "regions": [
+   "英国",
+   "欧洲",
+   "北美",
+   "华东",
+   "西南"
+  ],
+  "tox": "可食用",
+  "habitat": [
+   "阔叶林"
+  ],
+  "season": [
+   "夏",
+   "秋"
+  ],
+  "traits": [
+   "菌根"
+  ],
+  "note": "中空的黑褐色喇叭，外侧灰色、平滑无褶，成群藏在山毛榉的落叶里，颜色与落叶融为一体，极难发现。名字吓人但是优质食用菌，晒干后香气更浓。",
+  "id": "craterellus-cornucopioides",
+  "extract": "",
+  "source": {
+   "name": "英文维基百科",
+   "url": "https://en.wikipedia.org/wiki/Craterellus_cornucopioides"
+  },
+  "thumb": "images/thumb/craterellus-cornucopioides.webp",
+  "images": [
+   {
+    "src": "images/craterellus-cornucopioides-1.webp",
+    "author": "Jean-Pol GRANDMONT",
+    "license": "CC BY 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Craterellus_cornucopioides_JPG1.jpg"
+   },
+   {
+    "src": "images/craterellus-cornucopioides-2.webp",
+    "author": "Paul George",
+    "license": "CC-BY-NC-SA",
+    "url": "https://www.inaturalist.org/photos/33343395"
+   },
+   {
+    "src": "images/craterellus-cornucopioides-3.webp",
+    "author": "Davide Puddu",
+    "license": "CC-BY",
+    "url": "https://www.inaturalist.org/photos/6983708"
+   },
+   {
+    "src": "images/craterellus-cornucopioides-4.webp",
+    "author": "tomasz przechlewski",
+    "license": "CC-BY",
+    "url": "https://www.inaturalist.org/photos/989"
+   },
+   {
+    "src": "images/craterellus-cornucopioides-5.webp",
+    "author": "Leena Aarnio",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/5542934"
+   }
+  ]
+ },
+ {
+  "latin": "Xylaria hypoxylon",
+  "zh": "鹿角炭角菌",
+  "alias": [
+   "烛芯菌",
+   "Candlesnuff Fungus"
+  ],
+  "colors": [
+   "黑",
+   "白"
+  ],
+  "shape": "棒状",
+  "regions": [
+   "英国",
+   "欧洲",
+   "北美",
+   "东北",
+   "华东",
+   "西南"
+  ],
+  "tox": "不可食",
+  "habitat": [
+   "腐木"
+  ],
+  "season": [
+   "春",
+   "夏",
+   "秋",
+   "冬"
+  ],
+  "traits": [],
+  "note": "英国林地里全年都能见到的小型真菌，从树桩和枯枝上长出几厘米高的扁平分叉，下部黑色，顶端覆着白色粉末，像掐灭的烛芯。质地坚韧，不可食。",
+  "id": "xylaria-hypoxylon",
+  "extract": "",
+  "source": {
+   "name": "英文维基百科",
+   "url": "https://en.wikipedia.org/wiki/Xylaria_hypoxylon"
+  },
+  "thumb": "images/thumb/xylaria-hypoxylon.webp",
+  "images": [
+   {
+    "src": "images/xylaria-hypoxylon-1.webp",
+    "author": "Norbert Nagel",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Geweihf%C3%B6rmige_Holzkeule_-_Staghorn_fungus_-_Xylaria_hypoxylon_-_01.jpg"
+   },
+   {
+    "src": "images/xylaria-hypoxylon-2.webp",
+    "author": "Urszula Wojciechowska",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/120304519"
+   },
+   {
+    "src": "images/xylaria-hypoxylon-3.webp",
+    "author": "Peri Lee Pipkin",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/169607215"
+   },
+   {
+    "src": "images/xylaria-hypoxylon-4.webp",
+    "author": "Rob Curtis",
+    "license": "CC-BY-NC-SA",
+    "url": "https://www.inaturalist.org/photos/377195"
+   },
+   {
+    "src": "images/xylaria-hypoxylon-5.webp",
+    "author": "Matthew O'Donnell",
+    "license": "CC-BY-NC-SA",
+    "url": "https://www.inaturalist.org/photos/58084295"
+   }
+  ]
+ },
+ {
+  "latin": "Fistulina hepatica",
+  "zh": "牛舌菌",
+  "alias": [
+   "肝色牛排菌",
+   "Beefsteak Fungus"
+  ],
+  "colors": [
+   "红",
+   "褐"
+  ],
+  "shape": "檐状",
+  "regions": [
+   "英国",
+   "欧洲",
+   "北美",
+   "华南",
+   "西南"
+  ],
+  "tox": "可食用",
+  "habitat": [
+   "树干"
+  ],
+  "season": [
+   "夏",
+   "秋"
+  ],
+  "traits": [],
+  "note": "长在栎树和栗树树干基部，外形和颜色像一块生牛肝或牛舌，切开会渗出红色汁液，断面有肉一样的纹理。可食，味酸。被它侵染的栎木会变成深褐色，在家具业反而更值钱。",
+  "id": "fistulina-hepatica",
+  "extract": "",
+  "source": {
+   "name": "英文维基百科",
+   "url": "https://en.wikipedia.org/wiki/Fistulina_hepatica"
+  },
+  "thumb": "images/thumb/fistulina-hepatica.webp",
+  "images": [
+   {
+    "src": "images/fistulina-hepatica-1.webp",
+    "author": "Jiří Berkovec",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Fistulina_hepatica.JPG"
+   },
+   {
+    "src": "images/fistulina-hepatica-2.webp",
+    "author": "mycowalt",
+    "license": "CC-BY-SA",
+    "url": "https://www.inaturalist.org/photos/13074462"
+   },
+   {
+    "src": "images/fistulina-hepatica-3.webp",
+    "author": "Kari Pihlaviita",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/82194"
+   },
+   {
+    "src": "images/fistulina-hepatica-4.webp",
+    "author": "jan parie",
+    "license": "CC-BY-NC-SA",
+    "url": "https://www.inaturalist.org/photos/82195"
+   },
+   {
+    "src": "images/fistulina-hepatica-5.webp",
+    "author": "mycowalt",
+    "license": "CC-BY-SA",
+    "url": "https://www.inaturalist.org/photos/13074464"
+   }
+  ]
+ },
+ {
+  "latin": "Fomitopsis betulina",
+  "zh": "桦剥管菌",
+  "alias": [
+   "桦滴孔菌",
+   "Birch Polypore"
+  ],
+  "colors": [
+   "白",
+   "褐"
+  ],
+  "shape": "檐状",
+  "regions": [
+   "英国",
+   "欧洲",
+   "北美",
+   "东北",
+   "西北"
+  ],
+  "tox": "不可食",
+  "habitat": [
+   "树干"
+  ],
+  "season": [
+   "春",
+   "夏",
+   "秋",
+   "冬"
+  ],
+  "traits": [
+   "药用"
+  ],
+  "lookalikes": [
+   "Fomes fomentarius"
+  ],
+  "note": "只长在桦树上，英国有桦树的地方几乎都能找到。菌盖浅褐色、光滑，边缘圆钝内卷，下面是白色的菌孔。质地似软木，过去用来磨剃刀。冰人奥茨随身带着两块，可能用作药物。",
+  "id": "fomitopsis-betulina",
+  "extract": "白桦菌菇 是一种常见的多孔菌，白桦菌菇几乎只生长在桦树上。桦树上的担子果可以保存一年多的时间。\n",
+  "source": {
+   "name": "维基百科",
+   "url": "https://zh.wikipedia.org/wiki/%E7%99%BD%E6%A8%BA%E8%8F%8C%E8%8F%87"
+  },
+  "thumb": "images/thumb/fomitopsis-betulina.webp",
+  "images": [
+   {
+    "src": "images/fomitopsis-betulina-1.webp",
+    "author": "Bill MacIndewar",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/332872409"
+   },
+   {
+    "src": "images/fomitopsis-betulina-2.webp",
+    "author": "Deana Tempest Thomas",
+    "license": "CC-BY",
+    "url": "https://www.inaturalist.org/photos/96149793"
+   },
+   {
+    "src": "images/fomitopsis-betulina-3.webp",
+    "author": "Richard Jacob",
+    "license": "CC-BY",
+    "url": "https://www.inaturalist.org/photos/25474604"
+   },
+   {
+    "src": "images/fomitopsis-betulina-4.webp",
+    "author": "Richard Jacob",
+    "license": "CC-BY",
+    "url": "https://www.inaturalist.org/photos/25474601"
+   },
+   {
+    "src": "images/fomitopsis-betulina-5.webp",
+    "author": "pinonbistro",
+    "license": "CC-BY-SA",
+    "url": "https://www.inaturalist.org/photos/24547908"
+   }
+  ]
+ },
+ {
+  "latin": "Marasmius oreades",
+  "zh": "硬柄小皮伞",
+  "alias": [
+   "仙环小皮伞",
+   "Fairy Ring Champignon"
+  ],
+  "colors": [
+   "褐",
+   "黄"
+  ],
+  "shape": "伞形",
+  "regions": [
+   "英国",
+   "欧洲",
+   "北美",
+   "东北",
+   "华北",
+   "西北",
+   "青藏高原"
+  ],
+  "tox": "可食用",
+  "habitat": [
+   "草地"
+  ],
+  "season": [
+   "春",
+   "夏",
+   "秋"
+  ],
+  "traits": [],
+  "note": "草坪上“蘑菇圈”最常见的制造者。菌盖淡皮革色、中央隆起，菌褶稀疏，菌柄细而坚韧、弯折不断。晒干后遇水能复原。可食，但同样长在草坪上的几种白色小杯伞含毒蝇碱，可致命，必须分清。",
+  "id": "marasmius-oreades",
+  "extract": "硬柄小皮伞，分布于北半球地区，属小皮伞属，色通常为土黄褐色。另外，该种野菇也是上述地区偶见土栖腐生的中小型菇类，生长于该地区夏季的低海拔林区，数天生，肉质坚韧，可食用且可制药。可用于修复被铋污染的土壤。\n",
+  "source": {
+   "name": "维基百科",
+   "url": "https://zh.wikipedia.org/wiki/%E7%A1%AC%E6%9F%84%E5%B0%8F%E7%9A%AE%E5%82%98"
+  },
+  "thumb": "images/thumb/marasmius-oreades.webp",
+  "images": [
+   {
+    "src": "images/marasmius-oreades-1.webp",
+    "author": "Strobilomyces",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Marasmius_oreades_garden_050829B.JPG"
+   },
+   {
+    "src": "images/marasmius-oreades-2.webp",
+    "author": "Giorgio Bardelli",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/35760467"
+   },
+   {
+    "src": "images/marasmius-oreades-3.webp",
+    "author": "sterna_d",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/87293768"
+   },
+   {
+    "src": "images/marasmius-oreades-4.webp",
+    "author": "Damon Tighe",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/2424593"
+   },
+   {
+    "src": "images/marasmius-oreades-5.webp",
+    "author": "Davide Puddu",
+    "license": "CC-BY",
+    "url": "https://www.inaturalist.org/photos/12823596"
+   }
+  ]
+ },
+ {
+  "latin": "Agaricus campestris",
+  "zh": "四孢蘑菇",
+  "alias": [
+   "蘑菇",
+   "田野蘑菇",
+   "Field Mushroom"
+  ],
+  "colors": [
+   "白",
+   "粉",
+   "褐"
+  ],
+  "shape": "伞形",
+  "regions": [
+   "英国",
+   "欧洲",
+   "北美",
+   "东北",
+   "华北",
+   "西北",
+   "西南"
+  ],
+  "tox": "可食用",
+  "habitat": [
+   "草地"
+  ],
+  "season": [
+   "夏",
+   "秋"
+  ],
+  "traits": [
+   "有菌环"
+  ],
+  "lookalikes": [
+   "Agaricus xanthodermus",
+   "Amanita virosa"
+  ],
+  "note": "牧场和草地上的传统野生食用菌，双孢蘑菇的近亲。菌盖白色，菌褶幼时鲜粉红、成熟后变巧克力褐色。两个必须排除的相似种：擦伤变鲜黄、有墨水味的黄斑蘑菇，以及菌褶始终纯白、基部有菌托的白色鹅膏。",
+  "id": "agaricus-campestris",
+  "extract": "四孢蘑菇 又称为野蘑菇，是一种可食菌类，分布于全世界，与俗称洋菇的双孢蘑菇 为近缘种。\n",
+  "source": {
+   "name": "维基百科",
+   "url": "https://zh.wikipedia.org/wiki/%E5%9B%9B%E5%AD%A2%E8%98%91%E8%8F%87"
+  },
+  "thumb": "images/thumb/agaricus-campestris.webp",
+  "images": [
+   {
+    "src": "images/agaricus-campestris-1.webp",
+    "author": "未知作者",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File:Agaricus_campestris_(1).jpg"
+   },
+   {
+    "src": "images/agaricus-campestris-2.webp",
+    "author": "Felipe Hidalgo",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/457253795"
+   },
+   {
+    "src": "images/agaricus-campestris-3.webp",
+    "author": "anonymous",
+    "license": "CC-BY-SA",
+    "url": "https://www.inaturalist.org/photos/452334488"
+   },
+   {
+    "src": "images/agaricus-campestris-4.webp",
+    "author": "Andreas Kunze",
+    "license": "CC-BY-SA",
+    "url": "https://www.inaturalist.org/photos/1196316"
+   },
+   {
+    "src": "images/agaricus-campestris-5.webp",
+    "author": "franckwic",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/308851900"
+   }
+  ]
+ },
+ {
+  "latin": "Coprinellus micaceus",
+  "zh": "晶粒小鬼伞",
+  "alias": [
+   "晶粒鬼伞",
+   "Glistening Inkcap"
+  ],
+  "colors": [
+   "褐",
+   "黄"
+  ],
+  "shape": "钟形",
+  "regions": [
+   "英国",
+   "欧洲",
+   "北美",
+   "东北",
+   "华北",
+   "华东",
+   "华中",
+   "西南",
+   "西北"
+  ],
+  "tox": "慎食",
+  "habitat": [
+   "腐木"
+  ],
+  "season": [
+   "春",
+   "夏",
+   "秋"
+  ],
+  "traits": [
+   "自溶"
+  ],
+  "lookalikes": [
+   "Coprinopsis atramentaria"
+  ],
+  "note": "在树桩和埋在土里的朽木上密集丛生，城市公园里也很常见。幼时黄褐色的钟形菌盖上撒着一层云母般闪光的细粒，雨后即被冲掉。成熟后自溶变黑。幼嫩时可食，但极易腐败。",
+  "id": "coprinellus-micaceus",
+  "extract": "",
+  "source": {
+   "name": "英文维基百科",
+   "url": "https://en.wikipedia.org/wiki/Coprinellus_micaceus"
+  },
+  "thumb": "images/thumb/coprinellus-micaceus.webp",
+  "images": [
+   {
+    "src": "images/coprinellus-micaceus-1.webp",
+    "author": "Holger Krisp",
+    "license": "CC BY 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Coprinellus_micaceus_Glimmer-Tintling.jpg"
+   },
+   {
+    "src": "images/coprinellus-micaceus-2.webp",
+    "author": "Warren Cardimona",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/106456524"
+   },
+   {
+    "src": "images/coprinellus-micaceus-3.webp",
+    "author": "Stevan Baluban",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/233189130"
+   },
+   {
+    "src": "images/coprinellus-micaceus-4.webp",
+    "author": "Roberto Zanon",
+    "license": "CC-BY-SA",
+    "url": "https://www.inaturalist.org/photos/1186973"
+   },
+   {
+    "src": "images/coprinellus-micaceus-5.webp",
+    "author": "annieswitzer",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/295355148"
+   }
+  ]
+ },
+ {
+  "latin": "Stropharia aeruginosa",
+  "zh": "铜绿球盖菇",
+  "alias": [
+   "铜绿菇",
+   "Verdigris Agaric"
+  ],
+  "colors": [
+   "蓝",
+   "绿"
+  ],
+  "shape": "伞形",
+  "regions": [
+   "英国",
+   "欧洲",
+   "北美",
+   "东北",
+   "西南"
+  ],
+  "tox": "不可食",
+  "habitat": [
+   "阔叶林",
+   "草地",
+   "腐木"
+  ],
+  "season": [
+   "夏",
+   "秋"
+  ],
+  "traits": [
+   "有菌环"
+  ],
+  "note": "少见的蓝绿色蘑菇。幼时菌盖铜绿色、黏滑，边缘挂着白色絮状鳞片，老后褪成黄褐色。毒性说法不一，一般列为不可食。",
+  "id": "stropharia-aeruginosa",
+  "extract": "铜绿球盖菇，俗称铜绿伞菌，是一种体形中等，粘糊糊的绿色疏林真菌，能于春天到秋天期间在草坪、盖土和林地上找到。这种真菌的可食性现在仍存在争议，部分学者指出这种真菌是可供食用的，而部分学者则认为它们是有毒的，尽管其有毒成分和中毒症状仍为未知。\n",
+  "source": {
+   "name": "维基百科",
+   "url": "https://zh.wikipedia.org/wiki/%E9%8A%85%E7%B6%A0%E7%90%83%E8%93%8B%E8%8F%87"
+  },
+  "thumb": "images/thumb/stropharia-aeruginosa.webp",
+  "images": [
+   {
+    "src": "images/stropharia-aeruginosa-1.webp",
+    "author": "James Lindsey",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Stropharia.aeruginosa.-.lindsey.jpg"
+   },
+   {
+    "src": "images/stropharia-aeruginosa-2.webp",
+    "author": "Federico Calledda",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/171671477"
+   },
+   {
+    "src": "images/stropharia-aeruginosa-3.webp",
+    "author": "Vladimir Meshkov",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/26602497"
+   },
+   {
+    "src": "images/stropharia-aeruginosa-4.webp",
+    "author": "Joseba",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/136315341"
+   },
+   {
+    "src": "images/stropharia-aeruginosa-5.webp",
+    "author": "Tero Linjama",
+    "license": "CC0",
+    "url": "https://www.inaturalist.org/photos/100632741"
+   }
+  ]
+ },
+ {
+  "latin": "Aleuria aurantia",
+  "zh": "橙黄网孢盘菌",
+  "alias": [
+   "橘皮菌",
+   "Orange Peel Fungus"
+  ],
+  "colors": [
+   "橙"
+  ],
+  "shape": "杯状",
+  "regions": [
+   "英国",
+   "欧洲",
+   "北美",
+   "东北",
+   "西南"
+  ],
+  "tox": "不可食",
+  "habitat": [
+   "阔叶林",
+   "草地"
+  ],
+  "season": [
+   "夏",
+   "秋"
+  ],
+  "traits": [],
+  "note": "看上去像有人把橘子皮丢在了路边。鲜橙色的薄杯，常成群长在林道、碎石路边等被扰动过的裸土上，外侧颜色较浅、有白霜。无毒，但薄脆无味。",
+  "id": "aleuria-aurantia",
+  "extract": "",
+  "source": {
+   "name": "英文维基百科",
+   "url": "https://en.wikipedia.org/wiki/Aleuria_aurantia"
+  },
+  "thumb": "images/thumb/aleuria-aurantia.webp",
+  "images": [
+   {
+    "src": "images/aleuria-aurantia-1.webp",
+    "author": "The High Fin Sperm Whale",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Aleuria_aurantia_(Orange_Peel_Fungus).JPG"
+   },
+   {
+    "src": "images/aleuria-aurantia-2.webp",
+    "author": "Ken-ichi Ueda",
+    "license": "CC-BY",
+    "url": "https://www.inaturalist.org/photos/858"
+   },
+   {
+    "src": "images/aleuria-aurantia-3.webp",
+    "author": "Christian Schwarz",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/12984846"
+   },
+   {
+    "src": "images/aleuria-aurantia-4.webp",
+    "author": "pmdenn",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/13138090"
+   }
+  ]
+ },
+ {
+  "latin": "Inocybe geophylla",
+  "zh": "污白丝盖伞",
+  "alias": [
+   "土味丝盖伞",
+   "White Fibrecap"
+  ],
+  "colors": [
+   "白",
+   "紫"
+  ],
+  "shape": "钟形",
+  "regions": [
+   "英国",
+   "欧洲",
+   "北美",
+   "东北",
+   "西南"
+  ],
+  "tox": "有毒",
+  "habitat": [
+   "阔叶林",
+   "针叶林"
+  ],
+  "season": [
+   "夏",
+   "秋"
+  ],
+  "traits": [
+   "菌根"
+  ],
+  "lookalikes": [
+   "Laccaria amethystina",
+   "Mycena pura"
+  ],
+  "note": "林间小路边很常见的小蘑菇，菌盖圆锥形、丝光白色，中央有尖突；另有淡紫色的变种。含毒蝇碱，引起大汗、流涎、心率减慢。丝盖伞属种类多、普遍有毒，这类不起眼的褐白色小伞一律不要碰。",
+  "id": "inocybe-geophylla",
+  "extract": "污白丝盖伞，俗称朴实丝盖伞 、普通白丝盖伞 或以白色纤维盖，是一种担子菌门真菌，隶属于丝盖伞属。这种真菌广泛地分布于欧洲和北美洲，并且于夏季和秋季在针叶树和落叶树下生长。这种真菌体形细小，呈白色，并且有壳顶。\n",
+  "source": {
+   "name": "维基百科",
+   "url": "https://zh.wikipedia.org/wiki/%E6%B1%A1%E7%99%BD%E7%B5%B2%E8%93%8B%E5%82%98"
+  },
+  "thumb": "images/thumb/inocybe-geophylla.webp",
+  "images": [
+   {
+    "src": "images/inocybe-geophylla-1.webp",
+    "author": "Luridiformis at en.wikipedia",
+    "license": "CC BY 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Ino.geo.jpg"
+   },
+   {
+    "src": "images/inocybe-geophylla-2.webp",
+    "author": "chocophile",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/598108114"
+   },
+   {
+    "src": "images/inocybe-geophylla-3.webp",
+    "author": "Drew T Henderson",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/29218884"
+   },
+   {
+    "src": "images/inocybe-geophylla-4.webp",
+    "author": "Peter Vahlberg",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/31554017"
+   },
+   {
+    "src": "images/inocybe-geophylla-5.webp",
+    "author": "meiline",
+    "license": "CC-BY-NC",
+    "url": "https://www.inaturalist.org/photos/169149425"
    }
   ]
  }

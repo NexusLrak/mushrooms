@@ -143,6 +143,49 @@ async function inatLookup(latins) {
   return Object.fromEntries(Object.entries(idOf).map(([latin, id]) => [latin, photosOf[id] || []]));
 }
 
+// ---------- 查重 ----------
+// 同一位作者常把同一张照片分别传到维基共享资源和 iNaturalist，且裁切范围不同，
+// 所以不能比文件或整幅画面：把一张图的各种裁切窗口与另一张整幅做归一化互相关，
+// 取最高分。只在作者相同的图片之间比较，分数超过 SAME_SHOT 视为同一张照片。
+const SAME_SHOT = 0.88;
+const G = 96, P = 32;
+const WIN_SCALES = [1, 0.95, 0.9, 0.85, 0.8, 0.75, 0.7, 0.65, 0.6];
+const WIN_OFFSETS = [0, 0.125, 0.25, 0.375, 0.5, 0.625, 0.75, 0.875, 1];
+const grayOf = (file) => sharp(file).rotate().greyscale().resize(G, G, { fit: 'fill' }).raw().toBuffer();
+
+// 把灰度图的一个窗口重采样成 PxP 并标准化（零均值、单位长度），点积即相关系数
+function patch(g, x0, y0, w, h) {
+  const p = new Float64Array(P * P);
+  let mean = 0;
+  for (let y = 0; y < P; y++) for (let x = 0; x < P; x++) {
+    const v = g[Math.min(G - 1, Math.floor(y0 + ((y + 0.5) * h) / P)) * G + Math.min(G - 1, Math.floor(x0 + ((x + 0.5) * w) / P))];
+    p[y * P + x] = v;
+    mean += v;
+  }
+  mean /= p.length;
+  let ss = 0;
+  for (let i = 0; i < p.length; i++) { p[i] -= mean; ss += p[i] * p[i]; }
+  const norm = Math.sqrt(ss) || 1;
+  for (let i = 0; i < p.length; i++) p[i] /= norm;
+  return p;
+}
+
+function bestWindow(g, whole) {
+  let best = -1;
+  for (const sx of WIN_SCALES) for (const sy of WIN_SCALES) {
+    for (const ox of sx === 1 ? [0] : WIN_OFFSETS) for (const oy of sy === 1 ? [0] : WIN_OFFSETS) {
+      const p = patch(g, (G - G * sx) * ox, (G - G * sy) * oy, G * sx, G * sy);
+      let s = 0;
+      for (let i = 0; i < p.length; i++) s += p[i] * whole[i];
+      if (s > best) best = s;
+    }
+  }
+  return best;
+}
+
+const sameShot = (a, b) => Math.max(bestWindow(a, patch(b, 0, 0, G, G)), bestWindow(b, patch(a, 0, 0, G, G))) >= SAME_SHOT;
+const authorKey = (s) => (s || '').trim().toLowerCase();
+
 // ---------- 单个物种 ----------
 const slugOf = (latin) => latin.toLowerCase().replace(/[^a-z]+/g, '-');
 
@@ -177,6 +220,7 @@ async function build(sp, en, inat) {
   candidates.push(...(inat || []));
 
   out.images = [];
+  const kept = []; // 已采用图片的 { author, gray }，用于查重
   for (const c of candidates) {
     if (out.images.length >= MAX_IMAGES) break;
     const raw = c.file || await fetchRaw(c.from);
@@ -184,6 +228,12 @@ async function build(sp, en, inat) {
     const n = out.images.length + 1;
     const src = `images/${slug}-${n}.webp`;
     try {
+      const gray = await grayOf(raw);
+      if (kept.some((k) => k.author === authorKey(c.author) && sameShot(k.gray, gray))) {
+        console.log(`    - ${sp.zh}：跳过重复图片 ${c.url || c.from}`);
+        continue;
+      }
+      kept.push({ author: authorKey(c.author), gray });
       const img = sharp(raw).rotate();
       await img.clone().resize(FULL.size, FULL.size, { fit: 'inside', withoutEnlargement: true })
         .webp({ quality: FULL.quality }).toFile(join(ROOT, src));
